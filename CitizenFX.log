@@ -1,0 +1,976 @@
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       234] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       281] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        93] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       140] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       218] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       984] Started resource mapmanager
+[      1015] Started resource chat
+[      1015] Started resource spawnmanager
+[      1031] Started gametype Freeroam
+[      1031] Started resource fivem
+[      1047] Started resource hardcap
+[      1062] Started resource rconlog
+[      1125] Started resource scoreboard
+[      1140] Started resource playernames
+[      1140] Authenticating server license key...
+[      2234] Server license key authentication succeeded. Welcome!
+[      2297] Sending heartbeat to live-internal.fivem.net:30110
+[      2312] Started map fivem-map-skater
+[      2312] Started resource fivem-map-skater
+[     95609] Connecting: YoungPlays
+[     96187] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       110] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       110] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       188] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       266] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       234] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       281] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       313] Started resource fivem
+[       313] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Authenticating server license key...
+[      1250] Server license key authentication succeeded. Welcome!
+[      1313] Sending heartbeat to live-internal.fivem.net:30110
+[      1313] Started map fivem-map-skater
+[      1313] Started resource fivem-map-skater
+[     42094] Connecting: YoungPlays
+[     42500] Sending heartbeat to live-internal.fivem.net:30110
+[    157438] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        93] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       171] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       171] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       171] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       218] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       250] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        93] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       140] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       218] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       218] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       875] Started resource mapmanager
+[       937] Started resource chat
+[       953] Started resource spawnmanager
+[       968] Started gametype Freeroam
+[       968] Started resource fivem
+[      1000] Started resource hardcap
+[      1047] Started resource rconlog
+[      1093] Started resource scoreboard
+[      1484] Started resource playernames
+[      1703] Authenticating server license key...
+[      2672] Server license key authentication succeeded. Welcome!
+[      2734] Sending heartbeat to live-internal.fivem.net:30110
+[      2765] Started map fivem-map-skater
+[      2781] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       141] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       156] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       172] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       187] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       203] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       234] Started resource sessionmanager
+[       250] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       188] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       266] Started resource mapmanager
+[       313] Started resource chat
+[       313] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       313] Started resource fivem
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       359] Authenticating server license key...
+[      1250] Server license key authentication succeeded. Welcome!
+[      1297] Sending heartbeat to live-internal.fivem.net:30110
+[      1297] Started map fivem-map-skater
+[      1313] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       141] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       156] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       172] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       187] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       203] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       234] Started resource sessionmanager
+[       250] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       266] Started resource mapmanager
+[       282] Started resource chat
+[       282] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       297] Started resource fivem
+[       297] Started resource hardcap
+[       313] Started resource rconlog
+[       313] Started resource scoreboard
+[       328] Started resource playernames
+[       328] Authenticating server license key...
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       265] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       157] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       204] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       204] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       204] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       235] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       282] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       297] Started resource fivem
+[       313] Started resource hardcap
+[       329] Started resource rconlog
+[       329] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Changing gametype from fivem to fc-base
+[       344] Stopping resource fivem
+[       344] Started gametype 
+[       360] Started resource fc-base
+[       360] Authenticating server license key...
+[      1204] Server license key authentication succeeded. Welcome!
+[      1266] Sending heartbeat to live-internal.fivem.net:30110
+[     33297] Connecting: YoungPlays
+[     34235] Sending heartbeat to live-internal.fivem.net:30110
+[    145235] Stopping resource fc-base
+[    145250] Started gametype 
+[    145250] Started resource fc-base
+[    183891] Stopping resource fc-base
+[    183907] Started gametype 
+[    183907] Started resource fc-base
+[    185954] Stopping resource fc-base
+[    185969] Started gametype 
+[    185969] Started resource fc-base
+[    186500] Stopping resource fc-base
+[    186500] Started gametype 
+[    186516] Started resource fc-base
+[    203954] Stopping resource fc-base
+[    203969] Started gametype 
+[    203969] Started resource fc-base
+[    214250] Sending heartbeat to live-internal.fivem.net:30110
+[    214750] Stopping resource fc-base
+[    214766] Started gametype 
+[    214782] Started resource fc-base
+[    215454] Stopping resource fc-base
+[    215454] Started gametype 
+[    215469] Started resource fc-base
+[    256969] Stopping resource fc-base
+[    256985] Started gametype 
+[    256985] Started resource fc-base
+[    266188] YoungPlays: dsfsfsdfsad
+[    267282] YoungPlays: sadasd
+[    281344] YoungPlays: sdsada
+[    342954] Stopping resource fc-base
+[    342954] Started gametype 
+[    342954] Started resource fc-base
+[    347313] YoungPlays: sdaasdadasd
+[    351047] YoungPlays: sadasd
+[    374563] Stopping resource fc-base
+[    374579] Started gametype 
+[    374579] Started resource fc-base
+[    394266] Sending heartbeat to live-internal.fivem.net:30110
+[    421625] Stopping resource fc-base
+[    421688] Started gametype 
+[    421704] Started resource fc-base
+[    459438] Stopping resource fc-base
+[    459438] Started gametype 
+[    459454] Started resource fc-base
+[    574313] Sending heartbeat to live-internal.fivem.net:30110
+[    608579] Stopping resource fc-base
+[    608594] Started gametype 
+[    608610] Started resource fc-base
+[    661297] Stopping resource fc-base
+[    661313] Started gametype 
+[    661313] Started resource fc-base
+[    754329] Sending heartbeat to live-internal.fivem.net:30110
+[    786891] Stopping resource fc-base
+[    786907] Started gametype 
+[    786907] Started resource fc-base
+[    800297] Stopping resource fc-base
+[    800313] Started gametype 
+[    800313] Started resource fc-base
+[    927547] Stopping resource fc-base
+[    927547] Started gametype 
+[    927563] Started resource fc-base
+[    934344] Sending heartbeat to live-internal.fivem.net:30110
+[   1018625] Stopping resource fc-base
+[   1018625] Started gametype 
+[   1018641] Started resource fc-base
+[   1036375] Stopping resource fc-base
+[   1036391] Started gametype 
+[   1036391] Started resource fc-base
+[   1080532] Stopping resource fc-base
+[   1080547] Started gametype 
+[   1080547] Started resource fc-base
+[   1094344] Stopping resource fc-base
+[   1094344] Started gametype 
+[   1094360] Started resource fc-base
+[   1112735] Stopping resource fc-base
+[   1112750] Started gametype 
+[   1112766] Started resource fc-base
+[   1114407] Sending heartbeat to live-internal.fivem.net:30110
+[   1137797] Stopping resource fc-base
+[   1137813] Started gametype 
+[   1137813] Started resource fc-base
+[   1160250] Stopping resource fc-base
+[   1160266] Started gametype 
+[   1160282] Started resource fc-base
+[   1164610] Stopping resource fc-base
+[   1164610] Started gametype 
+[   1164625] Started resource fc-base
+[   1216969] Stopping resource fc-base
+[   1216969] Started gametype 
+[   1217000] Started resource fc-base
+[   1252235] Stopping resource fc-base
+[   1252250] Started gametype 
+[   1252250] Started resource fc-base
+[   1294469] Sending heartbeat to live-internal.fivem.net:30110
+[   1362313] Stopping resource fc-base
+[   1362329] Started gametype 
+[   1362329] Started resource fc-base
+[   1474500] Sending heartbeat to live-internal.fivem.net:30110
+[   1487141] Stopping resource fc-base
+[   1487157] Started gametype 
+[   1487172] Started resource fc-base
+[   1503657] Stopping resource fc-base
+[   1503657] Started gametype 
+[   1503657] Started resource fc-base
+[   1504313] Stopping resource fc-base
+[   1504313] Started gametype 
+[   1504313] Started resource fc-base
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       109] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       250] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[       110] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       141] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       157] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       157] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       235] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       235] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       282] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       313] Started resource fivem
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       360] Changing gametype from fivem to fc-base
+[       360] Stopping resource fivem
+[       360] Started gametype 
+[       360] Started resource fc-base
+[       360] Authenticating server license key...
+[      1266] Server license key authentication succeeded. Welcome!
+[      1328] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[       109] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       140] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       234] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       281] Started resource sessionmanager
+[       281] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       156] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[       156] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       188] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       188] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       188] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       203] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       203] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       234] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       234] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       250] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       250] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       266] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       266] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       281] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       281] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       297] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       297] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       328] Started resource sessionmanager
+[       344] Started resource mapmanager
+[       359] Started resource chat
+[       359] Started resource spawnmanager
+[       375] Started gametype Freeroam
+[       375] Started resource fivem
+[       375] Started resource hardcap
+[       391] Started resource rconlog
+[       391] Started resource scoreboard
+[       406] Started resource playernames
+[       406] Changing gametype from fivem to fc-base
+[       406] Stopping resource fivem
+[       422] Started gametype 
+[       422] Started resource fc-base
+[       422] Authenticating server license key...
+[      1266] Server license key authentication succeeded. Welcome!
+[      1328] Sending heartbeat to live-internal.fivem.net:30110
+[     32484] Connecting: YoungPlays
+[     33141] Sending heartbeat to live-internal.fivem.net:30110
+[     81563] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       110] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       157] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       157] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       188] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       250] Started resource sessionmanager
+[       266] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       157] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       235] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       235] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       282] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       313] Started resource fivem
+[       313] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Changing gametype from fivem to fc-base
+[       344] Stopping resource fivem
+[       360] Started gametype 
+[       360] Started resource fc-base
+[       360] Authenticating server license key...
+[      1188] Server license key authentication succeeded. Welcome!
+[      1235] Sending heartbeat to live-internal.fivem.net:30110
+[     50625] Connecting: YoungPlays
+[     51157] Sending heartbeat to live-internal.fivem.net:30110
+[     99375] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource debug in C:/Users\Ronan\Desktop\FXS/resources//debug
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       266] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource debug in C:/Users\Ronan\Desktop\FXS/resources//debug
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       234] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       297] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started gametype Freeroam
+[       312] Started resource fivem
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       359] Error loading script server.lua in resource fc-base: server.lua:1: attempt to call a nil value (global 'require')
+[       359] stack traceback:
+[       375] 	server.lua:1: in main chunk
+[       375] Failed to load script server.lua.
+[       375] Started resource fc-base
+[       390] Started resource debug
+[       390] Authenticating server license key...
+[      1297] Server license key authentication succeeded. Welcome!
+[      1359] Sending heartbeat to live-internal.fivem.net:30110
+[      1359] Started map fivem-map-skater
+[      1359] Started resource fivem-map-skater
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource debug in C:/Users\Ronan\Desktop\FXS/resources//debug
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[        94] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       234] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       281] Started resource sessionmanager
+[       281] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[        16] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource debug in C:/Users\Ronan\Desktop\FXS/resources//debug
+[        94] Found new resource fc-base in C:/Users\Ronan\Desktop\FXS/resources//fc-base
+[       109] Found new resource fivem in C:/Users\Ronan\Desktop\FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Ronan\Desktop\FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Ronan\Desktop\FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Ronan\Desktop\FXS/resources//runcode
+[       125] Found new resource race in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Ronan\Desktop\FXS/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Ronan\Desktop\FXS/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Ronan\Desktop\FXS/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Ronan\Desktop\FXS/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Users\Ronan\Desktop\FXS/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Ronan\Desktop\FXS/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Ronan\Desktop\FXS/resources//[system]/rconlog
+[       188] Found new resource scoreboard in C:/Users\Ronan\Desktop\FXS/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Ronan\Desktop\FXS/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Users\Ronan\Desktop\FXS/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Ronan\Desktop\FXS/resources//[test]/gameInit
+[       219] Found new resource keks in C:/Users\Ronan\Desktop\FXS/resources//[test]/keks
+[       219] Found new resource yarn in C:/Users\Ronan\Desktop\FXS/resources//[system]/[builders]/yarn
+[       266] Started resource sessionmanager
+[       266] Started resource mapmanager
+[       281] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       297] Started resource fivem
+[       297] Started resource hardcap
+[       313] Started resource rconlog
+[       313] Started resource scoreboard
+[       328] Started resource playernames
+[       344] Started resource debug
+[       344] Authenticating server license key...
+[      1172] Server license key authentication succeeded. Welcome!
+[      1219] Sending heartbeat to live-internal.fivem.net:30110
+[      1234] Started map fivem-map-skater
+[      1234] Started resource fivem-map-skater
+[     46078] Connecting: YoungPlays
+[     46656] Sending heartbeat to live-internal.fivem.net:30110
+[    226688] Sending heartbeat to live-internal.fivem.net:30110
+[    309047] Stopping resource debug
+[    309063] Started resource debug
+[    313281] InvokeNative: execution failed: Argument at index 1 was null.
+[    313422] Error running call reference function for resource debug: citizen:/scripting/lua/scheduler.lua:351: Execution of native 000000002f7a49e6 in script host failed.
+[    313422] stack traceback:
+[    313422] 	[C]: in upvalue '_in'
+[    313438] 	citizen:/scripting/lua/natives_server.lua:341: in function 'TriggerClientEventInternal'
+[    313438] 	(...tail calls...)
+[    313438] 	server.lua:2: in upvalue 'ref'
+[    313438] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    313453] 	[C]: in function 'xpcall'
+[    313453] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    313469] stack traceback:
+[    313469] 	[C]: in function 'error'
+[    313469] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    313500] hitch warning: frame time of 276 milliseconds
+[    372672] Stopping resource debug
+[    372688] Started resource debug
+[    374734] InvokeNative: execution failed: Argument at index 1 was null.
+[    374828] Error running call reference function for resource debug: citizen:/scripting/lua/scheduler.lua:351: Execution of native 000000002f7a49e6 in script host failed.
+[    374828] stack traceback:
+[    374844] 	[C]: in upvalue '_in'
+[    374844] 	citizen:/scripting/lua/natives_server.lua:341: in function 'TriggerClientEventInternal'
+[    374859] 	(...tail calls...)
+[    374875] 	server.lua:2: in upvalue 'ref'
+[    374875] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    374875] 	[C]: in function 'xpcall'
+[    374875] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    374891] stack traceback:
+[    374891] 	[C]: in function 'error'
+[    374906] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    374906] hitch warning: frame time of 212 milliseconds
+[    382531] Stopping resource debug
+[    382547] Started resource debug
+[    384406] InvokeNative: execution failed: Argument at index 1 was null.
+[    384422] Error running call reference function for resource debug: citizen:/scripting/lua/scheduler.lua:351: Execution of native 000000002f7a49e6 in script host failed.
+[    384438] stack traceback:
+[    384453] 	[C]: in upvalue '_in'
+[    384453] 	citizen:/scripting/lua/natives_server.lua:341: in function 'TriggerClientEventInternal'
+[    384453] 	(...tail calls...)
+[    384453] 	server.lua:2: in upvalue 'ref'
+[    384453] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    384469] 	[C]: in function 'xpcall'
+[    384469] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    384469] stack traceback:
+[    384484] 	[C]: in function 'error'
+[    384500] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    390156] InvokeNative: execution failed: Argument at index 1 was null.
+[    390188] Error running call reference function for resource debug: citizen:/scripting/lua/scheduler.lua:351: Execution of native 000000002f7a49e6 in script host failed.
+[    390203] stack traceback:
+[    390219] 	[C]: in upvalue '_in'
+[    390219] 	citizen:/scripting/lua/natives_server.lua:341: in function 'TriggerClientEventInternal'
+[    390234] 	(...tail calls...)
+[    390234] 	server.lua:2: in upvalue 'ref'
+[    390250] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[    390250] 	[C]: in function 'xpcall'
+[    390250] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[    390266] stack traceback:
+[    390266] 	[C]: in function 'error'
+[    390281] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[    406750] Sending heartbeat to live-internal.fivem.net:30110
+[    502188] Stopping resource debug
+[    573469] Started resource debug
+[    586766] Sending heartbeat to live-internal.fivem.net:30110
+[    680125] Found new resource SS-RunCode-master in C:/Users\Ronan\Desktop\FXS/resources//SS-RunCode-master
+[    685656] Started resource SS-RunCode-master
+[    766781] Sending heartbeat to live-internal.fivem.net:30110
+[    869109] Sending heartbeat to live-internal.fivem.net:30110
