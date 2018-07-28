@@ -68,23 +68,23 @@ AddEventHandler("updateClients", function(test)
     TriggerClientEvent('chatMessage', -1, '', {255,255,255}, "^3Voice Range has now been changed to ^4" .. test)
 end)
 
--- Priority Cooldown
-
--- Config
-timermax = 21 -- In minutes. Must be one bigger than the max timer you want (Eg if you want 20 it must be 21)
-
--- Do not touch
 cooldown = 0
 ispriority = false
 ishold = false
+
+-- Priority Command
 
 RegisterCommand("priority", function()
     TriggerEvent("cooldownt")
 end, false)
 
+-- In Progress
+
 RegisterCommand("inprogress", function()
 	TriggerEvent('isPriority')
 end, false)
+
+-- On Hold
 
 RegisterCommand("onhold", function()
 	TriggerEvent('isOnHold')
@@ -119,7 +119,7 @@ AddEventHandler("cooldownt", function()
 	Citizen.Wait(1)
 	if cooldown == 0 then
 		cooldown = 0
-		cooldown = cooldown + timermax
+		cooldown = cooldown + 21
 		TriggerClientEvent('chatMessage', -1, "WARNING", {255, 0, 0}, "^1A priority call was just conducted. ^3All civilians must wait 20 minutes before conducting another one. ^7Failure to abide by this rule will lead to you being ^1kicked.")
 		while cooldown > 0 do
 			cooldown = cooldown - 1
@@ -138,6 +138,5 @@ AddEventHandler("cancelcooldown", function()
 		cooldown = cooldown - 1
 		TriggerClientEvent('UpdateCooldown', -1, cooldown)
 		Citizen.Wait(100)
-	end
-	
+	end	
 end)

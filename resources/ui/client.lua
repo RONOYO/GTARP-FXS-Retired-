@@ -598,7 +598,7 @@ end
 -- CONFIG --
 
 -- The watermark text --
-servername = "Florida Law Enforcement - discord.gg/Z983TSQ"
+servername = "San Francisco RP - discord.gg/wMxBk45"
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
@@ -620,12 +620,12 @@ scale = 0.4
 -- Text Font --
 -- 0 - 5 possible
 -- Default: 1
-font = 1
+font = 4
 
 -- Rainbow Text --
 -- false: Turn off
 -- true: Activate rainbow text (overrides color)
-bringontherainbows = true
+bringontherainbows = false
 
 -- CODE --
 Citizen.CreateThread(function()
@@ -739,12 +739,11 @@ Citizen.CreateThread(function()
     end
 end)
 
--- Priority Cooldown
-
+-- Priority
 local cooldown = 0
 local ispriority = false
 local ishold = false
-
+-- Reset Clock
 RegisterCommand("resetpcd", function()
     TriggerServerEvent("cancelcooldown")
 end, false)
@@ -768,9 +767,11 @@ Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
         if ishold == true then
-            DrawText2("~b~Priority Cooldown: ~w~Priorities Are On Hold")
+            DrawText2("Priority Cooldown: ~b~Priorities Are On Hold")
+        elseif cooldown == 0 then
+            DrawText2("")
         elseif ispriority == false then
-            DrawText2(" ")
+            DrawText2("Priority Cooldown: ~r~".. cooldown .." ~w~Mins")
         elseif ispriority == true then
             DrawText2("Priority Cooldown: ~g~Priority In Progress")
         end
@@ -778,14 +779,14 @@ Citizen.CreateThread(function()
 end)
 
     function DrawText2(text)
-        SetTextFont(4)
+        SetTextFont(0)
         SetTextProportional(1)
-        SetTextScale(0.5, 0.5)
+        SetTextScale(0.0, 0.45)
         SetTextDropshadow(1, 0, 0, 0, 255)
         SetTextEdge(1, 0, 0, 0, 255)
         SetTextDropShadow()
         SetTextOutline()
         SetTextEntry("STRING")
         AddTextComponentString(text)
-        DrawText(0.023, 0.77)
+        DrawText(0.174, 0.855)
     end

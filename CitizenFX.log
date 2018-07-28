@@ -2002,3 +2002,503 @@
 [      1094] Sending heartbeat to live-internal.fivem.net:30110
 [      1094] Started map fivem-map-hipster
 [      1094] Started resource fivem-map-hipster
+[     62704] Connecting: [T-64] R. Young
+[     63813] Sending heartbeat to live-internal.fivem.net:30110
+[    243860] Sending heartbeat to live-internal.fivem.net:30110
+[    371875] Stopping resource chat
+[    371891] Started resource chat
+[    423141] Stopping resource chat
+[    423157] Started resource chat
+[    423891] Sending heartbeat to live-internal.fivem.net:30110
+[    425094] OOC: [T-64] R. Young: dad
+[    439688] Stopping resource chat
+[    439704] Started resource chat
+[    441032] OOC [T-64] R. Young: sadas
+[    458797] Stopping resource chat
+[    458813] Started resource chat
+[    460657] OOC [T-64] R. Young: OOC [T-64] R. Youngasdasd
+[    474047] Stopping resource chat
+[    474063] Started resource chat
+[    481125] Stopping resource chat
+[    481141] Started resource chat
+[    482672] : OOC [T-64] R. Youngadasd
+[    483782] : OOC [T-64] R. Youngsda
+[    485938] : OOC [T-64] R. Youngasdasd
+[    492641] Stopping resource chat
+[    492657] Started resource chat
+[    494969] : *OOC [T-64] R. Youngadda
+[    530797] Stopping resource chat
+[    530813] Started resource chat
+[    542813] Stopping resource chat
+[    542829] Started resource chat
+[    566032] Stopping resource chat
+[    566047] Started resource chat
+[    603938] Sending heartbeat to live-internal.fivem.net:30110
+[    604032] : OOC [T-64] R. Youngadasd
+[    605047] : OOC [T-64] R. Youngadast
+[    607204] : OOC [T-64] R. Youngsd
+[    631891] Stopping resource chat
+[    631907] Started resource chat
+[    633594] : OOC [T-64] R. Young: sdad
+[    634610] : OOC [T-64] R. Young: adast
+[    673063] Stopping resource chat
+[    673079] Started resource chat
+[    674625] : OOC [T-64] R. Young: asdasd
+[    717297] Stopping resource chat
+[    717297] Started resource chat
+[    783985] Sending heartbeat to live-internal.fivem.net:30110
+[    825844] Stopping resource chat
+[    825860] Started resource chat
+[    827344] : OOC [T-64] R. Young: adsad
+[    849063] Stopping resource chat
+[    849079] Started resource chat
+[    851172] : OOC [T-64] R. Young: asdasd
+[    856375] Stopping resource chat
+[    856391] Started resource chat
+[    874125] Stopping resource chat
+[    874141] Started resource chat
+[    883407] Stopping resource chat
+[    883407] Started resource chat
+[    885813] : OOC [T-64] R. Young: asdatadad
+[    893235] Stopping resource chat
+[    893250] Started resource chat
+[    895891] : OOC [T-64] R. Young: adadasdsadasdad
+[    919438] Stopping resource chat
+[    919454] Started resource chat
+[    928172] Stopping resource chat
+[    928188] Started resource chat
+[    937000] Stopping resource chat
+[    937016] Started resource chat
+[    949922] Stopping resource chat
+[    949938] Started resource chat
+[    959157] Stopping resource chat
+[    959172] Started resource chat
+[    964000] Sending heartbeat to live-internal.fivem.net:30110
+[    970469] Stopping resource chat
+[    970485] Started resource chat
+[   1002657] Stopping resource chat
+[   1002672] Started resource chat
+[   1053797] Stopping resource chat
+[   1053813] Started resource chat
+[   1087657] Stopping resource chat
+[   1087672] Started resource chat
+[   1090469] : OOC [T-64] R. Young: adasdasda
+[   1091375] : OOC [T-64] R. Young: addas
+[   1092172] : OOC [T-64] R. Young: tas
+[   1092922] : OOC [T-64] R. Young: asd
+[   1093469] : OOC [T-64] R. Young: as
+[   1104657] : OOC [T-64] R. Young: testing assholes
+[   1144063] Sending heartbeat to live-internal.fivem.net:30110
+[   1146360] Stopping resource chat
+[   1146375] Started resource chat
+[   1148469] : ^*OOC [T-64] R. Young:^r asdasdas
+[   1151188] : ^*OOC [T-64] R. Young:^r asdsadatadsdast
+[   1194907] Stopping resource chat
+[   1194922] Started resource chat
+[   1196860] : ^*OOC [T-64] R. Young:^r adsasd\
+[   1198000] : ^*OOC [T-64] R. Young:^r sdasd
+[   1198657] : ^*OOC [T-64] R. Young:^r asd
+[   1324094] Sending heartbeat to live-internal.fivem.net:30110
+[   1337750] Stopping resource chat
+[   1337766] Started resource chat
+[   1343422] Stopping resource ui
+[   1343422] Started resource ui
+[   1355219] Stopping resource ui
+[   1355219] Started resource ui
+[   1363797] Stopping resource chat
+[   1363797] Started resource chat
+[   1365500] Stopping resource ui
+[   1365500] Started resource ui
+[   1375125] Stopping resource ui
+[   1375141] Started resource ui
+[   1382954] Stopping resource ui
+[   1382954] Started resource ui
+[   1504141] Sending heartbeat to live-internal.fivem.net:30110
+[   1558469] Stopping resource ui
+[   1558485] Started resource ui
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        93] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       125] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       140] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       171] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       171] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       171] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       187] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       187] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       218] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       234] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       250] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       281] Started resource sessionmanager
+[       296] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       156] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       156] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       188] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       188] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       203] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       203] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       219] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       219] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       235] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       235] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       250] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       250] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       266] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       266] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       281] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       281] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       328] Started resource sessionmanager
+[       344] Started resource mapmanager
+[       360] Started resource chat
+[       360] Started resource spawnmanager
+[       360] Started gametype Freeroam
+[       360] Started resource fivem
+[       375] Started resource hardcap
+[       375] Started resource rconlog
+[       391] Started resource scoreboard
+[       391] Started resource playernames
+[       391] Started resource ui
+[       406] ^3Couldn't find resource commands.^7
+[       406] ^3Couldn't find resource controls.^7
+[       406] ^3Couldn't find resource menu.^7
+[       406] ^3Couldn't find resource assets1.^7
+[       406] ^3Couldn't find resource assets2.^7
+[       406] ^3Couldn't find resource assets3.^7
+[       406] ^3Couldn't find resource assets4.^7
+[       406] Could not open logo.png for reading.
+[       422] Authenticating server license key...
+[      1141] Server license key authentication succeeded. Welcome!
+[      1203] Sending heartbeat to live-internal.fivem.net:30110
+[      1203] Started map fivem-map-hipster
+[      1203] Started resource fivem-map-hipster
+[     21297] Connecting: [T-64] R. Young
+[     22047] Sending heartbeat to live-internal.fivem.net:30110
+[    202078] Sending heartbeat to live-internal.fivem.net:30110
+[    379328] Stopping resource chat
+[    379344] Started resource chat
+[    382094] Sending heartbeat to live-internal.fivem.net:30110
+[    389469] : ^*OOC [T-64] R. Young:^r sadasd
+[    516625] Stopping resource chat
+[    516641] Started resource chat
+[    518688] : ^*OOC [T-64] R. Young:^r asdasda
+[    525360] : ^*OOC [T-64] R. Young:^r ddsadasdadasdadadasdadasdadadadasdadasdasdadasdasdsadadadadw
+[    527563] : ^*OOC [T-64] R. Young:^r dsad
+[    562141] Sending heartbeat to live-internal.fivem.net:30110
+[    588656] Stopping resource chat
+[    588672] Started resource chat
+[    608328] Stopping resource chat
+[    608344] Started resource chat
+[    627485] Stopping resource chat
+[    627500] Started resource chat
+[    644375] Stopping resource chat
+[    644391] Started resource chat
+[    652156] : ^*OOC [T-64] R. Young:^r asdasdas
+[    654297] : ^*OOC [T-64] R. Young:^r sdasdas
+[    655500] : ^*OOC [T-64] R. Young:^r sdsada
+[    656360] : ^*OOC [T-64] R. Young:^r sdast
+[    711360] Stopping resource chat
+[    711375] Started resource chat
+[    720688] : ^*OOC [T-64] R. Young:^r sadas
+[    736813] : ^*OOC [T-64] R. Young:^r sdas
+[    737766] : ^*OOC [T-64] R. Young:^r sdas
+[    738781] : ^*OOC [T-64] R. Young:^r sad
+[    742141] Sending heartbeat to live-internal.fivem.net:30110
+[    916344] Stopping resource chat
+[    916360] Started resource chat
+[    922156] Sending heartbeat to live-internal.fivem.net:30110
+[    939797] Stopping resource chat
+[    939813] Started resource chat
+[    942063] : 
+[    943813] : 
+[    984891] Stopping resource chat
+[    984906] Started resource chat
+[    987625] /home
+[   1017391] Stopping resource chat
+[   1017391] Started resource chat
+[   1022875] [T-64] R. Young: /penis
+[   1069110] Stopping resource chat
+[   1069125] Started resource chat
+[   1071563] [T-64] R. Young: /penis
+[   1073891] [T-64] R. Young: /hello
+[   1082000] [T-64] R. Young: /jail 1
+[   1102203] Sending heartbeat to live-internal.fivem.net:30110
+[   1129110] Stopping resource chat
+[   1129125] Started resource chat
+[   1133297] Command entered: [T-64] R. Young: /penis 15
+[   1163547] Stopping resource chat
+[   1163563] Started resource chat
+[   1168078] [T-64] R. Young: /15
+[   1168813] [T-64] R. Young: /15
+[   1169297] [T-64] R. Young: /15
+[   1169688] [T-64] R. Young: /15
+[   1170172] [T-64] R. Young: /15
+[   1171719] [T-64] R. Young: /15
+[   1193328] Stopping resource chat
+[   1193344] Started resource chat
+[   1195938] Command Processed[T-64] R. Young: /asdasdasdasd
+[   1202453] Stopping resource chat
+[   1202469] Started resource chat
+[   1206016] : 
+[   1206563] : 
+[   1207016] : 
+[   1208266] : 
+[   1213453] Command Processed: [T-64] R. Young: /penis
+[   1220578] : 
+[   1246297] Stopping resource chat
+[   1246297] Started resource chat
+[   1253281] Command Processed by: [T-64] R. Young: '/me eats a large penis'
+[   1282250] Sending heartbeat to live-internal.fivem.net:30110
+[   1313813] : 
+[   1315438] Command Processed by: [T-64] R. Young: '/me hi'
+[   1462250] Sending heartbeat to live-internal.fivem.net:30110
+[   1505188] Command Processed by: [T-64] R. Young: '/onhold'
+[   1508297] Command Processed by: [T-64] R. Young: '/priority'
+[   1608766] Found new resource commands in C:/FXS\GTARP-FXS/resources//commands
+[   1610625] Started resource commands
+[   1619516] Command Processed by: [T-64] R. Young: '/do hi'
+[   1642297] Sending heartbeat to live-internal.fivem.net:30110
+[   1656281] : 
+[   1822313] Sending heartbeat to live-internal.fivem.net:30110
+[   1935375] Connecting: [T-11] D. Jackson
+[   1938969] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//assets2
+[       125] Found new resource commands in C:/FXS\GTARP-FXS/resources//commands
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       157] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       157] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       157] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       188] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       188] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       204] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       204] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       204] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       219] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       219] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       235] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       235] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       235] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       250] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       266] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       266] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       266] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       282] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       329] Started resource sessionmanager
+[       344] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//assets2
+[       125] Found new resource commands in C:/FXS\GTARP-FXS/resources//commands
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       156] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       172] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       188] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       219] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       235] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       235] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       235] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       250] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       250] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       266] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       281] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       281] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       281] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       297] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       344] Started resource sessionmanager
+[       344] Started resource mapmanager
+[       360] Started resource chat
+[       360] Started resource spawnmanager
+[       375] Started gametype Freeroam
+[       375] Started resource fivem
+[       375] Started resource hardcap
+[       391] Started resource rconlog
+[       391] Started resource scoreboard
+[       406] Started resource playernames
+[       406] Started resource ui
+[       406] Started resource commands
+[       406] ^3Couldn't find resource controls.^7
+[       422] ^3Couldn't find resource menu.^7
+[       422] ^3Couldn't find resource assets1.^7
+[      2188] Started resource assets2
+[      2188] ^3Couldn't find resource assets3.^7
+[      2188] ^3Couldn't find resource assets4.^7
+[      2188] Could not open logo.png for reading.
+[      2188] Authenticating server license key...
+[      2813] Server license key authentication succeeded. Welcome!
+[      2860] Sending heartbeat to live-internal.fivem.net:30110
+[      2875] Started map fivem-map-hipster
+[      2875] Started resource fivem-map-hipster
+[    121313] Connecting: [T-64] R. Young
+[    122172] Sending heartbeat to live-internal.fivem.net:30110
+[    194016] Command Processed by: [T-64] R. Young: '/dv'
+[    238250] Command Processed by: [T-64] R. Young: '/dv'
+[    296250] Command Processed by: [T-64] R. Young: '/dv'
+[    302203] Sending heartbeat to live-internal.fivem.net:30110
+[    380938] Command Processed by: [T-64] R. Young: '/dv'
+[    388891] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//assets2
+[       125] Found new resource commands in C:/FXS\GTARP-FXS/resources//commands
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       141] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       157] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       157] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       157] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       172] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       172] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       188] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       188] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       204] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       204] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       219] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       219] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       219] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       235] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       235] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       250] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       250] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       266] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       266] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       282] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       282] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       282] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       329] Started resource sessionmanager
+[       344] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//assets2
+[       110] Found new resource commands in C:/FXS\GTARP-FXS/resources//commands
+[       110] Found new resource fivem in C:/FXS\GTARP-FXS/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//runcode
+[       141] Found new resource ui in C:/FXS\GTARP-FXS/resources//ui
+[       157] Found new resource race in C:/FXS\GTARP-FXS/resources//[gamemodes]/race
+[       157] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[gamemodes]/race-test
+[       157] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/FXS\GTARP-FXS/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary
+[       188] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[gameplay]/obituary-deaths
+[       188] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[gameplay]/playernames
+[       203] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[system]/baseevents
+[       203] Found new resource chat in C:/FXS\GTARP-FXS/resources//[system]/chat
+[       219] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[system]/rconlog
+[       235] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[system]/scoreboard
+[       235] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[test]/gameInit
+[       266] Found new resource keks in C:/FXS\GTARP-FXS/resources//[test]/keks
+[       266] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[system]/[builders]/yarn
+[       313] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       328] Started resource chat
+[       344] Started resource spawnmanager
+[       344] Started gametype Freeroam
+[       344] Started resource fivem
+[       360] Started resource hardcap
+[       360] Started resource rconlog
+[       360] Started resource scoreboard
+[       375] Started resource playernames
+[       375] Started resource ui
+[       391] Started resource commands
+[       391] ^3Couldn't find resource controls.^7
+[       391] ^3Couldn't find resource menu.^7
+[       391] ^3Couldn't find resource assets1.^7
+[       391] Started resource assets2
+[       407] ^3Couldn't find resource assets3.^7
+[       407] ^3Couldn't find resource assets4.^7
+[       407] Could not open logo.png for reading.
+[       407] Authenticating server license key...
+[      1032] Server license key authentication succeeded. Welcome!
+[      1094] Sending heartbeat to live-internal.fivem.net:30110
+[      1094] Started map fivem-map-skater
+[      1094] Started resource fivem-map-skater
+[    154422] Connecting: [T-64] R. Young
+[    155328] Sending heartbeat to live-internal.fivem.net:30110
+[    187563] Connecting: [T-11] D. Jackson
+[    188422] Sending heartbeat to live-internal.fivem.net:30110
+[    252766] Command Processed by: [T-11] D. Jackson: '/jjjk'
+[    368328] Stopping resource ui
+[    368344] Started resource ui
+[    368438] Sending heartbeat to live-internal.fivem.net:30110
+[    373875] Command Processed by: [T-64] R. Young: '/priority'
+[    476172] Command Processed by: [T-11] D. Jackson: '/dv'
+[    499000] Connecting: [T-22] A. Coleman
+[    502219] Sending heartbeat to live-internal.fivem.net:30110
+[    565688] Command Processed by: [T-11] D. Jackson: '/dv'
+[    568157] : 
+[    570766] Command Processed by: [T-64] R. Young: '/priority'
+[    573000] Command Processed by: [T-22] A. Coleman: '/ooc hery'
+[    645813] Command Processed by: [T-64] R. Young: '/inprogress'
+[    660407] Command Processed by: [T-22] A. Coleman: '/prioirty'
+[    664297] Command Processed by: [T-22] A. Coleman: '/prioirty'
+[    669750] Command Processed by: [T-22] A. Coleman: '/priority'
+[    670766] Command Processed by: [T-11] D. Jackson: '/priority'
+[    677813] Command Processed by: [T-22] A. Coleman: '/onhold'
+[    682266] Sending heartbeat to live-internal.fivem.net:30110
+[    693453] Command Processed by: [T-22] A. Coleman: '/help\'
+[    695063] Command Processed by: [T-22] A. Coleman: '/help'
+[    714141] Command Processed by: [T-11] D. Jackson: '/dv'
+[    715719] Command Processed by: [T-11] D. Jackson: '/dfv'
+[    717157] Command Processed by: [T-11] D. Jackson: '/dv'
+[    718844] Command Processed by: [T-11] D. Jackson: '/dv'
+[    720063] Command Processed by: [T-11] D. Jackson: '/dv'
+[    736297] Command Processed by: [T-64] R. Young: '/dv'
+[    766532] Command Processed by: [T-22] A. Coleman: '/dv'
+[    862266] Sending heartbeat to live-internal.fivem.net:30110
+[    919188] Stopping resource ui
+[    919188] Started resource ui
+[    923672] Command Processed by: [T-64] R. Young: '/priority'
+[    934141] Sending heartbeat to live-internal.fivem.net:30110
+[   1114172] Sending heartbeat to live-internal.fivem.net:30110
+[   1117078] Sending heartbeat to live-internal.fivem.net:30110
+[   1139625] Got a late vouch for [T-22] A. Coleman - they're the current arbitrator!

@@ -106,7 +106,7 @@ RegisterNUICallback('chatResult', function(data, cb)
     if data.message:sub(1, 1) == '/' then
       ExecuteCommand(data.message:sub(2))
     else
-      TriggerServerEvent('_chat:messageEntered', GetPlayerName(id), { r, g, b }, data.message)
+      TriggerServerEvent('_chat:messageEntered', "", { r, g, b },"")
     end
   end
 

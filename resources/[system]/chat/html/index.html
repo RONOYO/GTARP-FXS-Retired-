@@ -18,7 +18,7 @@
   <!-- App Template -->
   <script type="text/x-template" id="app_template">
     <div id="app">
-      <div class="chat-window" :style="this.style" :class="{ 'fadeOut animated': !showWindow }">
+      <div class="chat-window" :style="this.style" :class="{ 'slideOutUp animated': !showWindow }">
         <div class="chat-messages" ref="messages">
           <message v-for="msg in messages"
                    :templates="templates"
@@ -43,8 +43,6 @@
                   @keydown="keyDown"
                   @keypress.enter.prevent="send">
         </textarea>
-        <suggestions :message="message" :suggestions="suggestions">
-        </suggestions>
       </div>
     </div>
   </script>
@@ -56,34 +54,6 @@
     </div>
   </script>
 
-  <!-- Suggestions Template -->
-  <script type="text/x-template" id="suggestions_template">
-    <ul class="suggestions" v-show="currentSuggestions.length > 0">
-      <li class="suggestion" v-for="s in currentSuggestions">
-        <p>
-          <span :class="{ 'disabled': s.disabled }">
-            {{s.name}}
-          </span>
-          <span class="param"
-                v-for="(p, index) in s.params"
-                :class="{ 'disabled': p.disabled }">
-            [{{p.name}}]
-          </span>
-        </p>
-        <small class="help">
-          <template v-if="!s.disabled">
-            {{s.help}}
-          </template>
-          <template v-for="p in s.params" v-if="!p.disabled">
-            {{p.help}}
-          </template>
-        </small>
-      </li>
-    </ul>
-  </script>
-
-  <!-- Scripts -->
-  <script type="text/javascript" src="./Suggestions.js"></script>
   <script type="text/javascript" src="./Message.js"></script>
   <script type="text/javascript" src="./App.js"></script>
 

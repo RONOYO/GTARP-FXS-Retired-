@@ -27,24 +27,17 @@ AddEventHandler('__cfx_internal:commandFallback', function(command)
     TriggerEvent('chatMessage', source, name, '/' .. command)
 
     if not WasEventCanceled() then
-        TriggerClientEvent('chatMessage', -1, name, { 255, 255, 255 }, '/' .. command) 
+        print("Command Processed by: " .. GetPlayerName(source) ..": '/" .. command .. "'") 
+
     end
-
     CancelEvent()
-end)
-
--- player join messages
-AddEventHandler('chat:init', function()
-    TriggerClientEvent('chatMessage', -1, '', { 255, 255, 255 }, '^2* ' .. GetPlayerName(source) .. ' joined.')
-end)
-
-AddEventHandler('playerDropped', function(reason)
-    TriggerClientEvent('chatMessage', -1, '', { 255, 255, 255 }, '^2* ' .. GetPlayerName(source) ..' left (' .. reason .. ')')
 end)
 
 RegisterCommand('say', function(source, args, rawCommand)
     TriggerClientEvent('chatMessage', -1, (source == 0) and 'console' or GetPlayerName(source), { 255, 255, 255 }, rawCommand:sub(5))
 end)
+
+-- player join messages
 
 -- command suggestions for clients
 local function refreshCommands(player)
