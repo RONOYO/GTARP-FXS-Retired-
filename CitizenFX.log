@@ -6814,3 +6814,901 @@
 [     96500] Sending heartbeat to live-internal.fivem.net:30110
 [    172422] : 
 [    183672] Command Processed by: [T-23] J. Andrew: '/tweet yo'
+[    728781] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[    732797] Started resource loadingscreen
+[    736953] Sending heartbeat to live-internal.fivem.net:30110
+[    767453] Connecting: [T-64] R. Young
+[    768344] Sending heartbeat to live-internal.fivem.net:30110
+[    948390] Sending heartbeat to live-internal.fivem.net:30110
+[    996703] Stopping resource commands
+[   1080562] Sending heartbeat to live-internal.fivem.net:30110
+[   1101000] Got a late vouch for ^1[Owner] A. Coleman - they're the current arbitrator!
+[   1101390] Got a late vouch for ^1[Owner] A. Coleman - they're the current arbitrator!
+[   1241859] Sending heartbeat to live-internal.fivem.net:30110
+[   1253375] Got a late vouch for [T-64] R. Young - they're the current arbitrator!
+[   1268906] Found new resource cmds in C:/FXS\GTARP-FXS/resources//[scripts]/cmds
+[   1271250] Error parsing script server.lua in resource cmds: server.lua:86: unexpected symbol near '<\226>'
+[   1271250] Failed to load script server.lua.
+[   1271250] Started resource cmds
+[   1292031] Command Processed by: [T-64] R. Young: '/911 hi'
+[   1397156] Stopping resource ui
+[   1397156] Started resource ui
+[   1400203] Stopping resource cmds
+[   1400219] Started resource cmds
+[   1421875] Sending heartbeat to live-internal.fivem.net:30110
+[   1601906] Sending heartbeat to live-internal.fivem.net:30110
+[   1767922] Stopping resource cmds
+[   1767937] Started resource cmds
+[   1772234] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'World3dToScreen2d')
+[   1772234] stack traceback:
+[   1772234] 	server.lua:7: in function 'DrawText3Ds'
+[   1772234] 	server.lua:3: in upvalue 'ref'
+[   1772234] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1772234] 	[C]: in function 'xpcall'
+[   1772234] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1772234] stack traceback:
+[   1772234] 	[C]: in function 'error'
+[   1772234] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1781906] Sending heartbeat to live-internal.fivem.net:30110
+[   1782109] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'World3dToScreen2d')
+[   1782109] stack traceback:
+[   1782109] 	server.lua:7: in function 'DrawText3Ds'
+[   1782109] 	server.lua:3: in upvalue 'ref'
+[   1782109] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1782109] 	[C]: in function 'xpcall'
+[   1782109] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1782109] stack traceback:
+[   1782125] 	[C]: in function 'error'
+[   1782125] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1801281] Stopping resource cmds
+[   1801281] Started resource cmds
+[   1803734] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'GetGameplayCamCoords')
+[   1803734] stack traceback:
+[   1803734] 	server.lua:7: in function 'DrawText3Ds'
+[   1803734] 	server.lua:3: in upvalue 'ref'
+[   1803734] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1803734] 	[C]: in function 'xpcall'
+[   1803734] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1803734] stack traceback:
+[   1803734] 	[C]: in function 'error'
+[   1803734] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1804703] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'GetGameplayCamCoords')
+[   1804703] stack traceback:
+[   1804703] 	server.lua:7: in function 'DrawText3Ds'
+[   1804703] 	server.lua:3: in upvalue 'ref'
+[   1804703] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1804703] 	[C]: in function 'xpcall'
+[   1804703] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1804703] stack traceback:
+[   1804703] 	[C]: in function 'error'
+[   1804703] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1808031] Command Processed by: [T-64] R. Young: '/hisdas'
+[   1884687] Stopping resource cmds
+[   1884703] Started resource cmds
+[   1887453] Command Processed by: [T-64] R. Young: '/hisdas'
+[   1890750] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'GetGameplayCamCoords')
+[   1890750] stack traceback:
+[   1890750] 	server.lua:7: in function 'DrawText3Ds'
+[   1890750] 	server.lua:3: in upvalue 'ref'
+[   1890750] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1890750] 	[C]: in function 'xpcall'
+[   1890750] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1890750] stack traceback:
+[   1890750] 	[C]: in function 'error'
+[   1890750] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1914234] Stopping resource cmds
+[   1914250] Started resource cmds
+[   1918781] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:7: attempt to call a nil value (global 'GetGameplayCamCoords')
+[   1918781] stack traceback:
+[   1918781] 	server.lua:7: in function 'DrawText3Ds'
+[   1918781] 	server.lua:3: in upvalue 'ref'
+[   1918781] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1918781] 	[C]: in function 'xpcall'
+[   1918781] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1918781] stack traceback:
+[   1918781] 	[C]: in function 'error'
+[   1918781] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1933531] Stopping resource cmds
+[   1933547] Started resource cmds
+[   1934281] Stopping resource cmds
+[   1934297] Started resource cmds
+[   1936844] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:24: attempt to call a nil value (global 'GetGameplayCamCoords')
+[   1936844] stack traceback:
+[   1936844] 	server.lua:24: in function 'DrawText3Ds'
+[   1936844] 	server.lua:20: in upvalue 'ref'
+[   1936844] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   1936844] 	[C]: in function 'xpcall'
+[   1936844] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   1936844] stack traceback:
+[   1936844] 	[C]: in function 'error'
+[   1936844] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   1961922] Sending heartbeat to live-internal.fivem.net:30110
+[   2026828] Stopping resource cmds
+[   2026844] Started resource cmds
+[   2027594] Stopping resource cmds
+[   2027594] Started resource cmds
+[   2028031] Stopping resource cmds
+[   2028047] Started resource cmds
+[   2028437] Stopping resource cmds
+[   2028453] Started resource cmds
+[   2029890] Stopping resource cmds
+[   2029906] Started resource cmds
+[   2052953] Stopping resource cmds
+[   2052969] Started resource cmds
+[   2056812] Error running call reference function for resource cmds: citizen:/scripting/lua/scheduler.lua:351: server.lua:4: attempt to call a nil value (global 'SetTextScale')
+[   2056812] stack traceback:
+[   2056812] 	server.lua:4: in function 'DrawText3Ds'
+[   2056812] 	server.lua:19: in upvalue 'ref'
+[   2056812] 	citizen:/scripting/lua/scheduler.lua:337: in function <citizen:/scripting/lua/scheduler.lua:336>
+[   2056812] 	[C]: in function 'xpcall'
+[   2056812] 	citizen:/scripting/lua/scheduler.lua:336: in function <citizen:/scripting/lua/scheduler.lua:335>
+[   2056812] stack traceback:
+[   2056812] 	[C]: in function 'error'
+[   2056812] 	citizen:/scripting/lua/scheduler.lua:351: in function <citizen:/scripting/lua/scheduler.lua:322>
+[   2141922] Sending heartbeat to live-internal.fivem.net:30110
+[   2198344] Stopping resource cmds
+[   2198359] Started resource cmds
+[   2205859] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2205859] stack traceback:
+[   2205859] 	server.lua:18: in upvalue 'handler'
+[   2205859] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2205859] stack traceback:
+[   2205859] 	[C]: in function 'error'
+[   2205859] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2205859] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2205859] : 
+[   2210219] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2210219] stack traceback:
+[   2210219] 	server.lua:18: in upvalue 'handler'
+[   2210219] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2210219] stack traceback:
+[   2210219] 	[C]: in function 'error'
+[   2210219] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2210219] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2210219] Command Processed by: [T-64] R. Young: '/hi'
+[   2253969] Stopping resource cmds
+[   2253984] Started resource cmds
+[   2321984] Sending heartbeat to live-internal.fivem.net:30110
+[   2403906] Stopping resource cmds
+[   2403922] Error loading script server.lua in resource cmds: server.lua:16: attempt to call a nil value (global 'LocalPed')
+[   2403922] stack traceback:
+[   2403922] 	server.lua:16: in main chunk
+[   2403922] Failed to load script server.lua.
+[   2403922] Started resource cmds
+[   2405062] Stopping resource cmds
+[   2405078] Error loading script server.lua in resource cmds: server.lua:16: attempt to call a nil value (global 'LocalPed')
+[   2405078] stack traceback:
+[   2405078] 	server.lua:16: in main chunk
+[   2405078] Failed to load script server.lua.
+[   2405078] Started resource cmds
+[   2405656] Stopping resource cmds
+[   2405672] Error loading script server.lua in resource cmds: server.lua:16: attempt to call a nil value (global 'LocalPed')
+[   2405672] stack traceback:
+[   2405672] 	server.lua:16: in main chunk
+[   2405672] Failed to load script server.lua.
+[   2405687] Started resource cmds
+[   2407219] Stopping resource cmds
+[   2407234] Error loading script server.lua in resource cmds: server.lua:16: attempt to call a nil value (global 'LocalPed')
+[   2407234] stack traceback:
+[   2407234] 	server.lua:16: in main chunk
+[   2407234] Failed to load script server.lua.
+[   2407234] Started resource cmds
+[   2442687] Stopping resource cmds
+[   2442687] Started resource cmds
+[   2497031] Stopping resource cmds
+[   2497047] Started resource cmds
+[   2502000] Sending heartbeat to live-internal.fivem.net:30110
+[   2521312] Stopping resource cmds
+[   2521312] Error parsing script server.lua in resource cmds: server.lua:21: unexpected symbol near ')'
+[   2521328] Failed to load script server.lua.
+[   2521328] Started resource cmds
+[   2567078] Stopping resource cmds
+[   2567094] Started resource cmds
+[   2568140] Stopping resource cmds
+[   2568140] Started resource cmds
+[   2574547] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2574547] stack traceback:
+[   2574547] 	server.lua:18: in upvalue 'handler'
+[   2574547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2574547] stack traceback:
+[   2574547] 	[C]: in function 'error'
+[   2574547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2574547] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2574547] Command Processed by: [T-64] R. Young: '//'
+[   2581125] Stopping resource cmds
+[   2581140] Started resource cmds
+[   2583328] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2583328] stack traceback:
+[   2583328] 	server.lua:18: in upvalue 'handler'
+[   2583328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2583328] stack traceback:
+[   2583328] 	[C]: in function 'error'
+[   2583328] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2583328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2583328] Command Processed by: [T-64] R. Young: '//'
+[   2584469] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2584469] stack traceback:
+[   2584469] 	server.lua:18: in upvalue 'handler'
+[   2584469] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2584469] stack traceback:
+[   2584469] 	[C]: in function 'error'
+[   2584469] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2584469] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2584469] Command Processed by: [T-64] R. Young: '//'
+[   2585625] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2585625] stack traceback:
+[   2585625] 	server.lua:18: in upvalue 'handler'
+[   2585625] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2585625] stack traceback:
+[   2585625] 	[C]: in function 'error'
+[   2585625] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2585625] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2585640] Command Processed by: [T-64] R. Young: '//'
+[   2587969] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:18: attempt to call a nil value (global 'stringsplit')
+[   2587969] stack traceback:
+[   2587969] 	server.lua:18: in upvalue 'handler'
+[   2587969] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2587969] stack traceback:
+[   2587969] 	[C]: in function 'error'
+[   2587969] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2587969] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2587984] Command Processed by: [T-64] R. Young: '//'
+[   2682015] Sending heartbeat to live-internal.fivem.net:30110
+[   2733859] Stopping resource cmds
+[   2733859] Started resource cmds
+[   2737031] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:3: attempt to call a nil value (global 'stringsplit')
+[   2737031] stack traceback:
+[   2737031] 	server.lua:3: in upvalue 'handler'
+[   2737031] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2737031] stack traceback:
+[   2737031] 	[C]: in function 'error'
+[   2737031] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2737031] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2737031] Command Processed by: [T-64] R. Young: '// penis'
+[   2740219] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:3: attempt to call a nil value (global 'stringsplit')
+[   2740219] stack traceback:
+[   2740219] 	server.lua:3: in upvalue 'handler'
+[   2740219] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2740219] stack traceback:
+[   2740219] 	[C]: in function 'error'
+[   2740219] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2740219] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2740219] Command Processed by: [T-64] R. Young: '// hi'
+[   2811906] Stopping resource cmds
+[   2811906] Started resource cmds
+[   2822703] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   2822703] stack traceback:
+[   2822703] 	server.lua:2: in upvalue 'handler'
+[   2822703] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2822703] stack traceback:
+[   2822703] 	[C]: in function 'error'
+[   2822703] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2822703] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2822703] Command Processed by: [T-64] R. Young: '// sdas'
+[   2838906] Started resource commands
+[   2862047] Sending heartbeat to live-internal.fivem.net:30110
+[   2925547] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   2925547] stack traceback:
+[   2925547] 	server.lua:2: in upvalue 'handler'
+[   2925547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2925547] stack traceback:
+[   2925547] 	[C]: in function 'error'
+[   2925547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2925547] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2925547] Command Processed by: [T-64] R. Young: '/dv'
+[   2965047] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   2965047] stack traceback:
+[   2965047] 	server.lua:2: in upvalue 'handler'
+[   2965047] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2965047] stack traceback:
+[   2965047] 	[C]: in function 'error'
+[   2965047] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2965047] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2986125] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   2986125] stack traceback:
+[   2986125] 	server.lua:2: in upvalue 'handler'
+[   2986125] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2986125] stack traceback:
+[   2986125] 	[C]: in function 'error'
+[   2986125] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2986125] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2990328] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   2990328] stack traceback:
+[   2990328] 	server.lua:2: in upvalue 'handler'
+[   2990328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2990328] stack traceback:
+[   2990328] 	[C]: in function 'error'
+[   2990328] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2990328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3025469] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3025469] stack traceback:
+[   3025484] 	server.lua:2: in upvalue 'handler'
+[   3025484] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3025484] stack traceback:
+[   3025484] 	[C]: in function 'error'
+[   3025484] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3025484] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3042094] Sending heartbeat to live-internal.fivem.net:30110
+[   3054969] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3054969] stack traceback:
+[   3054969] 	server.lua:2: in upvalue 'handler'
+[   3054969] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3054969] stack traceback:
+[   3054969] 	[C]: in function 'error'
+[   3054969] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3054969] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3071312] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3071328] stack traceback:
+[   3071328] 	server.lua:2: in upvalue 'handler'
+[   3071328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3071328] stack traceback:
+[   3071328] 	[C]: in function 'error'
+[   3071328] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3071328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3089797] Stopping resource commands
+[   3089797] Started resource commands
+[   3092484] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3092484] stack traceback:
+[   3092484] 	server.lua:2: in upvalue 'handler'
+[   3092484] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3092484] stack traceback:
+[   3092484] 	[C]: in function 'error'
+[   3092484] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3092484] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3095265] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3095265] stack traceback:
+[   3095265] 	server.lua:2: in upvalue 'handler'
+[   3095265] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3095265] stack traceback:
+[   3095265] 	[C]: in function 'error'
+[   3095265] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3095265] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3095265] Command Processed by: [T-64] R. Young: '/p hdsad'
+[   3097594] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3097594] stack traceback:
+[   3097594] 	server.lua:2: in upvalue 'handler'
+[   3097594] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3097594] stack traceback:
+[   3097594] 	[C]: in function 'error'
+[   3097594] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3097594] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3097609] Command Processed by: [T-64] R. Young: '/o'
+[   3101015] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3101015] stack traceback:
+[   3101015] 	server.lua:2: in upvalue 'handler'
+[   3101015] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3101015] stack traceback:
+[   3101015] 	[C]: in function 'error'
+[   3101015] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3101015] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3104547] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3104547] stack traceback:
+[   3104547] 	server.lua:2: in upvalue 'handler'
+[   3104547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3104547] stack traceback:
+[   3104547] 	[C]: in function 'error'
+[   3104547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3104547] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3104547] Command Processed by: [T-64] R. Young: '/ds'
+[   3112859] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3112859] stack traceback:
+[   3112859] 	server.lua:2: in upvalue 'handler'
+[   3112859] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3112859] stack traceback:
+[   3112859] 	[C]: in function 'error'
+[   3112859] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3112859] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3112875] Command Processed by: [T-64] R. Young: '/panic'
+[   3121078] Stopping resource commands
+[   3121094] Started resource commands
+[   3124234] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3124234] stack traceback:
+[   3124234] 	server.lua:2: in upvalue 'handler'
+[   3124234] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3124234] stack traceback:
+[   3124234] 	[C]: in function 'error'
+[   3124234] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3124234] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3128640] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3128640] stack traceback:
+[   3128640] 	server.lua:2: in upvalue 'handler'
+[   3128640] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3128640] stack traceback:
+[   3128640] 	[C]: in function 'error'
+[   3128640] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3128640] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3128640] Command Processed by: [T-64] R. Young: '/panic s'
+[   3130922] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3130922] stack traceback:
+[   3130922] 	server.lua:2: in upvalue 'handler'
+[   3130922] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3130922] stack traceback:
+[   3130922] 	[C]: in function 'error'
+[   3130922] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3130922] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3168328] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3168328] stack traceback:
+[   3168328] 	server.lua:2: in upvalue 'handler'
+[   3168328] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3168328] stack traceback:
+[   3168328] 	[C]: in function 'error'
+[   3168328] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3168328] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3173547] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3173547] stack traceback:
+[   3173547] 	server.lua:2: in upvalue 'handler'
+[   3173547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3173547] stack traceback:
+[   3173547] 	[C]: in function 'error'
+[   3173547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3173547] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3173547] Command Processed by: [T-64] R. Young: '/ud Ronan Young'
+[   3177312] Error running system event handling function for resource cmds: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:2: attempt to call a nil value (global 'stringsplit')
+[   3177312] stack traceback:
+[   3177312] 	server.lua:2: in upvalue 'handler'
+[   3177312] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   3177312] stack traceback:
+[   3177312] 	[C]: in function 'error'
+[   3177312] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   3177312] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   3187234] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       140] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       171] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       171] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       187] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       187] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       203] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       218] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       218] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       234] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       250] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       265] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       265] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       281] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       296] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       296] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       312] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       312] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       328] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       375] Started resource sessionmanager
+[       375] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       109] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       141] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       172] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       172] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       172] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       188] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       234] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       266] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       266] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       297] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       313] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       313] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       359] Started resource sessionmanager
+[       391] Started resource mapmanager
+[       391] Started resource chat
+[       406] Started resource spawnmanager
+[       406] Started gametype Freeroam
+[       406] Started resource fivem
+[       406] Started resource hardcap
+[       422] Started resource rconlog
+[       422] Started resource ui
+[       438] Started resource commands
+[       438] ^3Couldn't find resource controls.^7
+[       453] Started resource loadingscreen
+[       453] ^3Couldn't find resource realism.^7
+[      1109] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1396052430
+[      1141] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1141] Instantiated instance of script GHMatti.Http.Request.
+[      1625] Instantiated instance of script vMenuServer.BanManager.
+[      1719] Instantiated instance of script vMenuServer.MainServer.
+[      1734] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1781] Started resource vMenu
+[      1781] ^3Couldn't find resource assets1.^7
+[      1797] Started resource assets2
+[      1797] ^3Couldn't find resource assets3.^7
+[      1797] ^3Couldn't find resource assets4.^7
+[      1797] Could not open logo.png for reading.
+[      1813] Authenticating server license key...
+[      2438] Server license key authentication succeeded. Welcome!
+[      2484] Sending heartbeat to live-internal.fivem.net:30110
+[      2891] Started map fivem-map-hipster
+[      2906] Started resource fivem-map-hipster
+[      2906] hitch warning: frame time of 427 milliseconds
+[      3578] 
+[      3578] [vMenu] Checking for updates.
+[      3609] [vMenu] Your version of vMenu is up to date! Good job!
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       156] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       172] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       172] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       187] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       187] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       219] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       234] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       234] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       250] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       266] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       281] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       297] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       297] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       344] Started resource sessionmanager
+[       359] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       140] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       171] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       171] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       171] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       187] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       218] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       218] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       250] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       265] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       265] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       296] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       296] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       312] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       312] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       359] Started resource sessionmanager
+[       375] Started resource mapmanager
+[       390] Started resource chat
+[       390] Started resource spawnmanager
+[       406] Started gametype SF-RP
+[       406] Started resource fivem
+[       406] Started resource hardcap
+[       421] Started resource rconlog
+[       421] Started resource ui
+[       421] Started resource commands
+[       437] ^3Couldn't find resource controls.^7
+[       437] Started resource loadingscreen
+[       453] ^3Couldn't find resource realism.^7
+[      1093] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_668217107
+[      1109] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1109] Instantiated instance of script GHMatti.Http.Request.
+[      1609] Instantiated instance of script vMenuServer.BanManager.
+[      1703] Instantiated instance of script vMenuServer.MainServer.
+[      1718] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1765] Started resource vMenu
+[      1765] ^3Couldn't find resource assets1.^7
+[      1781] Started resource assets2
+[      1781] ^3Couldn't find resource assets3.^7
+[      1781] ^3Couldn't find resource assets4.^7
+[      1781] Could not open logo.png for reading.
+[      1796] Authenticating server license key...
+[      2421] Server license key authentication succeeded. Welcome!
+[      2468] Sending heartbeat to live-internal.fivem.net:30110
+[      2859] Started map fivem-map-skater
+[      2859] Started resource fivem-map-skater
+[      2875] hitch warning: frame time of 407 milliseconds
+[      3515] 
+[      3515] [vMenu] Checking for updates.
+[      3546] [vMenu] Your version of vMenu is up to date! Good job!
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       140] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       140] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       172] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       172] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       187] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       187] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       234] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       265] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       265] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       297] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       312] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       312] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       359] Started resource sessionmanager
+[       375] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       110] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       172] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       172] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       188] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       188] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       235] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       235] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       266] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       266] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       297] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       297] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       313] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       360] Started resource sessionmanager
+[       375] Started resource mapmanager
+[       391] Started resource chat
+[       391] Started resource spawnmanager
+[       391] Started gametype SF-RP
+[       406] Started resource fivem
+[       406] Started resource hardcap
+[       406] Started resource rconlog
+[       422] Started resource ui
+[       422] Started resource commands
+[       422] ^3Couldn't find resource controls.^7
+[       438] Started resource loadingscreen
+[       453] ^3Couldn't find resource realism.^7
+[      1094] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1503486515
+[      1125] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1125] Instantiated instance of script GHMatti.Http.Request.
+[      1610] Instantiated instance of script vMenuServer.BanManager.
+[      1703] Instantiated instance of script vMenuServer.MainServer.
+[      1719] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1766] Started resource vMenu
+[      1766] ^3Couldn't find resource assets1.^7
+[      1781] Started resource assets2
+[      1781] ^3Couldn't find resource assets3.^7
+[      1781] ^3Couldn't find resource assets4.^7
+[      1781] Could not open logo.png for reading.
+[      1797] Authenticating server license key...
+[      2422] Server license key authentication succeeded. Welcome!
+[      2485] Sending heartbeat to live-internal.fivem.net:30110
+[      2875] Started map fivem-map-hipster
+[      2875] Started resource fivem-map-hipster
+[      2891] hitch warning: frame time of 414 milliseconds
+[      3578] 
+[      3578] [vMenu] Checking for updates.
+[      3610] [vMenu] Your version of vMenu is up to date! Good job!
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       110] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       125] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       141] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       156] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       172] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       172] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       188] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       188] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       235] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       235] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       235] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       250] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       250] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       266] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       281] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       297] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       313] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       344] Started resource sessionmanager
+[       360] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       141] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       141] Found new resource fivem-map-hipster in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-hipster
+[       156] Found new resource fivem-map-skater in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-map-skater
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       172] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       172] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       188] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       188] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       203] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       203] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       219] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       219] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       234] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       250] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       266] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       266] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       266] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       281] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       297] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       297] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       313] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       313] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       359] Started resource sessionmanager
+[       375] Started resource mapmanager
+[       391] Started resource chat
+[       391] Started resource spawnmanager
+[       406] Started gametype SF-RP
+[       406] Started resource fivem
+[       406] Started resource hardcap
+[       422] Started resource rconlog
+[       422] Started resource ui
+[       422] Started resource commands
+[       438] ^3Couldn't find resource controls.^7
+[       453] Started resource loadingscreen
+[       453] ^3Couldn't find resource realism.^7
+[      1094] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1030127986
+[      1109] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1109] Instantiated instance of script GHMatti.Http.Request.
+[      1594] Instantiated instance of script vMenuServer.BanManager.
+[      1672] Instantiated instance of script vMenuServer.MainServer.
+[      1688] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1734] Started resource vMenu
+[      1734] ^3Couldn't find resource assets1.^7
+[      1750] Started resource assets2
+[      1750] ^3Couldn't find resource assets3.^7
+[      1750] ^3Couldn't find resource assets4.^7
+[      1750] Could not open logo.png for reading.
+[      1766] Authenticating server license key...
+[      2063] Server license key authentication succeeded. Welcome!
+[      2109] Sending heartbeat to live-internal.fivem.net:30110
+[      2141] Started map fivem-map-hipster
+[      2141] Started resource fivem-map-hipster
+[      2594] hitch warning: frame time of 381 milliseconds
+[      3313] 
+[      3313] [vMenu] Checking for updates.
+[      3344] [vMenu] Your version of vMenu is up to date! Good job!
+[     32734] Connecting: [T-64] R. Young
+[     34047] Sending heartbeat to live-internal.fivem.net:30110
+[     77906] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[     80469] Started resource coordsaver
+[    214063] Sending heartbeat to live-internal.fivem.net:30110
+[    220922] Command Processed by: [T-64] R. Young: '/sd'
+[    366328] Stopping resource commands
+[    366344] Started resource commands
+[    394094] Sending heartbeat to live-internal.fivem.net:30110
+[    421828] Stopping resource commands
+[    421844] Started resource commands
+[    574109] Sending heartbeat to live-internal.fivem.net:30110
+[    738563] Stopping resource commands
+[    738578] Started resource commands
+[    754125] Sending heartbeat to live-internal.fivem.net:30110
+[    805516] Stopping resource commands
+[    805516] Started resource commands
+[    900188] Stopping resource commands
+[    900203] Started resource commands
+[    923625] Stopping resource commands
+[    923625] Started resource commands
+[    934141] Sending heartbeat to live-internal.fivem.net:30110
+[   1030078] Stopping resource commands
+[   1030094] Started resource commands
+[   1054203] Stopping resource commands
+[   1054219] Started resource commands
+[   1066844] Stopping resource commands
+[   1066859] Started resource commands
+[   1080391] Stopping resource commands
+[   1080406] Started resource commands
+[   1114172] Sending heartbeat to live-internal.fivem.net:30110
+[   1200156] Stopping resource commands
+[   1200156] Started resource commands
+[   1219156] Stopping resource commands
+[   1219156] Started resource commands
+[   1254234] Stopping resource commands
+[   1254250] Started resource commands
+[   1294188] Sending heartbeat to live-internal.fivem.net:30110
+[   1300703] Stopping resource commands
+[   1300719] Started resource commands
+[   1371859] Stopping resource commands
+[   1371875] Started resource commands
+[   1377297] Command Processed by: [T-64] R. Young: '/ooc huck'
+[   1380938] Stopping resource commands
+[   1380938] Started resource commands
+[   1386734] Command Processed by: [T-64] R. Young: '/ooc hi'
+[   1394125] Stopping resource commands
+[   1394125] Started resource commands
+[   1410375] Stopping resource commands
+[   1410375] Started resource commands
+[   1446938] Stopping resource commands
+[   1446938] Started resource commands
+[   1474219] Sending heartbeat to live-internal.fivem.net:30110
+[   1654219] Sending heartbeat to live-internal.fivem.net:30110
+[   1725016] Stopping resource commands
+[   1725031] Started resource commands
+[   1730266] Command Processed by: [T-64] R. Young: '/panic hiusd'
+[   1749781] Stopping resource commands
+[   1749797] Started resource commands
+[   1802406] Stopping resource commands
+[   1802406] Started resource commands
+[   1805375] Command Processed by: [T-64] R. Young: '/apnic'
+[   1820250] Stopping resource commands
+[   1820266] Started resource commands
+[   1834250] Sending heartbeat to live-internal.fivem.net:30110
+[   1859719] Stopping resource commands
+[   1859719] Started resource commands
+[   1919094] Sending heartbeat to live-internal.fivem.net:30110

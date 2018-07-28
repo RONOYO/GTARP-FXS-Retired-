@@ -598,7 +598,7 @@ end
 -- CONFIG --
 
 -- The watermark text --
-servername = "San Francisco RP - discord.gg/wMxBk45"
+servername = "San Francisco RP"
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
