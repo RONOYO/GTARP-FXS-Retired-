@@ -1,15 +1,26 @@
 vehicles = {
 	[1] = {
-	   {name="Police Buffalo", model="police2"},
-	   {name="Police Stanier", model="police"},
-	   {name="Police Interceptor", model="police3"},
-	   {name="Police Motorcycle", model="policeb"},
-	   {name="Police Transport Van", model="policet"},
-	   {name="Undercover Police Stanier", model="police4"}
+	   {name="Police Buffalo", model="hwaycar"},
+	   {name="Police Stanier", model="hwaycar2"},
+	   {name="Police Interceptor", model="hwaycar3"},
+	   {name="Police Motorcycle", model="hwaycar4"},
+	   {name="Police Transport Van", model="hwaycar5"},
+	   {name="Undercover Police Stanier", model="hwaycar6"}
+	   {name="Police Interceptor", model="hwaycar7"},
+	   {name="Police Motorcycle", model="hwaycar8"},
+	   {name="Police Transport Van", model="hwaycar9"},
+	   {name="Undercover Police Stanier", model="hwaycar10"}
 	 },
 	[2] = {
-	   {name="Sheriff Stanier", model="sheriff"},
-	   {name="Sheriff Granger", model="sheriff2"},
-	   {name="Police Motorcycle", model="policeb"}
+	   {name="Police Buffalo", model="hwaycar"},
+	   {name="Police Stanier", model="hwaycar2"},
+	   {name="Police Interceptor", model="hwaycar3"},
+	   {name="Police Motorcycle", model="hwaycar4"},
+	   {name="Police Transport Van", model="hwaycar5"},
+	   {name="Undercover Police Stanier", model="hwaycar6"}
+	   {name="Police Interceptor", model="hwaycar7"},
+	   {name="Police Motorcycle", model="hwaycar8"},
+	   {name="Police Transport Van", model="hwaycar9"},
+	   {name="Undercover Police Stanier", model="hwaycar10"}
 	 },
 }

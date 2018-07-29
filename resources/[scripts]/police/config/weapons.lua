@@ -1,12 +1,10 @@
--- Configure the weapons that cops can choose in the armory room. 
+ 
 weapons = {
-    {name="Assault SMG", hash="WEAPON_ASSAULTSMG"},
-    {name="Assault Shotgun", hash="WEAPON_ASSAULTSHOTGUN"},
-	{name="Combact Pistol", hash="WEAPON_COMBATPISTOL"},
-    {name="Heavy Sniper", hash="WEAPON_HEAVYSNIPER"},
-    {name="Micro SMG", hash="WEAPON_MICROSMG"},
-	{name="Pistol 50.", hash="WEAPON_PISTOL50"},
-	{name="Shotgun", hash="WEAPON_PUMPSHOTGUN"},
-	{name="SMG", hash="WEAPON_SMG"},
+	{name="Glock 27", hash="WEAPON_COMBATPISTOL"},
+	{name="Beretta M9", hash="WEAPON_PISTOL"},
+	{name="Taser x26", hash="WEAPON_STUNGUN"},
+	{name="Remington 870", hash="WEAPON_PUMPSHOTGUN"},
+	{name="AR-15", hash="WEAPON_CARBINERIFLE"},
+	{name="ASP Baton", hash="WEAPON_NIGHTSTICK"},
 	{name="Smoke grenade", hash="WEAPON_SMOKEGRENADE"},
 }
