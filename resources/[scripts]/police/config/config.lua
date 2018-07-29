@@ -1,5 +1,5 @@
 config = {
-	enableVersionNotifier = true, --notify if a new version is available (server console)
+	enableVersionNotifier = false, --notify if a new version is available (server console)
 
 	useModifiedEmergency = false, --require modified emergency script
 	useModifiedBanking = false, --require Simple Banking
@@ -17,9 +17,9 @@ config = {
 	useNativePoliceGarage = true,
 	enableNeverWanted = true,
 	
-	propsSpawnLimitByCop = 20,
+	propsSpawnLimitByCop = -1,
 	
-	displayRankBeforeNameOnChat = true,
+	displayRankBeforeNameOnChat = false,
 	
 	--Available languages : 'en', 'fr', 'de'
 	lang = 'en',
@@ -33,74 +33,72 @@ config = {
 	
 	bindings = {
 		interact_position = 51, -- E
-		use_police_menu = 166, -- F5
-		accept_fine = 246, -- Y
-		refuse_fine = 45 -- R
+		use_police_menu = 170, -- F3
+		accept_fine = 166, -- F5
+		refuse_fine = 167 -- F6
 	},
 
 	--Customizable Departments
 	departments = {
 		label = {
-			[0] = "Park Rangers",
-			[1] = "Los Santos Police Department",
-			[2] = "Sheriff's Department",
-			[3] = "State Highway Patrol",
-			[4] = "Prison Department"
+			[1] = "Blaine County Sheriff's Office",
+			[2] = "California Highway Patrol",
 		},
 
 		minified_label = {
-			[0] = "PR",
-			[1] = "LSPD",
-			[2] = "SHR",
-			[3] = "SHP ",
-			[4] = "PRISON"
+			[1] = "BCSO",
+			[2] = "CHP"
 		}
 	},
 	
-	--Customizable ranks
 	rank = {
 
-		--You can add or remove ranks as you want (just make sure to use numeric index, ascending)
 		label = {
-			[0] = "Trainee", -- Ranger Rank
-			[1] = "Trainee", -- LSPD Rank
-			[2] = "Trainee", -- Sheriff Rank
-			[3] = "Trainee", -- State Highway Patrol Rank
+			[1] = "Deputy Recruit",
+			[2] = "Probationary Trooper", 
 
-			[4] = "Park Ranger",
-			[5] = "Police Officer",
-			[6] = "Deputy Sheriff",
-			[7] = "State Trooper",
+			[3] = "Deputy",
+			[4] = "Trooper",
 
-			[8] = "Park Ranger II",
-			[9] = "Master Police Officer",
-			[10] = "Deputy Sheriff II",
-			[11] = "State Trooper II",
+			[5] = "Senior Deputy",
+			[6] = "Trooper First Class",
 
+			[7] = "Corporal",
+			[8] = "Corporal",
+
+			[9] = "Senior Corporal",
+			[10] = "Senior Corporal",
+
+			[11] = "Sergeant",
 			[12] = "Sergeant",
-			[13] = "Sergeant",
-			[14] = "Sergeant",
-			[15] = "Sergeant",
-
-			[16] = "Lieutenant",
-			[17] = "Lieutenant",
-			[18] = "Lieutenant",
-			[19] = "Lieutenant",
-
-			[20] = "Captian",
-			[21] = "Captian",
-			[22] = "Captian",
-			[23] = "Captian",
  
-			[24] = "Game Warden ",
-			[25] = "Chief of Police",
-			[26] = "Sheriff",
-			[27] = "Chief of SHP",
+			[13] = "Senior Sergeant",
+			[14] = "Staff Sergeant",
 
-			[28] = "Ranger Admin Rank",
-			[29] = "Police Admin Rank",
-			[30] = "Sheriff Admin Rank",
-			[31] = "SHP Admin Rank",
+			[15] = "Lieutenant",
+			[16] = "Lieutenant", 
+
+			[17] = "Captain",
+			[18] = "Captain",
+
+			[19] = "Major",
+			[20] = "Major",
+
+			[21] = "Colonel",
+			[22] = "Lieutenant Colonel",
+
+			[23] = "Division Chief",
+			[24] = "Colonel",
+
+			[25] = "Assistant Sheriff",
+			[26] = "Commander",
+ 
+			[27] = "Undersheriff",
+			[28] = "Deputy Commissioner",
+
+			[29] = "Sheriff",
+			[30] = "Commissioner",
+
 		},
 
 		--Used for chat
