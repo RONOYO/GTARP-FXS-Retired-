@@ -60,15 +60,21 @@ function giveBasicKit()
 	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_STUNGUN"), -1, true, true)
 	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_NIGHTSTICK"), -1, true, true)
 	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_FLASHLIGHT"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_PISTOL"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_COMBATPISTOL"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_WEAPON_PUMPSHOTGUN"), 200, true, true)
+
 
 	PlaySoundFrontend(-1, "PICK_UP", "HUD_FRONTEND_DEFAULT_SOUNDSET", true)
 end
 
 function giveBasicPrisonKit()
-	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_PISTOL50"), -1, true, true)
 	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_STUNGUN"), -1, true, true)
-	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_NIGHTSTICK"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_NIGHTSTICK"), -1, true, true)
 	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_FLASHLIGHT"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_PISTOL"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_COMBATPISTOL"), 200, true, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey("WEAPON_WEAPON_PUMPSHOTGUN"), 200, true, true)
 
 	PlaySoundFrontend(-1, "PICK_UP", "HUD_FRONTEND_DEFAULT_SOUNDSET", true)
 end
@@ -96,7 +102,7 @@ function removeBulletproofVest()
 end
 
 function GiveCustomWeapon(weaponData)
-	GiveWeaponToPed(PlayerPedId(), GetHashKey(weaponData), -1, false, true)
+	GiveWeaponToPed(PlayerPedId(), GetHashKey(weaponData), 200, false, true)
 	PlaySoundFrontend(-1, "PICK_UP", "HUD_FRONTEND_DEFAULT_SOUNDSET", true)
 end
 

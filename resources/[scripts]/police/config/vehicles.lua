@@ -5,7 +5,7 @@ vehicles = {
 	   {name="Police Interceptor", model="hwaycar3"},
 	   {name="Police Motorcycle", model="hwaycar4"},
 	   {name="Police Transport Van", model="hwaycar5"},
-	   {name="Undercover Police Stanier", model="hwaycar6"}
+	   {name="Undercover Police Stanier", model="hwaycar6"},
 	   {name="Police Interceptor", model="hwaycar7"},
 	   {name="Police Motorcycle", model="hwaycar8"},
 	   {name="Police Transport Van", model="hwaycar9"},
@@ -17,7 +17,7 @@ vehicles = {
 	   {name="Police Interceptor", model="hwaycar3"},
 	   {name="Police Motorcycle", model="hwaycar4"},
 	   {name="Police Transport Van", model="hwaycar5"},
-	   {name="Undercover Police Stanier", model="hwaycar6"}
+	   {name="Undercover Police Stanier", model="hwaycar6"},
 	   {name="Police Interceptor", model="hwaycar7"},
 	   {name="Police Motorcycle", model="hwaycar8"},
 	   {name="Police Transport Van", model="hwaycar9"},

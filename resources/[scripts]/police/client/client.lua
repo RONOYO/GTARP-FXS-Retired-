@@ -326,7 +326,7 @@ function enableCopBlips()
 			HideNumberOnBlip( blip)
 			SetBlipNameToPlayerName(blip, id)
 			
-			SetBlipScale(blip,  0.85)
+			SetBlipScale(blip,  0.8)
 			SetBlipAlpha(blip, 255)
 			
 			table.insert(blipsCops, blip)
@@ -340,7 +340,7 @@ function enableCopBlips()
 			end
 			
 			SetBlipNameToPlayerName(blip, id)
-			SetBlipScale(blip, 0.85)
+			SetBlipScale(blip, 0.8)
 			SetBlipAlpha(blip, 255)
 			
 			table.insert(blipsCops, blip)
@@ -413,7 +413,7 @@ function isNearTakeService()
 		CloseMenu()
 	end
 	if(distance < 30) then
-		DrawMarker(1, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 1.0, 1.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
+		DrawMarker(27, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 1.0, 1.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
 	end
 	if(distance < 2) then
 		return true
@@ -436,7 +436,7 @@ function isNearStationGarage()
 		CloseMenu()
 	end
 	if(distance < 30) then
-		DrawMarker(1, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 2.0, 2.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
+		DrawMarker(23, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 2.0, 2.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
 	end
 	if(distance < 2) then
 		return true
@@ -456,7 +456,7 @@ function isNearHelicopterStation()
 	end
 	
 	if(distance < 30) then
-		DrawMarker(1, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 2.5, 2.5, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
+		DrawMarker(23, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 2.5, 2.5, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
 	end
 	if(distance < 2) then
 		return true
@@ -479,7 +479,7 @@ function isNearArmory()
 		CloseMenu()
 	end
 	if(distance < 30) then
-		DrawMarker(1, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 1.0, 1.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
+		DrawMarker(27, pos.x, pos.y, pos.z-1, 0, 0, 0, 0, 0, 0, 1.0, 1.0, 1.0, 0, 155, 255, 200, 0, 0, 2, 0, 0, 0, 0)
 	end
 	if(distance < 2) then
 		return true
@@ -558,6 +558,8 @@ Citizen.CreateThread(function()
 		for _, item in pairs(clockInStation) do
 			item.blip = AddBlipForCoord(item.x, item.y, item.z)
 			SetBlipSprite(item.blip, 60)
+			SetBlipColour(item.blip, 3)
+			SetBlipScale(item.blip, 0.8)
 			SetBlipAsShortRange(item.blip, true)
 
 			BeginTextCommandSetBlipName("STRING")
