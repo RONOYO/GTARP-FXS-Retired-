@@ -57,8 +57,8 @@ AddEventHandler('police:receiveIsCop', function(svrank,svdept)
 			isCop = false
 		else
 			isCop = true
-			rank = 0
-			dept = 0
+			rank = 1
+			dept = 1
 			load_cloackroom()
 			load_armory()
 			load_garage()

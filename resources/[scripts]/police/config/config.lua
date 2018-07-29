@@ -47,7 +47,7 @@ config = {
 
 		minified_label = {
 			[1] = "BCSO",
-			[2] = "CHP"
+			[2] = "CHP",
 		}
 	},
 	
