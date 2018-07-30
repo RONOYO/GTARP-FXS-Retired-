@@ -1,5 +1,5 @@
 vehicles = {
-	[1] = {
+	[0] = {
 	   {name="Police Buffalo", model="hwaycar"},
 	   {name="Police Stanier", model="hwaycar2"},
 	   {name="Police Interceptor", model="hwaycar3"},
@@ -11,7 +11,7 @@ vehicles = {
 	   {name="Police Transport Van", model="hwaycar9"},
 	   {name="Undercover Police Stanier", model="hwaycar10"}
 	 },
-	[2] = {
+	[1] = {
 	   {name="Police Buffalo", model="hwaycar"},
 	   {name="Police Stanier", model="hwaycar2"},
 	   {name="Police Interceptor", model="hwaycar3"},

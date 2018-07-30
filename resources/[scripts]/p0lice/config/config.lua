@@ -41,13 +41,13 @@ config = {
 	--Customizable Departments
 	departments = {
 		label = {
-			[1] = "Blaine County Sheriff's Office",
-			[2] = "California Highway Patrol",
+			[0] = "Blaine County Sheriff's Office",
+			[1] = "Staff Team",
 		},
 
 		minified_label = {
-			[1] = "BCSO",
-			[2] = "CHP",
+			[0] = "BCSO",
+			[1] = "STAFF",
 		}
 	},
 	
@@ -202,14 +202,14 @@ clockInStation = {
 }
 
 garageStation = {
-   {x=-470.85266113281, y=6022.9296875, z=32.340530395508},  -- La Mesa
-   {x=1873.3372802734, y=3687.3508300781, z=34.616954803467},  -- Mission Row
-   {x=452.115966796875, y=-1018.10681152344, z=29.4786586761475}, -- Sandy Shore
-   {x=855.24249267578, y=-1279.9300537109, z=27.513223648071 }  --Paleto Bay
+   {x=-470.85266113281, y=6022.9296875, z=32.140530395508},  -- La Mesa
+   {x=1873.3372802734, y=3687.3508300781, z=34.416954803467},  -- Mission Row
+   {x=452.115966796875, y=-1018.10681152344, z=29.2786586761475}, -- Sandy Shore
+   {x=855.24249267578, y=-1279.9300537109, z=27.313223648071 }  --Paleto Bay
 }
 
 heliStation = {
-    {x=449.113966796875, y=-981.084966796875, z=43.691966796875} -- Mission Row
+    {x=449.113966796875, y=-981.084966796875, z=43.491966796875} -- Mission Row
 }
 
 armoryStation = {

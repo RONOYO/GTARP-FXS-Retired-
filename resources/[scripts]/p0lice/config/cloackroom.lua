@@ -1,5 +1,5 @@
 skins = {
-	[1] = {
+	[0] = {
 		-- Sheriff Male
 	    {name="Sheriff Male", model="s_m_y_sheriff_01"},
 	    {name="Sheriff Detective Male", model="s_m_y_sheriff_02"},
@@ -8,8 +8,10 @@ skins = {
 	    {name="Sheriff Detective Female", model="s_f_y_sheriff_02"},
 		-- Sheriff SWAT
 	    {name="Sheriff SWAT", model="s_m_y_sheriffswat_01"},
+	    {name="Highway Patrol SWAT", model="s_m_y_swat_01"},
+	    {name="Highway Male", model="s_m_y_hwaycop_01"},
 	 },
-	[2] = {
+	[1] = {
 		-- State Trooper Male
 	    {name="Highway Male", model="s_m_y_hwaycop_01"},
 	    --{name="Highway Detective Male", model="s_m_y_hwaycop_02"},

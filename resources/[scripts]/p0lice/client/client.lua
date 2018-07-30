@@ -145,9 +145,9 @@ RegisterNetEvent('police:getArrested')
 AddEventHandler('police:getArrested', function()
 	handCuffed = not handCuffed
 	if(handCuffed) then
-		TriggerEvent("police:notify",  "CHAR_ANDREAS", 1, i18n.translate("title_notification"), false, i18n.translate("now_cuffed"))
+
 	else
-		TriggerEvent("police:notify",  "CHAR_ANDREAS", 1, i18n.translate("title_notification"), false, i18n.translate("now_uncuffed"))
+
 		drag = false
 	end
 end)
