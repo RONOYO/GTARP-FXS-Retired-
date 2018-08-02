@@ -3,7 +3,6 @@ local currentCameraIndex = 0
 local currentCameraIndexIndex = 0
 local createdCamera = 0
 
-
 Citizen.CreateThread(function()
     while true do
         for a = 1, #SecurityCamConfig.Locations do
@@ -31,8 +30,8 @@ Citizen.CreateThread(function()
                     local box_x = SecurityCamConfig.Locations[a].camBox.x
                     local box_y = SecurityCamConfig.Locations[a].camBox.y
                     local box_z = SecurityCamConfig.Locations[a].camBox.z                  
-                    Draw3DText(box_x, box_y, box_z, tostring("~g~[H]~w~ Enter Spawn Menu "))
-                    if IsControlJustPressed(1, 74) and createdCamera == 0 and distance <= 2.0 then
+                    Draw3DText(box_x, box_y, box_z, tostring("~g~[H]~w~ View Information Board "))
+                    if IsControlJustPressed(1, 74) or playerSpawned and createdCamera == 0 and distance <= 2.0 then
                         local firstCamx = SecurityCamConfig.Locations[a].cameras[1].x
                         local firstCamy = SecurityCamConfig.Locations[a].cameras[1].y
                         local firstCamz = SecurityCamConfig.Locations[a].cameras[1].z
@@ -53,8 +52,8 @@ Citizen.CreateThread(function()
                     local box2_x = SecurityCamConfig.Locations[a].camBox2.x
                     local box2_y = SecurityCamConfig.Locations[a].camBox2.y
                     local box2_z = SecurityCamConfig.Locations[a].camBox2.z                    
-                    Draw3DText(box2_x, box2_y, box2_z, tostring("~g~[H]~w~ Enter Spawn Menu "))
-                    if IsControlJustPressed(1, 74) and createdCamera == 0 and distance <= 2.0 then
+                    Draw3DText(box2_x, box2_y, box2_z, tostring("~g~[H]~w~ View Information Board "))
+                    if IsControlJustPressed(1, 74) or playerSpawned and createdCamera == 0 and distance <= 2.0 then
                         local firstCamx = SecurityCamConfig.Locations[a].cameras[1].x
                         local firstCamy = SecurityCamConfig.Locations[a].cameras[1].y
                         local firstCamz = SecurityCamConfig.Locations[a].cameras[1].z
@@ -72,11 +71,79 @@ Citizen.CreateThread(function()
                 end
             end
 
+function drawTxt(x,y ,width,height,scale, text, r,g,b,a)
+    SetTextFont(4)
+    SetTextProportional(1)
+    SetTextScale(2.0, 2.0)
+    SetTextColour(r, g, b, a)
+    SetTextDropShadow(0, 0, 0, 0,255)
+    SetTextEdge(1, 0, 0, 0, 255)
+    SetTextDropShadow()
+    SetTextOutline()
+    SetTextEntry("STRING")
+    AddTextComponentString(text)
+    DrawText(x - width/2, y - height/2 + 0.005)
+end
+function drawTxt2(x,y ,width,height,scale, text, r,g,b,a)
+    SetTextFont(1)
+    SetTextProportional(1)
+    SetTextScale(1.0, 1.0)
+    SetTextColour(r, g, b, a)
+    SetTextDropShadow(0, 0, 0, 0,255)
+    SetTextEdge(1, 0, 0, 0, 255)
+    SetTextDropShadow()
+    SetTextOutline()
+    SetTextEntry("STRING")
+    AddTextComponentString(text)
+    DrawText(x - width/2, y - height/2 + 0.005)
+end
+
+function drawTxt3(x,y ,width,height,scale, text, r,g,b,a)
+    SetTextFont(4)
+    SetTextProportional(1)
+    SetTextScale(0.5, 0.5)
+    SetTextColour(r, g, b, a)
+    SetTextDropShadow(0, 0, 0, 0,255)
+    SetTextEdge(1, 0, 0, 0, 255)
+    SetTextDropShadow()
+    SetTextOutline()
+    SetTextEntry("STRING")
+    AddTextComponentString(text)
+    DrawText(x - width/2, y - height/2 + 0.005)
+end
+
             if createdCamera ~= 0 then
                 local instructions = CreateInstuctionScaleform("instructional_buttons")
                 DrawScaleformMovieFullscreen(instructions, 255, 255, 255, 255, 0)
-                SetTimecycleModifier("rply_vignette")
-                SetTimecycleModifierStrength(0.1)
+                SetTimecycleModifier("hud_def_blur")
+                SetTimecycleModifierStrength(2.0)
+                SetTextChatEnabled(false)
+
+                --Header
+                drawTxt(0.67, 0.48, 1.0,1.0,0.4, "Welcome to ~w~Blueline Gaming Network~w~!", 255, 255, 255, 255)
+                drawTxt2(1.15, 0.57, 1.0,1.0,0.4, "~b~Enjoy your Stay", 255, 255, 255, 255)
+
+                -- Commands
+                drawTxt2(0.56, 0.67, 1.0,1.0,0.4, "~b~Commands", 255, 255, 255, 255)
+                drawTxt3(0.54, 0.72, 1.0,1.0,0.4, "•/ooc (out of character chat)\n•/me (visualize a action in chat)", 255, 255, 255, 255)
+                drawTxt3(0.54, 0.78, 1.0,1.0,0.4, "•/help (get help from other players)\n•/911 (a emergency chat to fire,ems, and leo)", 255, 255, 255, 255)
+                drawTxt3(0.54, 0.84, 1.0,1.0,0.4, "•/311 (non-urgent concerns or requesting services)\n•/report (report a player or incident to a staff member)", 255, 255, 255, 255)
+                drawTxt3(0.54, 0.87, 1.0,1.0,0.4, "•/report (report a player or incident to a staff member)", 255, 255, 255, 255)
+
+                -- Controls
+                drawTxt2(0.56, 0.96, 1.0,1.0,0.4, "~b~Controls", 255, 255, 255, 255)
+                drawTxt3(0.54, 1.01, 1.0,1.0,0.4, "•F1 (main menu)\n•F2 (no-clip)", 255, 255, 255, 255)
+                drawTxt3(0.54, 1.07, 1.0,1.0,0.4, "•T (chat)\n•C (crouch)", 255, 255, 255, 255)
+                drawTxt3(0.54, 1.13, 1.0,1.0,0.4, "•CTRL (crawl)\n•K (seatbelt)", 255, 255, 255, 255)
+
+                -- Useful Info
+                drawTxt2(1.25, 0.67, 1.0,1.0,0.4, "~b~Useful Info", 255, 255, 255, 255)
+                drawTxt3(1.23, 0.72, 1.0,1.0,0.4, "•HEAD DEVELOPER (Young)\n•DISCORD (~b~discord.gg/qwPHSSN~w~)", 255, 255, 255, 255)
+                drawTxt3(1.23, 0.78, 1.0,1.0,0.4, "•WEBSITE (~b~https://bluelinegaming.net~w~)", 255, 255, 255, 255)
+
+                -- Current News
+                drawTxt2(1.25, 0.96, 1.0,1.0,0.4, "~b~Rules", 255, 255, 255, 255)
+
 
                 if SecurityCamConfig.HideRadar then
                     DisplayRadar(false)
@@ -214,7 +281,7 @@ function CreateInstuctionScaleform(scaleform)
     PushScaleformMovieFunction(scaleform, "SET_DATA_SLOT")
     PushScaleformMovieFunctionParameterInt(0)
     InstructionButton(GetControlInstructionalButton(1, 176, true))
-    InstructionButtonMessage("I have read. Continue to spawn")
+    InstructionButtonMessage("Exit Information Board")
     PopScaleformMovieFunctionVoid()
 
     PushScaleformMovieFunction(scaleform, "DRAW_INSTRUCTIONAL_BUTTONS")

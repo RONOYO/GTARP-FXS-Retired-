@@ -30,7 +30,7 @@ document.onreadystatechange = () => {
 
             if (event.data.type == "enablecam") {
                 
-                CameraApp.OpenCameras(event.data.box, event.data.label);
+                CameraApp.OpenCameras(event.data.box, event.data.label)          
 
             } else if (event.data.type == "disablecam") {
 
