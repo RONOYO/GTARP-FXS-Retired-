@@ -1,5 +1,5 @@
 -- Toggle this to enable the use of the big map (That doesn't work together with the LAMBDA ASI)
-local UseBigMap = true
+local UseBigMap = false
 -- Change this to change the big map toggle key while on foot (More Controls at http://docs.fivem.net/game-references/controls/)
 local BigMapKeyOnFoot = 44
 -- Change this to change the big map toggle key while in a vehicle (More Controls at http://docs.fivem.net/game-references/controls/)

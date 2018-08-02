@@ -698,6 +698,24 @@ local blips = {
 
      {title="Spawn Point", colour=0, id=40, x = 734.44116210938, y = 2523.4282226563, z = 73.226020812988},
 	 {title="Spawn Point", colour=0, id=40, x = -219.58715820313, y = 6561.2368164063, z = 10.958762168884},
+	 {title="Blaine County Sheriff's Office", colour=3, id=60, x = 1854.8421630859, y = 3684.0803222656, z = 34.26708984375},
+	 {title="Sandy Shores Medical Center", colour=1, id=61, x = 1839.1551513672, y = 3673.5747070313, z = 34.276657104492},
+	 {title="Barber Shop/Hair Salon", colour=2, id=71, x = 1936.8338623047, y = 3719.3293457031, z = 32.465488433838},
+	 {title="Barber Shop/Hair Salon", colour=2, id=71, x = 1705.7230224609, y = 3780.0151367188, z = 34.758903503418},
+	 {title="24/7 Supermarket", colour=2, id=52, x = 1965.9869384766, y = 3739.2409667969, z = 32.321151733398},
+	 {title="24/7 Supermarket", colour=2, id=52, x = 543.86328125, y = 2674.1979980469, z = 42.150417327881},
+	 {title="You Tool", colour=2, id=52, x = 2748.5935058594, y = 3472.4345703125, z = 55.676723480225},
+	 {title="Liquor Ace", colour=2, id=52, x = 1394.3544921875, y = 3599.5969238281, z = 35.014621734619},
+	 {title="Tattoo Parlor", colour=2, id=75, x = 1859.6064453125, y = 3748.7595214844, z = 33.040966033936},
+	 {title="Ammu-Nation", colour=2, id=110, x = 1700.3676757813, y = 3750.9401855469, z = 34.368629455566},
+	 {title="The Yellowjack Inn", colour=4, id=103, x = 1990.5584716797, y = 3053.681640625, z = 47.214923858643},
+	 {title="Bolingbroke Penitentiary", colour=3, id=60, x = 1847.3269042969, y = 2586.0512695313, z = 45.672008514404},
+	 {title="LS Customs", colour=2, id=72, x = 1175.6647949219, y = 2649.6528320313, z = 37.809940338135},
+	 {title="Larry's RV Sales", colour=2, id=225, x = 1224.7189941406, y = 2728.623046875, z = 38.005046844482},
+	 {title="Discount Clothing Store", colour=2, id=73, x = 1198.0538330078, y = 2702.2629394531, z = 38.155948638916},
+	 {title="Suburban Clothing Store", colour=2, id=73, x = 618.18414306641, y = 2749.9458007813, z = 42.088802337646},
+	 {title="Fleeca Bank", colour=2, id=375, x = 1175.2745361328, y = 2703.3388671875, z = 38.172657012939},
+	 {title="Dollar Pills Pharmacy", colour=2, id=51, x = 591.07360839844, y = 2744.8198242188, z = 42.043769836426},
   }
       
 Citizen.CreateThread(function()
