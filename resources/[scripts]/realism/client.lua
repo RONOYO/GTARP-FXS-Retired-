@@ -718,6 +718,7 @@ end)
 
 local crouched = false
 local proned = false
+local injured = false
 crouchKey = 26
 proneKey = 36
 
@@ -725,6 +726,7 @@ Citizen.CreateThread( function()
 	while true do 
 		Citizen.Wait( 1 )
 		local ped = GetPlayerPed( -1 )
+		local PlayerHealth = GetEntityHealth(PlayerPedId())
 		if ( DoesEntityExist( ped ) and not IsEntityDead( ped ) ) then 
 			ProneMovement()
 			DisableControlAction( 0, proneKey, true ) 
@@ -732,6 +734,7 @@ Citizen.CreateThread( function()
 			if ( not IsPauseMenuActive() ) then 
 				if ( IsDisabledControlJustPressed( 0, crouchKey ) and not proned and not IsPedInAnyVehicle(ped, true)) then 
 					RequestAnimSet( "move_ped_crouched" )
+					RequestAnimSet( "move_injured_generic" )
 					
 					while ( not HasAnimSetLoaded( "move_ped_crouched" ) ) do 
 						Citizen.Wait( 100 )
@@ -744,7 +747,15 @@ Citizen.CreateThread( function()
 						SetPedMovementClipset( ped, "move_ped_crouched", 0.55 )
 						SetPedStrafeClipset(ped, "move_ped_crouched_strafing")
 						crouched = true 
-					end 
+					end
+					while ( not HasAnimSetLoaded( "move_injured_generic" ) ) do 
+						Citizen.Wait( 100 )
+					end 		
+					if PlayerHealth < 90 then
+						SetPedMovementClipset(ped, "move_injured_generic", 0.55)
+						SetPedStrafeClipset(ped, "move_injured_generic_strafing")
+						injured = true
+					end
 				elseif ( IsDisabledControlJustPressed(0, proneKey) and not crouched and not IsPedInAnyVehicle(ped, true) and not IsPedFalling(ped) and not IsPedDiving(ped) and not IsPedInCover(ped, false) and not IsPedInParachuteFreeFall(ped) and (GetPedParachuteState(ped) == 0 or GetPedParachuteState(ped) == -1) ) then
 					if proned then
 						ClearPedTasksImmediately(ped)
@@ -997,4 +1008,5 @@ end)
 			RequestIpl("hei_sm_16_interior_v_bahama_milo_")
 		
 		-- Red Carpet: 300.5927, 199.7589, 104.3776
-			RequestIpl("redCarpet") 
+			RequestIpl("redCarpet")
+

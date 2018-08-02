@@ -74,12 +74,12 @@ AddEventHandler( 'wk:deleteVehicle', function()
                 deleteCar( vehicle )
 
                 if ( DoesEntityExist( vehicle ) ) then 
-                	ShowNotification( "~r~Unable to delete vehicle, try again." )
+                	TriggerEvent("pNotify:SendNotification", {text = "Unable to Delete Vehicle", layout = "topRight", timeout = 2000, type = "info", progressBar = false})
                 else 
-                	ShowNotification( "Vehicle deleted." )
+                	TriggerEvent("pNotify:SendNotification", {text = "Vehicle Deleted", layout = "topRight", timeout = 2000, type = "info", progressBar = false})
                 end 
             else 
-                ShowNotification( "You must be in the driver's seat!" )
+            
             end 
         else
             local playerPos = GetEntityCoords( ped, 1 )
