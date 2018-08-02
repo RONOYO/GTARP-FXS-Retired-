@@ -604,7 +604,7 @@ end )
 	while true do
 		Citizen.Wait(0)
 		local ped = PlayerPedId()
-		if DoesEntityExist( ped ) and not IsEntityDead( ped ) and not IsPedInAnyVehicle(PlayerPedId(), true) and not CheckSkin(ped) then
+		if DoesEntityExist( ped ) and not IsEntityDead( ped ) and not IsPedInAnyVehicle(PlayerPedId(), true) and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) and not CheckSkin(ped) then
 			loadAnimDict( "combat@reaction_aim@pistol" )
 			loadAnimDict( "reaction@intimidation@1h" )
 			if CheckWeapon(ped) then
@@ -631,7 +631,7 @@ end)
 	while true do
 		Citizen.Wait(0)
 		local ped = PlayerPedId()
-		if DoesEntityExist( ped ) and not IsEntityDead( ped ) and not IsPedInAnyVehicle(PlayerPedId(), true) and CheckSkin(ped) then
+		if DoesEntityExist( ped ) and not IsEntityDead( ped ) and not IsPedInAnyVehicle(PlayerPedId(), true) and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) and CheckSkin(ped) then
 			loadAnimDict( "rcmjosh4" )
 			loadAnimDict( "weapons@pistol@" )
 			if CheckWeapon(ped) then
@@ -750,7 +750,7 @@ Citizen.CreateThread( function()
 			DisableControlAction( 0, proneKey, true ) 
 			DisableControlAction( 0, crouchKey, true ) 
 			if ( not IsPauseMenuActive() ) then 
-				if ( IsDisabledControlJustPressed( 0, crouchKey ) and not proned and not IsPedInAnyVehicle(ped, true)) then 
+				if ( IsDisabledControlJustPressed( 0, crouchKey ) and not proned and not IsPedInAnyVehicle(ped, true)) and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) then 
 					RequestAnimSet( "move_ped_crouched" )
 					RequestAnimSet( "move_injured_generic" )
 					
@@ -774,7 +774,7 @@ Citizen.CreateThread( function()
 						SetPedStrafeClipset(ped, "move_injured_generic_strafing")
 						injured = true
 					end
-				elseif ( IsDisabledControlJustPressed(0, proneKey) and not crouched and not IsPedInAnyVehicle(ped, true) and not IsPedFalling(ped) and not IsPedDiving(ped) and not IsPedInCover(ped, false) and not IsPedInParachuteFreeFall(ped) and (GetPedParachuteState(ped) == 0 or GetPedParachuteState(ped) == -1) ) then
+				elseif ( IsDisabledControlJustPressed(0, proneKey) and not crouched and not IsPedInAnyVehicle(ped, true) and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) and not IsPedFalling(ped) and not IsPedDiving(ped) and not IsPedInCover(ped, false) and not IsPedInParachuteFreeFall(ped) and (GetPedParachuteState(ped) == 0 or GetPedParachuteState(ped) == -1) ) then
 					if proned then
 						ClearPedTasksImmediately(ped)
 						proned = false
@@ -883,42 +883,12 @@ end)
 		RequestIpl("TrevorsTrailerTrash")
 		--RequestIpl("trevorstrailertidy")
 	
-	-- Heist Jewel: -637.20159 -239.16250 38.1
-		RequestIpl("post_hiest_unload")
-	
-	-- Max Renda: -585.8247, -282.72, 35.45475
-		RequestIpl("refit_unload")
-  
-	-- Heist Union Depository: 2.69689322, -667.0166, 16.1306286
-		RequestIpl("FINBANK")
-
-	-- Morgue: 239.75195, -1360.64965, 39.53437
-		RequestIpl("Coroner_Int_on")
-		RequestIpl("coronertrash")
-	
-	-- Cluckin Bell: -146.3837, 6161.5, 30.2062
-		RequestIpl("CS1_02_cf_onmission1")
-		RequestIpl("CS1_02_cf_onmission2")
-		RequestIpl("CS1_02_cf_onmission3")
-		RequestIpl("CS1_02_cf_onmission4")
-	
 	-- Grapeseed's farm: 2447.9, 4973.4, 47.7
 		RequestIpl("farm")
 		RequestIpl("farmint")
 		RequestIpl("farm_lod")
 		RequestIpl("farm_props")
 		RequestIpl("des_farmhouse")
-	
-	-- FIB lobby: 105.4557, -745.4835, 44.7548
-		RequestIpl("FIBlobby")
-	
-	-- Billboard: iFruit
-		RequestIpl("FruitBB")
-		RequestIpl("sc1_01_newbill")
-		RequestIpl("hw1_02_newbill")
-		RequestIpl("hw1_emissive_newbill")
-		RequestIpl("sc1_14_newbill")
-		RequestIpl("dt1_17_newbill")
 
 	-- Lester's factory: 716.84, -962.05, 31.59
 		RequestIpl("id2_14_during_door")
@@ -933,18 +903,8 @@ end)
 	-- Carwash: 55.7, -1391.3, 30.5
 		RequestIpl("Carwash_with_spinners")
 	
-	-- Stadium "Fame or Shame": -248.49159240722656, -2010.509033203125, 34.57429885864258
-		RequestIpl("sp1_10_real_interior")
-		RequestIpl("sp1_10_real_interior_lod")
-	
 	-- House in Banham Canyon: -3086.428, 339.2523, 6.3717
 		RequestIpl("ch1_02_open")
-		
-	-- Garage in La Mesa (autoshop): 970.27453, -1826.56982, 31.11477
-		RequestIpl("bkr_bi_id1_23_door")
-		
-	-- Hill Valley church - Grave: -282.46380000, 2835.84500000, 55.91446000
-		RequestIpl("lr_cs6_08_grave_closed")
 	
 	-- Lost's trailer park: 49.49379000, 3744.47200000, 46.38629000
 		RequestIpl("methtrailer_grp1")
@@ -957,9 +917,6 @@ end)
 		
 	-- Zancudo Gates (GTAO like): -1600.30100000, 2806.73100000, 18.79683000
 		RequestIpl("CS3_07_MPGates")
-		
-	-- Pillbox hospital:
-		RequestIpl("rc12b_default")
 
 	-- Josh's house: -1117.1632080078, 303.090698, 66.52217
 		RequestIpl("bh1_47_joshhse_unburnt")
@@ -980,51 +937,58 @@ end)
 			RequestIpl("ch3_rd2_bishopschickengraffiti") -- 1861.28, 2402.11, 58.53
 			RequestIpl("cs5_04_mazebillboardgraffiti") -- 2697.32, 3162.18, 58.1
 			RequestIpl("cs5_roads_ronoilgraffiti") -- 2119.12, 3058.21, 53.25
-			
-		-- Heist Carrier: 3082.3117 -4717.1191 15.2622
-			RequestIpl("hei_carrier")
-			RequestIpl("hei_carrier_distantlights")
-			RequestIpl("hei_Carrier_int1")
-			RequestIpl("hei_Carrier_int2")
-			RequestIpl("hei_Carrier_int3")
-			RequestIpl("hei_Carrier_int4")
-			RequestIpl("hei_Carrier_int5")
-			RequestIpl("hei_Carrier_int6")
-			RequestIpl("hei_carrier_lodlights")
-			RequestIpl("hei_carrier_slod")
-		
-		-- Heist Yatch: -2043.974,-1031.582, 11.981
-			RequestIpl("hei_yacht_heist")
-			RequestIpl("hei_yacht_heist_Bar")
-			RequestIpl("hei_yacht_heist_Bedrm")
-			RequestIpl("hei_yacht_heist_Bridge")
-			RequestIpl("hei_yacht_heist_DistantLights")
-			RequestIpl("hei_yacht_heist_enginrm")
-			RequestIpl("hei_yacht_heist_LODLights")
-			RequestIpl("hei_yacht_heist_Lounge")
-			
-		-- Bunkers - Exteriors
-			RequestIpl("gr_case0_bunkerclosed")
-			RequestIpl("gr_case1_bunkerclosed")
-			RequestIpl("gr_case2_bunkerclosed")
-			RequestIpl("gr_case3_bunkerclosed")
-			RequestIpl("gr_case4_bunkerclosed")
-			RequestIpl("gr_case5_bunkerclosed")
-			RequestIpl("gr_case6_bunkerclosed")
-			RequestIpl("gr_case7_bunkerclosed")
-			RequestIpl("gr_case9_bunkerclosed")
-			RequestIpl("gr_case10_bunkerclosed")
-			RequestIpl("gr_case11_bunkerclosed")
-			
-		-- Bunkers - Interior: 892.6384, -3245.8664, -98.2645
-			-- RequestIpl("gr_entrance_placement")
-			-- RequestIpl("gr_grdlc_interior_placement")
-			-- RequestIpl("gr_grdlc_interior_placement_interior_0_grdlc_int_01_milo_")
-			-- RequestIpl("gr_grdlc_interior_placement_interior_1_grdlc_int_02_milo_")
-			
-		-- Bahama Mamas: -1388.0013, -618.41967, 30.819599
-			RequestIpl("hei_sm_16_interior_v_bahama_milo_")
-		
-		-- Red Carpet: 300.5927, 199.7589, 104.3776
-			RequestIpl("redCarpet")
+handsup = false
 
+function getSurrenderStatus()
+	return handsup
+end
+
+RegisterNetEvent('vk_handsup:getSurrenderStatusPlayer')
+AddEventHandler('vk_handsup:getSurrenderStatusPlayer',function(event,source)
+		if handsup then
+			TriggerServerEvent("vk_handsup:reSendSurrenderStatus",event,source,true)
+		else
+			TriggerServerEvent("vk_handsup:reSendSurrenderStatus",event,source,false)
+		end
+end)
+
+Citizen.CreateThread(function()
+	while true do
+		Citizen.Wait(0)
+		local lPed = GetPlayerPed(-1)
+		RequestAnimDict("random@mugging3")
+		if not IsPedInAnyVehicle(lPed, false) and not IsPedSwimming(lPed) and not IsPedShooting(lPed) and not IsPedClimbing(lPed) and not IsPedCuffed(lPed) and not IsPedDiving(lPed) and not IsPedFalling(lPed) and not IsPedJumping(lPed) and not IsPedJumpingOutOfVehicle(lPed) and IsPedOnFoot(lPed) and not IsPedRunning(lPed) and not IsPedUsingAnyScenario(lPed) and not IsPedInParachuteFreeFall(lPed) then
+			if IsControlPressed(1, 323) then
+				if DoesEntityExist(lPed) then
+					SetCurrentPedWeapon(lPed, 0xA2719263, true)
+					Citizen.CreateThread(function()
+						RequestAnimDict("random@mugging3")
+						while not HasAnimDictLoaded("random@mugging3") do
+							Citizen.Wait(100)
+						end
+
+						if not handsup and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) then
+							handsup = true
+							TaskPlayAnim(lPed, "random@mugging3", "handsup_standing_base", 8.0, -8, -1, 49, 0, 0, 0, 0)
+						end   
+					end)
+				end
+			end
+		end
+		if IsControlReleased(1, 323) then
+			if DoesEntityExist(lPed) and not IsEntityPlayingAnim(GetPlayerPed(PlayerId()), "mp_arresting", "idle", 3) then
+				Citizen.CreateThread(function()
+					RequestAnimDict("random@mugging3")
+					while not HasAnimDictLoaded("random@mugging3") do
+						Citizen.Wait(100)
+					end
+
+					if handsup then
+						handsup = false
+						ClearPedSecondaryTask(lPed)
+					end
+				end)
+			end
+		end
+	end
+end)

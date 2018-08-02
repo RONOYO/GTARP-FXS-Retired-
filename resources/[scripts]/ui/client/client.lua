@@ -37,21 +37,6 @@ Citizen.CreateThread(function()
                 drawTxt(0.66, 1.46, 1.0,1.0,0.4, direction .. "~w~ | ~w~" .. tostring(GetStreetNameFromHashKey(var1)) .. " ~w~| ~w~" .. zones[GetNameOfZone(pos.x, pos.y, pos.z)] .. " | " .. tostring(GetStreetNameFromHashKey(var2)), 255, 255, 255, 255)
             end
         end
-
-        local t = 0
-            for i = 0,32 do
-                if(GetPlayerName(i))then
-                    if(NetworkIsPlayerTalking(i))then
-                        t = t + 1
-
-                        if(t == 1)then
-                                drawTxt(0.515, 0.95, 1.0,1.0,0.4, "~y~Talking", 255, 255, 255, 255)
-                        end
-
-                        drawTxt(0.520, 0.95 + (t * 0.023), 1.0,1.0,0.4, "" .. GetPlayerName(i), 255, 255, 255, 255)
-                    end
-                end
-            end
     end
 end)
 
@@ -108,6 +93,43 @@ Citizen.CreateThread(function()
         DrawText(0.016, 0.948)
     end
 end)
+
+Citizen.CreateThread(function()
+    while true do
+        Wait(1)
+        timeAndDateString = ""
+        
+        if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
+            CalculateTimeToDisplay()
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM"
+        end
+        if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
+            CalculateTimeToDisplay()
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM"
+        end        
+        if displayDayOfWeek == true and IsPedInAnyVehicle(PlayerPedId(), true) then
+            CalculateDayOfWeekToDisplay()
+            timeAndDateString = timeAndDateString .. "" .. dayOfWeek .. " |"
+        end
+        if displayDate == true and IsPedInAnyVehicle(PlayerPedId(), true) then
+            CalculateDateToDisplay()
+            timeAndDateString = timeAndDateString .. "" .. month .. "~b~/~w~" .. dayOfMonth .. "~b~/~w~" .. year .. ""
+        end
+        
+        SetTextFont(4)
+        SetTextProportional(1)
+        SetTextScale(0.37, 0.37)
+        SetTextColour(255, 255, 255, 255)
+        SetTextEdge(1, 0, 0, 0, 255)
+        SetTextOutline()
+        SetTextWrap(0,0.95)
+        SetTextEntry("STRING")
+        
+        AddTextComponentString(timeAndDateString)
+        DrawText(0.16, 0.90)
+    end
+end)
+
 
 function CalculateTimeToDisplay()
 	hour = GetClockHours()
