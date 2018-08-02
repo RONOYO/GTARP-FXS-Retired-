@@ -51,14 +51,6 @@ AddEventHandler('PanicLocation', function()
 		RemoveBlip(blip)]]--
 end)
 
-RegisterNetEvent('TwentyLocation')
-AddEventHandler('TwentyLocation', function()
-	TriggerEvent('getLocation')
-	TriggerEvent('getDirection')
-	
-	TriggerServerEvent('chatEvent', "^2[^710-20^2]^7 " .. myname .. " |^2 " .. street .. "^7 (^2" .. current_zone .. "^7) - " .. direction .. " Bound")
-end)
-
 -- Register a network event 
 RegisterNetEvent( 'wk:deleteVehicle' )
 
