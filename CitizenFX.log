@@ -27053,3 +27053,1089 @@
 [  14944969] Sending heartbeat to live-internal.fivem.net:30110
 [  15125000] Sending heartbeat to live-internal.fivem.net:30110
 [  15305031] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[       188] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       859] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       922] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       922] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       938] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       953] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       969] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       984] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       984] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[      1000] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[      1016] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[      1031] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[      1047] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[      1063] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[      1063] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[      1078] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[      1094] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[      1109] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[      1125] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[      1141] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[      1156] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[      1172] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[      1188] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[      1203] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[      1203] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[      1219] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[      1234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[      1250] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[      1250] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[      1313] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[      1328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[      1344] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[      1359] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[      1469] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[      1484] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[      1500] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[      1500] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[      1516] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[      1594] Started resource sessionmanager
+[      1609] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       109] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       141] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       187] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       187] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       203] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       219] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       219] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       234] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       250] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       297] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       312] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       312] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       328] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       359] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       375] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       406] Started resource sessionmanager
+[       547] Started resource mapmanager
+[      1078] Started resource chat
+[      1125] Started resource spawnmanager
+[      1125] Stopping resource sessionmanager
+[      1141] Started resource sessionmanager
+[      1172] Started gametype BLGN-RP
+[      1172] Started resource fivem
+[      1219] Started resource hardcap
+[      1266] Started resource rconlog
+[      1375] Started resource ui
+[      1437] Started resource commands
+[      1469] Started resource realism
+[      1641] Started resource loadingscreen
+[      1781] Started resource lightingsystem
+[      2891] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1300081113
+[      2922] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      2922] Instantiated instance of script GHMatti.Http.Request.
+[      5562] Instantiated instance of script vMenuServer.BanManager.
+[      7391] Instantiated instance of script vMenuServer.MainServer.
+[      7406] Instantiated instance of script vMenuServer.UpdateChecker.
+[      8703] Started resource vMenu
+[      8734] Started resource assets0
+[     13219] Started resource assets1
+[     16078] Started resource assets2
+[     16078] ^3Couldn't find resource assets3.^7
+[     16094] ^3Couldn't find resource assets4.^7
+[     18094] Started resource assets5
+[     18109] Authenticating server license key...
+[     19859] Server license key authentication succeeded. Welcome!
+[     20594] Sending heartbeat to live-internal.fivem.net:30110
+[     21047] Started map Blueline-Gaming-Network
+[     21062] Started resource Blueline-Gaming-Network
+[     21078] hitch warning: frame time of 1137 milliseconds
+[     22375] 
+[     22375] [vMenu] Checking for updates.
+[     22406] [vMenu] Your version of vMenu is up to date! Good job!
+[     22406] hitch warning: frame time of 275 milliseconds
+[     75469] Connecting: YoungPlays
+[     79062] Sending heartbeat to live-internal.fivem.net:30110
+[    259094] Sending heartbeat to live-internal.fivem.net:30110
+[    439156] Sending heartbeat to live-internal.fivem.net:30110
+[    619172] Sending heartbeat to live-internal.fivem.net:30110
+[    799203] Sending heartbeat to live-internal.fivem.net:30110
+[    979219] Sending heartbeat to live-internal.fivem.net:30110
+[   1021125] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       109] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       125] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       140] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       156] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       172] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       172] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       187] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       187] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       203] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       203] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       219] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       219] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       234] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       250] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       250] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       265] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       265] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       281] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       281] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       297] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       297] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       312] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       328] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       328] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       344] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       359] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       359] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       390] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       390] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       406] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       422] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       453] Started resource sessionmanager
+[       453] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       109] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       125] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       141] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       156] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       172] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       187] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       187] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       203] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       219] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       234] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       234] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       250] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       266] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       266] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       312] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       312] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       328] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       375] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       391] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       469] Started resource mapmanager
+[       750] Started resource chat
+[       766] Started resource spawnmanager
+[       781] Stopping resource sessionmanager
+[       781] Started resource sessionmanager
+[       797] Started gametype BLGN-RP
+[       797] Started resource fivem
+[       812] Started resource hardcap
+[       828] Started resource rconlog
+[      1047] Started resource ui
+[      1078] Started resource commands
+[      1156] Started resource realism
+[      1359] Started resource loadingscreen
+[      1453] Started resource lightingsystem
+[      2312] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1648135980
+[      2328] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      2328] Instantiated instance of script GHMatti.Http.Request.
+[      2359] Instantiated instance of script vMenuServer.BanManager.
+[      2484] Instantiated instance of script vMenuServer.MainServer.
+[      2500] Instantiated instance of script vMenuServer.UpdateChecker.
+[      2812] Started resource vMenu
+[      2891] Started resource assets0
+[      3578] Started resource assets1
+[      4984] Started resource assets2
+[      4984] ^3Couldn't find resource assets3.^7
+[      5000] ^3Couldn't find resource assets4.^7
+[      6156] Started resource assets5
+[      6187] Authenticating server license key...
+[      7578] Server license key authentication succeeded. Welcome!
+[      7641] Sending heartbeat to live-internal.fivem.net:30110
+[      8125] Started map Blueline-Gaming-Network
+[      8125] Started resource Blueline-Gaming-Network
+[      8141] hitch warning: frame time of 507 milliseconds
+[      9391] 
+[      9391] [vMenu] Checking for updates.
+[      9422] [vMenu] Your version of vMenu is up to date! Good job!
+[      9422] hitch warning: frame time of 340 milliseconds
+[     45141] Connecting: YoungPlays
+[     45906] Sending heartbeat to live-internal.fivem.net:30110
+[    114094] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       109] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       156] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       172] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       187] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       187] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       203] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       219] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       234] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       234] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       266] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       266] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       312] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       312] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       344] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       375] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       391] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       437] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        31] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       109] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       141] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       172] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       187] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       187] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       203] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       219] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       219] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       266] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       281] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       297] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       297] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       312] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       344] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       344] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       344] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       359] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       406] Started resource sessionmanager
+[       625] Started resource mapmanager
+[       672] Started resource chat
+[       703] Started resource spawnmanager
+[       703] Stopping resource sessionmanager
+[       719] Started resource sessionmanager
+[       766] Started gametype BLGN-RP
+[       766] Started resource fivem
+[       812] Started resource hardcap
+[       875] Started resource rconlog
+[       891] Started resource ui
+[       937] Started resource commands
+[       984] Started resource realism
+[      1062] Started resource loadingscreen
+[      1172] Started resource lightingsystem
+[      1562] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1988070672
+[      1578] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1578] Instantiated instance of script GHMatti.Http.Request.
+[      1594] Instantiated instance of script vMenuServer.BanManager.
+[      1703] Instantiated instance of script vMenuServer.MainServer.
+[      1719] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1766] Started resource vMenu
+[      1781] Started resource assets0
+[      4156] Started resource assets1
+[      6375] Started resource assets2
+[      6391] ^3Couldn't find resource assets3.^7
+[      6391] ^3Couldn't find resource assets4.^7
+[      7344] Started resource assets5
+[      7359] Authenticating server license key...
+[      8219] Server license key authentication succeeded. Welcome!
+[      8281] Sending heartbeat to live-internal.fivem.net:30110
+[      8703] Started map Blueline-Gaming-Network
+[      8703] Started resource Blueline-Gaming-Network
+[      8719] hitch warning: frame time of 443 milliseconds
+[      9641] 
+[      9656] [vMenu] Checking for updates.
+[      9687] [vMenu] Your version of vMenu is up to date! Good job!
+[    131797] Connecting: YoungPlays
+[    132906] Sending heartbeat to live-internal.fivem.net:30110
+[    190359] Sending heartbeat to live-internal.fivem.net:30110
+[    214891] Connecting: YoungPlays
+[    215594] Sending heartbeat to live-internal.fivem.net:30110
+[    365203] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        93] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       109] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       109] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       125] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       140] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       140] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       156] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       156] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       171] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       171] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       187] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       187] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       203] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       218] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       218] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       218] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       234] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       250] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       250] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       265] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       265] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       281] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       296] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       296] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       312] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       312] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       328] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       343] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       343] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       375] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       390] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       421] Started resource sessionmanager
+[       421] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[     12531] INFO: No channel links found in configuration file.
+[     12578] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[     12593] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[     12609] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[     12625] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[     12703] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[     12718] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[     12781] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[     12812] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[     12828] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[     12843] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[     12859] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[     12890] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[     12906] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[     12921] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[     12953] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[     12968] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[     13000] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[     13015] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[     13031] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[     13078] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[     13093] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[     13109] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[     13140] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[     13156] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[     13187] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[     13203] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[     13234] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[     13250] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[     13296] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[     13343] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[     13359] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[     13390] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[     13421] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[     13546] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[     13593] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[     13609] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[     13625] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[     13656] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[     13703] Started resource sessionmanager
+[     13796] Started resource mapmanager
+[     13828] Started resource chat
+[     13875] Started resource spawnmanager
+[     13890] Stopping resource sessionmanager
+[     13906] Started resource sessionmanager
+[     13953] Started gametype BLGN-RP
+[     13953] Started resource fivem
+[     14015] Started resource hardcap
+[     14078] Started resource rconlog
+[     14125] Started resource ui
+[     14187] Started resource commands
+[     14234] Started resource realism
+[     14296] Started resource loadingscreen
+[     14375] Started resource lightingsystem
+[     15265] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2113276383
+[     15296] Instantiated instance of script GHMatti.Http.RequestInternal.
+[     15296] Instantiated instance of script GHMatti.Http.Request.
+[     15328] Instantiated instance of script vMenuServer.BanManager.
+[     15484] Instantiated instance of script vMenuServer.MainServer.
+[     15500] Instantiated instance of script vMenuServer.UpdateChecker.
+[     15875] Started resource vMenu
+[     15953] Started resource assets0
+[     18750] Started resource assets1
+[     19937] Started resource assets2
+[     19953] ^3Couldn't find resource assets3.^7
+[     19953] ^3Couldn't find resource assets4.^7
+[     20796] Started resource assets5
+[     20828] Authenticating server license key...
+[     21843] Server license key authentication succeeded. Welcome!
+[     21890] Sending heartbeat to live-internal.fivem.net:30110
+[     22343] Started map Blueline-Gaming-Network
+[     22359] Started resource Blueline-Gaming-Network
+[     22359] hitch warning: frame time of 473 milliseconds
+[     23359] 
+[     23359] [vMenu] Checking for updates.
+[     23390] [vMenu] Your version of vMenu is up to date! Good job!
+[     30765] Connecting: YoungPlays
+[     31546] Sending heartbeat to live-internal.fivem.net:30110
+[     37546] Sending heartbeat to live-internal.fivem.net:30110
+[    217593] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       109] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       141] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       156] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       156] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       172] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       188] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       188] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       203] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       219] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       234] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       234] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       266] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       266] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       313] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       313] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       344] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       375] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       391] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       391] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       406] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       438] Started resource sessionmanager
+[       453] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       109] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       125] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       141] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       156] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       156] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       172] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       188] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       188] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       203] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       219] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       234] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       234] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       250] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       266] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       313] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       313] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       328] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       375] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       391] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       438] Started resource mapmanager
+[       453] Started resource chat
+[       469] Started resource spawnmanager
+[       469] Stopping resource sessionmanager
+[       484] Started resource sessionmanager
+[       484] Started gametype BLGN-RP
+[       500] Started resource fivem
+[       500] Started resource hardcap
+[       516] Started resource rconlog
+[       516] Started resource ui
+[       531] Started resource commands
+[       547] Started resource realism
+[       563] Started resource loadingscreen
+[       578] Started resource lightingsystem
+[       938] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_694343223
+[       953] Instantiated instance of script GHMatti.Http.RequestInternal.
+[       953] Instantiated instance of script GHMatti.Http.Request.
+[       969] Instantiated instance of script vMenuServer.BanManager.
+[      1094] Instantiated instance of script vMenuServer.MainServer.
+[      1109] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1141] Started resource vMenu
+[      1156] Started resource assets0
+[      1172] Started resource assets1
+[      1188] Started resource assets2
+[      1188] ^3Couldn't find resource assets3.^7
+[      1203] ^3Couldn't find resource assets4.^7
+[      1219] Started resource assets5
+[      1234] Authenticating server license key...
+[     48984] Server license key authentication succeeded. Welcome!
+[     48984] Connecting: YoungPlays
+[     49047] Sending heartbeat to live-internal.fivem.net:30110
+[     49453] Started map Blueline-Gaming-Network
+[     49469] Started resource Blueline-Gaming-Network
+[     49469] hitch warning: frame time of 429 milliseconds
+[     50359] 
+[     50359] [vMenu] Checking for updates.
+[     50391] [vMenu] Your version of vMenu is up to date! Good job!
+[     63922] Connecting: YoungPlays
+[     64703] Sending heartbeat to live-internal.fivem.net:30110
+[     86859] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        46] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        62] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        78] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        78] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[        93] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[        93] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       109] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       125] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       125] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       140] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       156] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       156] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       171] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       187] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       187] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       203] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       203] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       218] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       218] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       234] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       250] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       265] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       265] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       281] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       281] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       296] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       296] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       312] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       312] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       312] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       328] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       343] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       343] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       375] Started resource sessionmanager
+[       390] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       110] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       110] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       141] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       172] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       188] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       188] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       203] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       203] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       219] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       235] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       235] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       250] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       266] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       266] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       281] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       281] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       297] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       297] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       313] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       313] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       328] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       328] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       344] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       344] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       375] Started resource sessionmanager
+[       391] Started resource mapmanager
+[       406] Started resource chat
+[       422] Started resource spawnmanager
+[       422] Stopping resource sessionmanager
+[       438] Started resource sessionmanager
+[       438] Started gametype BLGN-RP
+[       438] Started resource fivem
+[       453] Started resource hardcap
+[       453] Started resource rconlog
+[       469] Started resource ui
+[       485] Started resource commands
+[       485] Started resource realism
+[       516] Started resource loadingscreen
+[       531] Started resource lightingsystem
+[       875] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_759954734
+[       891] Instantiated instance of script GHMatti.Http.RequestInternal.
+[       906] Instantiated instance of script GHMatti.Http.Request.
+[       922] Instantiated instance of script vMenuServer.BanManager.
+[      1031] Instantiated instance of script vMenuServer.MainServer.
+[      1047] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1516] Started resource vMenu
+[      1563] Started resource assets0
+[     16641] Started resource assets1
+[     23141] Started resource assets2
+[     23141] ^3Couldn't find resource assets3.^7
+[     23156] ^3Couldn't find resource assets4.^7
+[     25203] Started resource assets5
+[     25203] Authenticating server license key...
+[     26172] Server license key authentication succeeded. Welcome!
+[     26235] Sending heartbeat to live-internal.fivem.net:30110
+[     26641] Started map Blueline-Gaming-Network
+[     26656] Started resource Blueline-Gaming-Network
+[     26656] hitch warning: frame time of 429 milliseconds
+[     27750] 
+[     27766] [vMenu] Checking for updates.
+[     27797] [vMenu] Your version of vMenu is up to date! Good job!
+[     27813] hitch warning: frame time of 174 milliseconds
+[         0] INFO: No channel links found in configuration file.
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        93] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        93] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        93] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       109] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       140] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       140] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       140] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       171] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       171] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       187] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       187] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       203] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       218] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       218] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       265] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       265] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       281] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       296] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       296] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       312] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       312] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       328] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       343] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       343] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       359] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       390] Started resource sessionmanager
+[       390] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        31] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       109] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       141] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       172] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       187] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       187] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       203] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       219] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       219] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       266] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       281] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       281] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       297] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       312] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       312] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       328] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       344] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       344] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       359] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       391] Started resource sessionmanager
+[       406] Started resource mapmanager
+[       422] Started resource chat
+[       437] Started resource spawnmanager
+[       437] Stopping resource sessionmanager
+[       453] Started resource sessionmanager
+[       469] Started gametype BLGN-RP
+[       469] Started resource fivem
+[       484] Started resource hardcap
+[       484] Started resource rconlog
+[       500] Started resource ui
+[       516] Started resource commands
+[       516] Started resource realism
+[       531] Started resource loadingscreen
+[       547] Started resource lightingsystem
+[       906] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2099541018
+[       922] Instantiated instance of script GHMatti.Http.RequestInternal.
+[       937] Instantiated instance of script GHMatti.Http.Request.
+[       937] Instantiated instance of script vMenuServer.BanManager.
+[      1062] Instantiated instance of script vMenuServer.MainServer.
+[      1078] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1109] Started resource vMenu
+[      1109] Started resource assets0
+[      1125] Started resource assets1
+[      1141] Started resource assets2
+[      1141] ^3Couldn't find resource assets3.^7
+[      1156] ^3Couldn't find resource assets4.^7
+[      1172] Started resource assets5
+[      1172] Authenticating server license key...
+[      2125] Server license key authentication succeeded. Welcome!
+[      2187] Sending heartbeat to live-internal.fivem.net:30110
+[      2625] Started map Blueline-Gaming-Network
+[      2625] Started resource Blueline-Gaming-Network
+[      2641] hitch warning: frame time of 451 milliseconds
+[      3812] 
+[      3812] [vMenu] Checking for updates.
+[      3859] [vMenu] Your version of vMenu is up to date! Good job!
+[     29016] Connecting: YoungPlays
+[     29703] Sending heartbeat to live-internal.fivem.net:30110
+[     46422] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       110] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       125] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       141] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       157] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       157] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       172] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       188] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       188] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       203] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       203] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       219] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       235] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       235] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       250] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       266] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       266] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       282] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       282] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       297] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       313] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       313] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       328] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       328] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       360] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       360] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       375] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       422] Started resource sessionmanager
+[       422] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        78] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        93] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        93] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       109] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       109] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       125] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       140] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       140] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       156] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       156] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       187] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       187] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       203] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       203] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       218] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       218] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       234] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       250] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       265] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       265] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       297] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       312] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       312] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       328] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       343] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       343] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       359] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       359] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       375] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       406] Started resource sessionmanager
+[       422] Started resource mapmanager
+[       437] Started resource chat
+[       437] Started resource spawnmanager
+[       453] Stopping resource sessionmanager
+[       453] Started resource sessionmanager
+[       468] Started gametype BLGN-RP
+[       468] Started resource fivem
+[       484] Started resource hardcap
+[       484] Started resource rconlog
+[       500] Started resource ui
+[       500] Started resource commands
+[       515] Started resource realism
+[       547] Started resource loadingscreen
+[       547] Started resource lightingsystem
+[       906] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1086815014
+[       922] Instantiated instance of script GHMatti.Http.RequestInternal.
+[       937] Instantiated instance of script GHMatti.Http.Request.
+[       937] Instantiated instance of script vMenuServer.BanManager.
+[      1062] Instantiated instance of script vMenuServer.MainServer.
+[      1078] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1343] Started resource vMenu
+[      1390] Started resource assets0
+[      3312] Started resource assets1
+[      4281] Started resource assets2
+[      4281] ^3Couldn't find resource assets3.^7
+[      4281] ^3Couldn't find resource assets4.^7
+[      5109] Started resource assets5
+[      5109] Authenticating server license key...
+[      5953] Server license key authentication succeeded. Welcome!
+[      6015] Sending heartbeat to live-internal.fivem.net:30110
+[      6422] Started map Blueline-Gaming-Network
+[      6422] Started resource Blueline-Gaming-Network
+[      6437] hitch warning: frame time of 433 milliseconds
+[      7359] 
+[      7359] [vMenu] Checking for updates.
+[      7390] [vMenu] Your version of vMenu is up to date! Good job!
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        79] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        94] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       110] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       110] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       125] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       157] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       157] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       172] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       172] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       188] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       204] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       204] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       219] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       219] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       235] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       235] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       250] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       266] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       282] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       282] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       297] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       313] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       313] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       329] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       329] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       344] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       360] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       360] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       375] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       375] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       391] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       407] Started resource sessionmanager
+[       422] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        79] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[        79] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[        94] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[        94] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       110] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       110] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       125] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       141] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       141] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       157] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       157] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       172] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       172] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       188] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       188] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       204] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       204] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       219] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       219] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       235] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       235] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       250] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       250] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       282] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       282] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       297] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       297] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       313] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       313] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       329] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       329] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       344] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       360] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       360] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       375] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       407] Started resource sessionmanager
+[       422] Started resource mapmanager
+[       438] Started resource chat
+[       438] Started resource spawnmanager
+[       454] Stopping resource sessionmanager
+[       454] Started resource sessionmanager
+[       469] Started gametype BLGN-RP
+[       469] Started resource fivem
+[       485] Started resource hardcap
+[       485] Started resource rconlog
+[       500] Started resource ui
+[       500] Started resource commands
+[       516] Started resource realism
+[       532] Started resource loadingscreen
+[       547] Started resource lightingsystem
+[       922] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_962604838
+[       954] Instantiated instance of script GHMatti.Http.RequestInternal.
+[       954] Instantiated instance of script GHMatti.Http.Request.
+[       969] Instantiated instance of script vMenuServer.BanManager.
+[      1094] Instantiated instance of script vMenuServer.MainServer.
+[      1110] Instantiated instance of script vMenuServer.UpdateChecker.
+[      1141] Started resource vMenu
+[      1141] Started resource assets0
+[      1172] Started resource assets1
+[      1172] Started resource assets2
+[      1188] ^3Couldn't find resource assets3.^7
+[      1188] ^3Couldn't find resource assets4.^7
+[      1204] Started resource assets5
+[      1219] Authenticating server license key...
+[      2063] Server license key authentication succeeded. Welcome!
+[      2110] Sending heartbeat to live-internal.fivem.net:30110
+[      2563] Started map Blueline-Gaming-Network
+[      2579] Started resource Blueline-Gaming-Network
+[      2594] hitch warning: frame time of 480 milliseconds
+[      3469] 
+[      3485] [vMenu] Checking for updates.
+[      3500] [vMenu] Your version of vMenu is up to date! Good job!
+[     17313] Connecting: YoungPlays
+[     18422] Sending heartbeat to live-internal.fivem.net:30110

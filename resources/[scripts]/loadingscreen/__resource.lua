@@ -3,6 +3,7 @@ files {
     'style.css',
     'logo.png',
     'background.jpg',
+    'background2.jpg',
     
 }
 

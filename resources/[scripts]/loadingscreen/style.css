@@ -24,8 +24,8 @@ body
 {
     width: 100%;
     height: 100%;
-	background-color: #2b1d2c;
-	background-image: url(background.jpg);
+	background-color: #000000;
+	background-image: url(background2.jpg);
     background-size: cover;
     filter: blur(5px);
     position: fixed;
@@ -33,7 +33,7 @@ body
     right: 0;
     z-index: 1;
     transform: scale(1.03);
-    transition: all 64s linear;
+    transition: all 75s linear;
     background-position: 0px 0px;
 
     display: block;
@@ -43,11 +43,12 @@ body
 {
     width: 100%;
     height: 100%;
-    background-image: url(logo3.png);
+    background-image: url(logo.png);
     background-size: 15%;
     background-position: center;
     background-repeat: no-repeat;
     position: fixed;
+    bottom:10px;
     left: 0;
     right: 0;
     z-index: 9999;
@@ -58,7 +59,7 @@ body
     color: rgba(255, 255, 255, 0.46);
     position: absolute;
     left: 20px;
-    top: 20px;
+    top: 30px;
 }
 
 .log-top-right
@@ -74,7 +75,7 @@ body
     position: absolute;
     left: 5%;
     right: 5%;
-    bottom: 10%;
+    bottom: 5%;
 
     z-index: 5;
 
