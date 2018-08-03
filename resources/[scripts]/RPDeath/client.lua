@@ -9,11 +9,9 @@ local RPDeathEnabled = true  -- Is RPDeath enabled by default? (/toggleDeath cha
 
 -- Turn off automatic respawn here instead of updating FiveM file.
 AddEventHandler('onClientMapStart', function()
-	Citizen.Trace("RPDeath: Disabling autospawn...")
 	exports.spawnmanager:spawnPlayer() -- Ensure player spawns into server.
 	Citizen.Wait(2500)
 	exports.spawnmanager:setAutoSpawn(false)
-	Citizen.Trace("RPDeath: Autospawn disabled!")
 end)
 
 
@@ -36,9 +34,9 @@ AddEventHandler('RPD:allowRevive', function(from)
 
 	-- Trying to revive themselves?
 	if(GetPlayerServerId(PlayerId()) == from and diedTime ~= nil)then
-		local waitPeriod = diedTime + (reviveWaitPeriod * 1000)
+		local waitPeriod = diedTime + (reviveWaitPeriod * 0)
 		if(GetGameTimer() < waitPeriod)then
-			local seconds = math.ceil((waitPeriod - GetGameTimer()) / 1000)
+			local seconds = math.ceil((waitPeriod - GetGameTimer()) / 0)
 			local message = ""
 			if(seconds > 60)then
 				local minutes = math.floor((seconds / 60))
@@ -52,16 +50,16 @@ AddEventHandler('RPD:allowRevive', function(from)
 	end
 
 	-- Revive the player.
-	TriggerEvent('chatMessage', "RPDeath", {200,0,0}, "Revived")
+	TriggerEvent('chatMessage', "Death", {200,0,0}, "Revived")
 	allowRevive = true
 end)
 
 AddEventHandler('RPD:toggleDeath', function(from)
 	RPDeathEnabled = not RPDeathEnabled
 	if (RPDeathEnabled) then
-		TriggerEvent('chatMessage', "RPDeath", {200,0,0}, "RPDeath enabled.")
+		TriggerEvent('chatMessage', "Death", {200,0,0}, "RPDeath enabled.")
 	else
-		TriggerEvent('chatMessage', "RPDeath", {200,0,0}, "RPDeath disabled.")
+		TriggerEvent('chatMessage', "Death", {200,0,0}, "RPDeath disabled.")
 	end
 end)
 

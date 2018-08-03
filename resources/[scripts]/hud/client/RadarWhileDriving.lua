@@ -7,7 +7,7 @@ local BigMapKeyInVehicle = 131
 -- Change this to false to disable the big map in vehicles
 local BigMapInVehicles = true
 -- Change this to false to enable the radar for every passenger
-local OnlyDriver = true
+local OnlyDriver = false
 
 
 
@@ -23,7 +23,7 @@ Citizen.CreateThread(function()
     while true do
 		Citizen.Wait(0)
 		BigMapHandle(IsPedInAnyVehicle(PlayerPedId(), true), OnlyDriver and (GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId(), false), -1) == PlayerPedId()))
-		if IsPedInAnyVehicle(PlayerPedId(), true) then
+		if IsPedInAnyVehicle(PlayerPedId(), true) or IsPedInAnyVehicle(PlayerPedId(), false) then
 			if (OnlyDriver and (GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId(), false), -1) == PlayerPedId())) or not OnlyDriver then
 				DisplayRadar(true)
 			end
@@ -38,15 +38,15 @@ Citizen.CreateThread(function()
 				local BackgroundBarH = MM.yunit * 18.0
 				local BarH = BackgroundBarH / 2
 				local BarSpacer = MM.xunit * 3.0
-				local BackgroundBar = {['R'] = 10, ['G'] = 10, ['B'] = 10, ['A'] = 200, ['L'] = 0}
+				local BackgroundBar = {['R'] = 40, ['G'] = 40, ['B'] = 40, ['A'] = 255, ['L'] = 0}
 				
-				local HealthBaseBar = {['R'] = 56, ['G'] = 119, ['B'] = 40, ['A'] = 255, ['L'] = 1}
+				local HealthBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
 				local HealthBar = {['R'] = 96, ['G'] = 159, ['B'] = 80, ['A'] = 255, ['L'] = 2}
 				
-				local HealthHitBaseBar = {['R'] = 112, ['G'] = 25, ['B'] = 25, ['A'] = 175}
+				local HealthHitBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255}
 				local HealthHitBar = {['R'] = 224, ['G'] = 50, ['B'] = 50, ['A'] = 175}
 				
-				local ArmourBaseBar = {['R'] = 47, ['G'] = 92, ['B'] = 115, ['A'] = 175, ['L'] = 1}
+				local ArmourBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
 				local ArmourBar = {['R'] = 123, ['G'] = 121, ['B'] = 214, ['A'] = 255, ['L'] = 2}
 				
 				local AirBaseBar = {['R'] = 67, ['G'] = 106, ['B'] = 130, ['A'] = 175, ['L'] = 1}
@@ -67,7 +67,7 @@ Citizen.CreateThread(function()
 				end
 				local HealthBarX = MM.x + (HealthBarW / 2)
 				local HealthBarR, HealthBarG, HealthBarB, HealthBarA = HealthBar.R, HealthBar.G, HealthBar.B, HealthBar.A
-				if PlayerHealth <= 118 or (PlayerStamina >= 90.0 and (IsPedRunning(PlayerPedId()) or IsPedSprinting(PlayerPedId()))) then
+				if PlayerHealth <= 118 or (PlayerStamina >= 90.0 and (IsPedRunning(PlayerPedId()) or IsPedInAnyVehicle(PlayerPedId(), true) or IsPedSprinting(PlayerPedId()))) then
 					HealthBaseBarR, HealthBaseBarG, HealthBaseBarB, HealthBaseBarA = HealthHitBaseBar.R, HealthHitBaseBar.G, HealthHitBaseBar.B, HealthHitBaseBar.A
 					HealthBarR, HealthBarG, HealthBarB, HealthBarA = HealthHitBar.R, HealthHitBar.G, HealthHitBar.B, HealthHitBar.A
 				end

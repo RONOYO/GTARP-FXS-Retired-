@@ -2,7 +2,7 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/ayoungballs" and enable_core_commands == true then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "^*ANNOUNCEMENT: ^r^7" .. name .. " " .. string.sub(msg,5), { 255, 0, 0 })
+		TriggerClientEvent('chatMessage', -1, "^*ANNOUNCEMENT: ^r^7[" .. name .. "] " .. string.sub(msg,13), { 255, 0, 0 })
 	end
 end)
 
@@ -10,7 +10,7 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/tweet" and enable_core_commands == true then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7" .. name .. " " .. string.sub(msg,5), { 66, 215, 244 })
+		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7[" .. name .. "] " .. string.sub(msg,7), { 66, 215, 244 })
 	end
 end)
 
@@ -18,7 +18,7 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/TWEET" and enable_core_commands == true then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7" .. name .. " " .. string.sub(msg,5), { 66, 215, 244 })
+		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7[" .. name .. "] " .. string.sub(msg,5), { 66, 215, 244 })
 	end
 end)
 
@@ -26,7 +26,7 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/me" and enable_core_commands == true then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "^*ME: ^r^7" .. name .. " " .. string.sub(msg,5), { 0, 145, 255 })
+		TriggerClientEvent('chatMessage', -1, "^*ME: ^r^7[" .. name .. "] " .. string.sub(msg,5), { 0, 145, 255 })
 	end
 end)
 
@@ -34,7 +34,7 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/ME" and enable_core_commands == true then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "^*ME: ^r^7" .. name .. " " .. string.sub(msg,5), { 0, 145, 255 })
+		TriggerClientEvent('chatMessage', -1, "^*ME: ^r^7[" .. name .. "] " .. string.sub(msg,5), { 0, 145, 255 })
 	end
 end)
 
@@ -126,8 +126,7 @@ AddEventHandler( 'chatMessage', function( source, n, msg )
     
         CancelEvent() 
 
-        TriggerClientEvent('chatMessage', -1, "^*IMPOUND:^r^7 [" .. name .. "] Impounded a vehicle", { 23, 255, 50 })
-        TriggerClientEvent( 'wk:deleteVehicle', source )
+        TriggerClientEvent( 'wk:deleteVehicle2', source )
     end
 end )
 
