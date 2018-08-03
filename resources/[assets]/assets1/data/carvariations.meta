@@ -1044,13 +1044,13 @@
     </Item>
 <Item>
       <modelName>so11</modelName>
-      <colors>
+    <colors>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
+            111
+            64
+            1
+            156	
           </indices>
           <liveries>
             <Item value="true" />
@@ -1065,10 +1065,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
+            111
+            64
+            1
+            156	
           </indices>
           <liveries>
             <Item value="false" />
@@ -1083,28 +1083,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
+            111
+            64
+            1
+            156	
           </indices>
           <liveries>
             <Item value="false" />
@@ -1119,10 +1101,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
-            156  
-            156 
+            111
+            64
+            1
+            156	
           </indices>
           <liveries>
             <Item value="false" />
@@ -1133,18 +1115,88 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            64
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            64
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            64
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            64
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
           </liveries>
         </Item>
       </colors>
-      <kits>
-        <Item>156_jester2_modkit</Item>
-      </kits>
+      <kits />
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
-      <lightSettings value="1" />
-      <sirenSettings value="1" />
+      <lightSettings value="666" />
+      <sirenSettings value="21" />
     </Item>
 <Item>
       <modelName>so12</modelName>
@@ -1667,109 +1719,109 @@
       <sirenSettings value="1" />
     </Item>
 <Item>
-      <modelName>so17</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134
-            134
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-      </colors>
-      <kits>
-        <Item>156_jester2_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges />
-      <plateProbabilities>
-        <Probabilities />
-      </plateProbabilities>
-      <lightSettings value="1" />
-      <sirenSettings value="1" />
+  <modelName>so17</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
     </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="2" />
+</Item>
 <Item>
       <modelName>so18</modelName>
       <colors>
