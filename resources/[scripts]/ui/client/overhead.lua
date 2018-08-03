@@ -1,26 +1,31 @@
-]]
+
 local showPlayerBlips = false
 local ignorePlayerNameDistance = false
 local disPlayerNames = 15
 local playerSource = 0
 
-RegisterCommand('hloff', function()
+RegisterNetEvent('hlDIS')
+AddEventHandler('hlDIS', function()
 	disPlayerNames = 0
 end)
 
-RegisterCommand('hlon', function()
+RegisterNetEvent('hlEN')
+AddEventHandler('hlEN', function()
 	disPlayerNames = 15
 end)
 
-RegisterCommand('hlrangec', function()
+RegisterNetEvent('DisCLS')
+AddEventHandler('DisCLS', function()
 	disPlayerNames = 15
 end)
 
-RegisterCommand('hlrangem', function()
+RegisterNetEvent('DisMDM')
+AddEventHandler('DisMDM', function()
 	disPlayerNames = 200
 end)
 
-RegisterCommand('hlrangef', function()
+RegisterNetEvent('DisFAR')
+AddEventHandler('DisFAR', function()
 	disPlayerNames = 9999
 end)
 
@@ -54,36 +59,36 @@ function DrawText3D(x,y,z, text) -- some useful function, use it if you want!
 	local scale = scale*fov
 
 	if onScreen then
-		SetTextFont(4)
+    	SetTextFont(4)
 		SetTextScale(scale, scale)
-		SetTextProportional(true)
-		SetTextColour(255, 255, 255, 255)
+    	SetTextProportional(true)
+    	SetTextColour(255, 255, 255, 255)
 		SetTextCentre(true)
-		SetTextDropshadow(0, 0, 0, 0, 0)
-		SetTextOutline()
-		SetTextEntry("STRING")
-		AddTextComponentString(text)
-		DrawText(_x,_y - 0.025)
-	end
+    	SetTextDropshadow(0, 0, 0, 0, 0)
+    	SetTextOutline()
+    	SetTextEntry("STRING")
+    	AddTextComponentString(text)
+    	DrawText(_x,_y - 0.025)
+  	end
 end
 
 Citizen.CreateThread(function()
 	while true do
-		for i=0,99 do
-		N_0x31698aa80e0223f8(i)
-	end
-	for id = 0, 31 do
-	if NetworkIsPlayerActive(id) and GetPlayerPed(id) ~= GetPlayerPed(-1) then
-		ped = GetPlayerPed(id)
-		x1, y1, z1 = table.unpack(GetEntityCoords(GetPlayerPed(-1), true))
-		x2, y2, z2 = table.unpack(GetEntityCoords(GetPlayerPed(id), true))
-		distance = math.floor(GetDistanceBetweenCoords(x1,  y1,  z1,  x2,  y2,  z2,  true))
+    	for i=0,99 do
+      	N_0x31698aa80e0223f8(i)
+    end
+    for id = 0, 31 do
+    if NetworkIsPlayerActive(id) and GetPlayerPed(id) ~= GetPlayerPed(-1) then
+        ped = GetPlayerPed(id)
+        x1, y1, z1 = table.unpack(GetEntityCoords(GetPlayerPed(-1), true))
+        x2, y2, z2 = table.unpack(GetEntityCoords(GetPlayerPed(id), true))
+        distance = math.floor(GetDistanceBetweenCoords(x1,  y1,  z1,  x2,  y2,  z2,  true))
 				if distance < disPlayerNames then
 					if not ignorePlayerNameDistance then
 						if NetworkIsPlayerTalking(id) then
-							DrawText3D(x2, y2, z2+1, GetPlayerServerId(id) .. "  |  " .. string.sub(GetPlayerName(id), 1, 44) .. "~n~~g~Talking...")
+							DrawText3D(x2, y2, z2+1, "~c~" .. GetPlayerServerId(id) .. "  |  " .. string.sub(GetPlayerName(id), 1, 44) .. "~n~~g~Talking...")
 						else
-							DrawText3D(x2, y2, z2+1, GetPlayerServerId(id) .. "  |  " .. string.sub(GetPlayerName(id), 1, 44) .. "")
+							DrawText3D(x2, y2, z2+1, "~c~" .. GetPlayerServerId(id) .. "  |  " .. string.sub(GetPlayerName(id), 1, 44) .. "")
 						end
 					end
 				end

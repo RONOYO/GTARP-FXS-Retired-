@@ -1,5 +1,29 @@
 AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
+	if sm[1] == "/ayoungballs" and enable_core_commands == true then
+		CancelEvent()
+		TriggerClientEvent('chatMessage', -1, "^*ANNOUNCEMENT: ^r^7" .. name .. " " .. string.sub(msg,5), { 255, 0, 0 })
+	end
+end)
+
+AddEventHandler('chatMessage', function(source, name, msg)
+	sm = stringsplit(msg, " ");
+	if sm[1] == "/tweet" and enable_core_commands == true then
+		CancelEvent()
+		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7" .. name .. " " .. string.sub(msg,5), { 66, 215, 244 })
+	end
+end)
+
+AddEventHandler('chatMessage', function(source, name, msg)
+	sm = stringsplit(msg, " ");
+	if sm[1] == "/TWEET" and enable_core_commands == true then
+		CancelEvent()
+		TriggerClientEvent('chatMessage', -1, "^*TWEET: ^r^7" .. name .. " " .. string.sub(msg,5), { 66, 215, 244 })
+	end
+end)
+
+AddEventHandler('chatMessage', function(source, name, msg)
+	sm = stringsplit(msg, " ");
 	if sm[1] == "/me" and enable_core_commands == true then
 		CancelEvent()
 		TriggerClientEvent('chatMessage', -1, "^*ME: ^r^7" .. name .. " " .. string.sub(msg,5), { 0, 145, 255 })
@@ -62,6 +86,14 @@ AddEventHandler('chatMessage', function(source, name, msg)
 	end
 end)
 
+AddEventHandler('chatMessage', function(source, name, msg)
+	sm = stringsplit(msg, " ");
+	if sm[1] == "/OOC" and enable_core_commands == true then
+		CancelEvent()
+		TriggerClientEvent('chatMessage', -1, "^*OOC:^r^7 [" .. name .. "] " .. string.sub(msg,6), { 23, 255, 50 })
+	end
+end)
+
 RegisterServerEvent('chatEvent')
 AddEventHandler('chatEvent', function(string)
   TriggerClientEvent('chatMessage', -1, string)
@@ -81,12 +113,20 @@ AddEventHandler( 'chatMessage', function( source, n, msg )
     msg = string.lower( msg )
     
     -- Check to see if a client typed in /dv
-    if ( msg == "/dv" or msg == "/delveh" ) then 
+    if ( msg == "/dv" or msg == "/delveh" or msg == "/DV" or msg == "/DELVEH") then 
     
         -- Cancel the chat message event (stop the server from posting the message)
         CancelEvent() 
 
         -- Trigger the client event 
+        TriggerClientEvent( 'wk:deleteVehicle', source )
+    end
+
+    if ( msg == "/tow" or msg == "/impound" or msg == "/TOW" or msg == "/IMPOUND" ) then 
+    
+        CancelEvent() 
+
+        TriggerClientEvent('chatMessage', -1, "^*IMPOUND:^r^7 [" .. name .. "] Impounded a vehicle", { 23, 255, 50 })
         TriggerClientEvent( 'wk:deleteVehicle', source )
     end
 end )
