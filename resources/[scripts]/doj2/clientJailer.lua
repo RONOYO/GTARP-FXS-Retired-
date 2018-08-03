@@ -20,10 +20,6 @@ AddEventHandler("JP", function(jT)
 				pP = GetPlayerPed(-1)
 				RemoveAllPedWeapons(pP, true)
 				SetEntityInvincible(pP, true)
-				StopAnimTask(pP, "mp_arresting", "idle", 0)
-				ResetPedMovementClipset( pP )
-				ResetPedStrafeClipset(pP)
-				repeat
 				if IsPedInAnyVehicle(pP, false) then
 					ClearPedTasksImmediately(pP)
 				end

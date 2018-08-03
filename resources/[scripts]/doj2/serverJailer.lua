@@ -8,7 +8,21 @@ local maxsecs = 1000
 
 AddEventHandler('chatMessage', function(source, n, message)
     cm = stringsplit(message, " ")
-    if cm[1] == "/unjail" then
+
+    if(cm[1] == "/jailme") then
+		CancelEvent()
+		local jT = defaultsecs
+		if cm[2] ~= nil then
+			jT = tonumber(cm[2])				
+		end
+		if jT > maxsecs then
+			jT = maxsecs
+		end
+		
+		print("Jailing ".. GetPlayerName(source) .. " for ".. jT .." secs")
+		TriggerClientEvent("JP", source, jT)
+		TriggerClientEvent('chatMessage', -1, 'JUDGE', { 0, 0, 0 }, GetPlayerName(source) ..' jailed for '.. jT ..' secs')
+    elseif cm[1] == "/unjail" then
 		CancelEvent()
 		if cm[2] == jailPassword then
 			local tPID = tonumber(cm[3])
@@ -44,6 +58,8 @@ AddEventHandler('chatMessage', function(source, n, message)
 		end
 	end
 end)
+
+print('Jailer by Albo1125 (LUA, FXServer, FiveM).')
 function stringsplit(inputstr, sep)
     if sep == nil then
         sep = "%s"
