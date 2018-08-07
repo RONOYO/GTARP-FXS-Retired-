@@ -38284,3 +38284,312 @@ ts]/assets5
 [    677891] Started resource ui
 [    702063] Command Processed by: YoungPlays: '/uit'
 [    704219] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        94] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       141] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       156] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       156] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       172] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       188] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       188] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       203] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       219] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       234] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       234] Found new resource emotes in C:/FXS\GTARP-FXS/resources//[scripts]/emotes
+[       234] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       266] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       266] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       266] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       281] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       281] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       281] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       313] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       313] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       375] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       422] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       438] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       438] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       453] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       453] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       469] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       469] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       484] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       484] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       500] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       500] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       547] Started resource sessionmanager
+[       563] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       141] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       141] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       156] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       172] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       188] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       203] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       219] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       234] Found new resource emotes in C:/FXS\GTARP-FXS/resources//[scripts]/emotes
+[       234] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       250] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       266] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       266] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       281] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       281] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       281] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       313] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       313] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       359] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       375] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       375] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       391] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       391] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       406] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       406] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       438] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       438] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       453] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       453] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       500] Started resource sessionmanager
+[       531] Started resource mapmanager
+[       531] Started resource chat
+[       531] Started resource spawnmanager
+[       547] Stopping resource sessionmanager
+[       547] Started resource sessionmanager
+[       547] Started gametype BLGN-RP
+[       563] Started resource fivem
+[       563] Started resource hardcap
+[       578] Started resource rconlog
+[       578] Started resource pNotify
+[       578] Started resource hud
+[       594] Started resource spawn
+[       609] Started resource doj
+[       625] Jailer by Albo1125 (LUA, FXServer, FiveM).
+[       625] Started resource doj2
+[       625] Started resource doj3
+[       641] Started resource ui
+[       641] Started resource RPDeath
+[       656] Started resource commands
+[       656] Started resource realism
+[       672] Started resource emotes
+[       688] Started resource loadingscreen
+[       703] Started resource lightingsystem
+[      1359] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_350643481
+[      1375] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1375] Instantiated instance of script GHMatti.Http.Request.
+[      2047] Instantiated instance of script vMenuServer.BanManager.
+[      2125] Instantiated instance of script vMenuServer.MainServer.
+[      2141] Instantiated instance of script vMenuServer.UpdateChecker.
+[      2188] Started resource vMenu
+[      2203] Started resource wk_wrs
+[      2203] Started resource assets0
+[      2219] Started resource assets1
+[      2234] Started resource assets2
+[      2234] ^3Couldn't find resource assets3.^7
+[      3891] Started resource assets4
+[      3906] Started resource assets5
+[      3906] Authenticating server license key...
+[      4766] Server license key authentication succeeded. Welcome!
+[      4813] Sending heartbeat to live-internal.fivem.net:30110
+[      5156] Started map Blueline-Gaming-Network
+[      5156] Started resource Blueline-Gaming-Network
+[      5188] hitch warning: frame time of 363 milliseconds
+[      5906] 
+[      5906] [vMenu] Checking for updates.
+[      5922] [vMenu] Your version of vMenu is up to date! Good job!
+[     13016] Connecting: Enemy Uav
+[     18703] Connecting: [HP-63] Sam J.
+[     19969] Sending heartbeat to live-internal.fivem.net:30110
+[     22125] Sending heartbeat to live-internal.fivem.net:30110
+[     45234] Sending heartbeat to live-internal.fivem.net:30110
+[     78797] Connecting: Alex C.
+[     82797] Sending heartbeat to live-internal.fivem.net:30110
+[     99000] Connecting: Enemy Uav
+[    100094] Sending heartbeat to live-internal.fivem.net:30110
+[    121531] Connecting: YoungPlays
+[    124234] Sending heartbeat to live-internal.fivem.net:30110
+[    263750] Connecting: West
+[    271625] Sending heartbeat to live-internal.fivem.net:30110
+[    451641] Sending heartbeat to live-internal.fivem.net:30110
+[    505719] Stopping resource chat
+[    505734] Started resource chat
+[    631688] Sending heartbeat to live-internal.fivem.net:30110
+[    665422] Connecting: Brandon B. 2L-232
+[    669516] Sending heartbeat to live-internal.fivem.net:30110
+[    730859] Command Processed by: Enemy Uav: '/twt I have the NEW flying bike !! NO one has it in the world exept ME'
+[    775078] Sending heartbeat to live-internal.fivem.net:30110
+[    785094] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[    785484] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[    785484] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[    785484] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[    785625] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[    797281] Connecting: [HP-63] Sam J.
+[    798391] Sending heartbeat to live-internal.fivem.net:30110
+[    922563] Sending heartbeat to live-internal.fivem.net:30110
+[    987484] Connecting: [HP-63] Sam J.
+[    988656] Sending heartbeat to live-internal.fivem.net:30110
+[   1033359] Command Processed by: Brandon B. 2L-232: '/crouch'
+[   1062531] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   1062531] stack traceback:
+[   1062531] 	[C]: in function 'string.lower'
+[   1062531] 	sv.lua:4: in upvalue 'handler'
+[   1062531] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   1062531] stack traceback:
+[   1062531] 	[C]: in function 'error'
+[   1062531] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   1062531] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   1062531] : 
+[   1168703] Sending heartbeat to live-internal.fivem.net:30110
+[   1348750] Sending heartbeat to live-internal.fivem.net:30110
+[   1528781] Sending heartbeat to live-internal.fivem.net:30110
+[   1561328] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   1561328] stack traceback:
+[   1561344] 	[C]: in function 'string.lower'
+[   1561344] 	sv.lua:4: in upvalue 'handler'
+[   1561344] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   1561344] stack traceback:
+[   1561344] 	[C]: in function 'error'
+[   1561344] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   1561344] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   1561344] : 
+[   1708844] Sending heartbeat to live-internal.fivem.net:30110
+[   1826906] Connecting: joshua97203
+[   1834750] Sending heartbeat to live-internal.fivem.net:30110
+[   1919313] Stopping resource realism
+[   1919313] Started resource realism
+[   1944000] Sending heartbeat to live-internal.fivem.net:30110
+[   2124016] Sending heartbeat to live-internal.fivem.net:30110
+[   2304047] Sending heartbeat to live-internal.fivem.net:30110
+[   2356828] Stopping resource vMenu
+[   2365297] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1120127584
+[   2365313] Instantiated instance of script GHMatti.Http.RequestInternal.
+[   2365313] Instantiated instance of script GHMatti.Http.Request.
+[   2365891] Instantiated instance of script vMenuServer.BanManager.
+[   2365953] Instantiated instance of script vMenuServer.MainServer.
+[   2365969] Instantiated instance of script vMenuServer.UpdateChecker.
+[   2366016] Started resource vMenu
+[   2366031] hitch warning: frame time of 1082 milliseconds
+[   2366797] hitch warning: frame time of 291 milliseconds
+[   2367031] hitch warning: frame time of 235 milliseconds
+[   2367578] 
+[   2367578] [vMenu] Checking for updates.
+[   2367594] [vMenu] Your version of vMenu is up to date! Good job!
+[   2367672] hitch warning: frame time of 167 milliseconds
+[   2484094] Sending heartbeat to live-internal.fivem.net:30110
+[   2660891] Command Processed by: Alex C.: '/save'
+[   2662422] Command Processed by: Alex C.: '/save'
+[   2664125] Sending heartbeat to live-internal.fivem.net:30110
+[   2705313] Sending heartbeat to live-internal.fivem.net:30110
+[   2773578] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   2773578] stack traceback:
+[   2773578] 	[C]: in function 'string.lower'
+[   2773578] 	sv.lua:4: in upvalue 'handler'
+[   2773578] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   2773578] stack traceback:
+[   2773578] 	[C]: in function 'error'
+[   2773578] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   2773578] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   2773578] : 
+[   2786125] Connecting: Alex C.
+[   2787641] Sending heartbeat to live-internal.fivem.net:30110
+[   2967656] Sending heartbeat to live-internal.fivem.net:30110
+[   3147703] Sending heartbeat to live-internal.fivem.net:30110
+[   3327719] Sending heartbeat to live-internal.fivem.net:30110
+[   3507781] Sending heartbeat to live-internal.fivem.net:30110
+[   3687781] Sending heartbeat to live-internal.fivem.net:30110
+[   3867797] Sending heartbeat to live-internal.fivem.net:30110
+[   4047859] Sending heartbeat to live-internal.fivem.net:30110
+[   4227891] Sending heartbeat to live-internal.fivem.net:30110
+[   4245047] Command Processed by: Enemy Uav: '/trunk'
+[   4352828] Command Processed by: Brandon B. 2L-232: '/fix'
+[   4356906] Command Processed by: Brandon B. 2L-232: '/repair'
+[   4407938] Sending heartbeat to live-internal.fivem.net:30110
+[   4508125] Command Processed by: Alex C.: '/aop'
+[   4587969] Sending heartbeat to live-internal.fivem.net:30110
+[   4768016] Sending heartbeat to live-internal.fivem.net:30110
+[   4947922] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   4947922] stack traceback:
+[   4947922] 	[C]: in function 'string.lower'
+[   4947922] 	sv.lua:4: in upvalue 'handler'
+[   4947922] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   4947922] stack traceback:
+[   4947922] 	[C]: in function 'error'
+[   4947922] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   4947922] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   4947922] : 
+[   4948047] Sending heartbeat to live-internal.fivem.net:30110
+[   5110547] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   5110547] stack traceback:
+[   5110547] 	[C]: in function 'string.lower'
+[   5110547] 	sv.lua:4: in upvalue 'handler'
+[   5110547] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   5110547] stack traceback:
+[   5110547] 	[C]: in function 'error'
+[   5110547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   5110547] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   5110547] : 
+[   5128063] Sending heartbeat to live-internal.fivem.net:30110
+[   5142688] Sending heartbeat to live-internal.fivem.net:30110
+[   5322703] Sending heartbeat to live-internal.fivem.net:30110
+[   5502750] Sending heartbeat to live-internal.fivem.net:30110
+[   5647656] Command Processed by: Alex C.: '/REVIVE'
+[   5682781] Sending heartbeat to live-internal.fivem.net:30110
+[   5709406] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   5709406] stack traceback:
+[   5709406] 	[C]: in function 'string.lower'
+[   5709406] 	sv.lua:4: in upvalue 'handler'
+[   5709406] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   5709406] stack traceback:
+[   5709406] 	[C]: in function 'error'
+[   5709406] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   5709406] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   5709406] : 
+[   5716266] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   5716281] stack traceback:
+[   5716281] 	[C]: in function 'string.lower'
+[   5716281] 	sv.lua:4: in upvalue 'handler'
+[   5716281] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   5716281] stack traceback:
+[   5716281] 	[C]: in function 'error'
+[   5716281] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   5716281] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   5716281] : 
+[   5727172] Sending heartbeat to live-internal.fivem.net:30110
+[   5907203] Sending heartbeat to live-internal.fivem.net:30110
+[   5909672] Command Processed by: Brandon B. 2L-232: '/revive\'

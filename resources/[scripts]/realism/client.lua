@@ -992,3 +992,59 @@ Citizen.CreateThread(function()
 		end
 	end
 end)
+
+function sendForbiddenMessage(message)
+	TriggerEvent("chatMessage", "", {0, 0, 0}, "^1" .. message)
+end
+
+function _DeleteEntity(entity)
+	Citizen.InvokeNative(0xAE3CBE5BF394C9C9, Citizen.PointerValueIntInitialized(entity))
+end
+
+-- CONFIG --
+
+-- Blacklisted vehicle models
+carblacklist = {
+	"DELUXO",
+	"oppressor",
+}
+
+-- CODE --
+
+Citizen.CreateThread(function()
+	while true do
+		Wait(1)
+
+		playerPed = GetPlayerPed(-1)
+		if playerPed then
+			checkCar(GetVehiclePedIsIn(playerPed, false))
+
+			x, y, z = table.unpack(GetEntityCoords(playerPed, true))
+			for _, blacklistedCar in pairs(carblacklist) do
+				checkCar(GetClosestVehicle(x, y, z, 100.0, GetHashKey(blacklistedCar), 70))
+			end
+		end
+	end
+end)
+
+function checkCar(car)
+	if car then
+		carModel = GetEntityModel(car)
+		carName = GetDisplayNameFromVehicleModel(carModel)
+
+		if isCarBlacklisted(carModel) then
+			_DeleteEntity(car)
+			
+		end
+	end
+end
+
+function isCarBlacklisted(model)
+	for _, blacklistedCar in pairs(carblacklist) do
+		if model == GetHashKey(blacklistedCar) then
+			return true
+		end
+	end
+
+	return false
+end
