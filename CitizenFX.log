@@ -35328,3 +35328,2276 @@ ts]/assets5
 [  11620672] Got a late vouch for Alex C. - they're the current arbitrator!
 [  11621032] Got a late vouch for Alex C. - they're the current arbitrator!
 [  11621047] Got a late vouch for Alex C. - they're the current arbitrator!
+[  11780860] Sending heartbeat to live-internal.fivem.net:30110
+[  11817579] Connecting: Young
+[  11818860] Sending heartbeat to live-internal.fivem.net:30110
+[  11998875] Sending heartbeat to live-internal.fivem.net:30110
+[  12138063] Command Processed by: Andrew J.: '/delgun on'
+[  12178922] Sending heartbeat to live-internal.fivem.net:30110
+[  12358954] Sending heartbeat to live-internal.fivem.net:30110
+[  12500063] Sending heartbeat to live-internal.fivem.net:30110
+[  12505969] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       141] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       157] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       157] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       172] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       188] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       204] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       204] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       219] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       235] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       235] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       250] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       266] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       266] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       266] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       282] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       282] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       297] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       313] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       313] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       329] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       329] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       360] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       360] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       391] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       391] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       391] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       407] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       407] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       438] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       438] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       454] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       454] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       469] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       516] Started resource sessionmanager
+[       532] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       109] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       125] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       140] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       156] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       156] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       187] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       187] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       203] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       203] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       234] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       234] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       250] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       265] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       265] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       281] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       281] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       297] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       312] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       312] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       359] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       375] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       390] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       390] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       406] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       406] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       437] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       437] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       453] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       453] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       469] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       500] Started resource sessionmanager
+[       531] Started resource mapmanager
+[       547] Started resource chat
+[       547] Started resource spawnmanager
+[       547] Stopping resource sessionmanager
+[       562] Started resource sessionmanager
+[       562] Started gametype BLGN-RP
+[       562] Started resource fivem
+[       578] Started resource hardcap
+[       594] Started resource rconlog
+[       594] Started resource pNotify
+[       594] Started resource hud
+[       609] Started resource spawn
+[       625] Started resource doj
+[       625] Jailer by Albo1125 (LUA, FXServer, FiveM).
+[       640] Started resource doj2
+[       640] Started resource doj3
+[       640] Started resource ui
+[       656] Started resource RPDeath
+[       672] Started resource commands
+[       672] Started resource realism
+[       687] Started resource loadingscreen
+[       703] Started resource lightingsystem
+[      1390] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1928870943
+[      1422] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1422] Instantiated instance of script GHMatti.Http.Request.
+[      2094] Instantiated instance of script vMenuServer.BanManager.
+[      2172] Instantiated instance of script vMenuServer.MainServer.
+[      2203] Instantiated instance of script vMenuServer.UpdateChecker.
+[      2250] Started resource vMenu
+[      2250] Started resource wk_wrs
+[      2250] Started resource assets0
+[      2265] Started resource assets1
+[      2281] Started resource assets2
+[      2281] ^3Couldn't find resource assets3.^7
+[      2312] Started resource assets4
+[      2328] Started resource assets5
+[      2328] Authenticating server license key...
+[      3015] Server license key authentication succeeded. Welcome!
+[      3062] Sending heartbeat to live-internal.fivem.net:30110
+[      3406] Started map Blueline-Gaming-Network
+[      3406] Started resource Blueline-Gaming-Network
+[      3437] hitch warning: frame time of 369 milliseconds
+[      4203] 
+[      4203] [vMenu] Checking for updates.
+[      4219] [vMenu] Your version of vMenu is up to date! Good job!
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       141] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       156] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       156] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       188] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       188] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       203] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       234] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       234] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       234] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       250] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       250] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       266] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       266] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       281] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       281] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       313] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       313] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       359] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       375] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       391] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       391] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       406] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       406] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       438] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       438] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       453] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       453] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       500] Started resource sessionmanager
+[       516] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       140] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       140] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       156] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       156] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       172] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       187] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       187] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       203] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       203] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       219] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       219] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       234] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       234] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       234] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       250] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       265] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       265] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       281] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       281] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       297] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       297] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       312] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       312] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       328] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       344] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       359] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       359] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       375] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       390] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       390] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       406] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       406] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       422] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       422] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       437] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       437] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       453] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       453] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       469] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       469] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       515] Started resource sessionmanager
+[       547] Started resource mapmanager
+[       562] Started resource chat
+[       562] Started resource spawnmanager
+[       562] Stopping resource sessionmanager
+[       578] Started resource sessionmanager
+[       578] Started gametype BLGN-RP
+[       578] Started resource fivem
+[       594] Started resource hardcap
+[       594] Started resource rconlog
+[       594] Started resource pNotify
+[       609] Started resource hud
+[       625] Started resource spawn
+[       625] Started resource doj
+[       640] Jailer by Albo1125 (LUA, FXServer, FiveM).
+[       640] Started resource doj2
+[       656] Started resource doj3
+[       656] Started resource ui
+[       672] Started resource RPDeath
+[       672] Started resource commands
+[       703] Started resource realism
+[       719] Started resource loadingscreen
+[       734] Started resource lightingsystem
+[       734] Started resource wk_wrs
+[       734] Started resource assets0
+[       750] Started resource assets1
+[       765] Started resource assets2
+[       765] ^3Couldn't find resource assets3.^7
+[       781] Started resource assets4
+[       797] Started resource assets5
+[       812] Authenticating server license key...
+[      1484] Server license key authentication succeeded. Welcome!
+[      1531] Sending heartbeat to live-internal.fivem.net:30110
+[      1531] Started map Blueline-Gaming-Network
+[      1547] Started resource Blueline-Gaming-Network
+[     22453] Connecting: [CD] CIV-01 Brandon B.
+[     23500] Sending heartbeat to live-internal.fivem.net:30110
+[     32390] Connecting: Andrew J.
+[     33375] Sending heartbeat to live-internal.fivem.net:30110
+[    105922] Received a vouch for Andrew J., they have 2 vouches and need 2.
+[    105922] Andrew J. is the new arbitrator, with an overwhelming 2 vote/s.
+[    110078] Sending heartbeat to live-internal.fivem.net:30110
+[    143234] Connecting: [CD] CIV-01 Brandon B.
+[    144094] Sending heartbeat to live-internal.fivem.net:30110
+[    146015] Connecting: Young
+[    147250] Sending heartbeat to live-internal.fivem.net:30110
+[    228078] Sending heartbeat to live-internal.fivem.net:30110
+[    268625] Sending heartbeat to live-internal.fivem.net:30110
+[    279312] Connecting: Alex C.
+[    280625] Sending heartbeat to live-internal.fivem.net:30110
+[    381687] Connecting: [CD] CIV-01 Brandon B.
+[    382562] Sending heartbeat to live-internal.fivem.net:30110
+[    445734] Connecting: Young
+[    446953] Sending heartbeat to live-internal.fivem.net:30110
+[    626969] Sending heartbeat to live-internal.fivem.net:30110
+[    652484] Command Processed by: Andrew J.: '/cbluballs 6'
+[    807000] Sending heartbeat to live-internal.fivem.net:30110
+[    837906] Command Processed by: Andrew J.: '/sc'
+[    987047] Sending heartbeat to live-internal.fivem.net:30110
+[   1030281] Command Processed by: Alex C.: '/emote notepad'
+[   1065578] Command Processed by: [CD] CIV-01 Brandon B.: '/emotes'
+[   1112953] Found new resource emotes in C:/FXS\GTARP-FXS/resources//[scripts]/emotes
+[   1114484] Started resource emotes
+[   1167094] Sending heartbeat to live-internal.fivem.net:30110
+[   1347109] Sending heartbeat to live-internal.fivem.net:30110
+[   1444312] Command Processed by: Alex C.: '/engine'
+[   1527156] Sending heartbeat to live-internal.fivem.net:30110
+[   1620250] Sending heartbeat to live-internal.fivem.net:30110
+[   1655687] Connecting: Young
+[   1656812] Sending heartbeat to live-internal.fivem.net:30110
+[   1750406] Sending heartbeat to live-internal.fivem.net:30110
+[   1930437] Sending heartbeat to live-internal.fivem.net:30110
+[   2110437] Sending heartbeat to live-internal.fivem.net:30110
+[   2290469] Sending heartbeat to live-internal.fivem.net:30110
+[   2470484] Sending heartbeat to live-internal.fivem.net:30110
+[   2650515] Sending heartbeat to live-internal.fivem.net:30110
+[   2830578] Sending heartbeat to live-internal.fivem.net:30110
+[   3010609] Sending heartbeat to live-internal.fivem.net:30110
+[   3190625] Sending heartbeat to live-internal.fivem.net:30110
+[   3192703] Command Processed by: [CD] CIV-01 Brandon B.: '/mote sunbathe'
+[   3197734] Command Processed by: [CD] CIV-01 Brandon B.: '/emoet sunabthe 2'
+[   3370640] Sending heartbeat to live-internal.fivem.net:30110
+[   3410281] Connecting: Young
+[   3411500] Sending heartbeat to live-internal.fivem.net:30110
+[   3591547] Sending heartbeat to live-internal.fivem.net:30110
+[   3599531] Sending heartbeat to live-internal.fivem.net:30110
+[   3779562] Sending heartbeat to live-internal.fivem.net:30110
+[   3959609] Sending heartbeat to live-internal.fivem.net:30110
+[   4139609] Sending heartbeat to live-internal.fivem.net:30110
+[   4243437] Sending heartbeat to live-internal.fivem.net:30110
+[   4263515] Got a late vouch for Alex C. - they're the current arbitrator!
+[   4263922] Got a late vouch for Alex C. - they're the current arbitrator!
+[   4314890] Connecting: Andrew J.
+[   4316062] Sending heartbeat to live-internal.fivem.net:30110
+[   4496078] Sending heartbeat to live-internal.fivem.net:30110
+[   4676125] Sending heartbeat to live-internal.fivem.net:30110
+[   4856140] Sending heartbeat to live-internal.fivem.net:30110
+[   5036172] Sending heartbeat to live-internal.fivem.net:30110
+[   5216219] Sending heartbeat to live-internal.fivem.net:30110
+[   5396265] Sending heartbeat to live-internal.fivem.net:30110
+[   5576281] Sending heartbeat to live-internal.fivem.net:30110
+[   5639937] Sending heartbeat to live-internal.fivem.net:30110
+[   5678047] Sending heartbeat to live-internal.fivem.net:30110
+[   5702578] Sending heartbeat to live-internal.fivem.net:30110
+[   5882594] Sending heartbeat to live-internal.fivem.net:30110
+[   6062625] Sending heartbeat to live-internal.fivem.net:30110
+[   6152297] Connecting: [CD] CIV-01 Brandon B.
+[   6153312] Sending heartbeat to live-internal.fivem.net:30110
+[   6333375] Sending heartbeat to live-internal.fivem.net:30110
+[   6513406] Sending heartbeat to live-internal.fivem.net:30110
+[   6693453] Sending heartbeat to live-internal.fivem.net:30110
+[   6873484] Sending heartbeat to live-internal.fivem.net:30110
+[   7053515] Sending heartbeat to live-internal.fivem.net:30110
+[   7233531] Sending heartbeat to live-internal.fivem.net:30110
+[   7413578] Sending heartbeat to live-internal.fivem.net:30110
+[   7593594] Sending heartbeat to live-internal.fivem.net:30110
+[   7773640] Sending heartbeat to live-internal.fivem.net:30110
+[   7953656] Sending heartbeat to live-internal.fivem.net:30110
+[   8133703] Sending heartbeat to live-internal.fivem.net:30110
+[   8313750] Sending heartbeat to live-internal.fivem.net:30110
+[   8493781] Sending heartbeat to live-internal.fivem.net:30110
+[   8673797] Sending heartbeat to live-internal.fivem.net:30110
+[   8853812] Sending heartbeat to live-internal.fivem.net:30110
+[   9033828] Sending heartbeat to live-internal.fivem.net:30110
+[   9213859] Sending heartbeat to live-internal.fivem.net:30110
+[   9393890] Sending heartbeat to live-internal.fivem.net:30110
+[   9413203] Sending heartbeat to live-internal.fivem.net:30110
+[   9478859] Connecting: [CD] CIV-01 Brandon B.
+[   9479672] Sending heartbeat to live-internal.fivem.net:30110
+[   9659672] Sending heartbeat to live-internal.fivem.net:30110
+[   9669375] Connecting: Andrew J.
+[   9670859] Sending heartbeat to live-internal.fivem.net:30110
+[   9692344] Connecting: Alex C.
+[   9693578] Sending heartbeat to live-internal.fivem.net:30110
+[   9873578] Sending heartbeat to live-internal.fivem.net:30110
+[  10053625] Sending heartbeat to live-internal.fivem.net:30110
+[  10164047] Connecting: zakmontero01
+[  10175187] Sending heartbeat to live-internal.fivem.net:30110
+[  10355219] Sending heartbeat to live-internal.fivem.net:30110
+[  10469000] Sending heartbeat to live-internal.fivem.net:30110
+[  10649000] Sending heartbeat to live-internal.fivem.net:30110
+[  10674469] Sending heartbeat to live-internal.fivem.net:30110
+[  10854515] Sending heartbeat to live-internal.fivem.net:30110
+[  10887328] Sending heartbeat to live-internal.fivem.net:30110
+[  11067359] Sending heartbeat to live-internal.fivem.net:30110
+[  11247390] Sending heartbeat to live-internal.fivem.net:30110
+[  11427390] Sending heartbeat to live-internal.fivem.net:30110
+[  11607406] Sending heartbeat to live-internal.fivem.net:30110
+[  11787453] Sending heartbeat to live-internal.fivem.net:30110
+[  11967484] Sending heartbeat to live-internal.fivem.net:30110
+[  12147484] Sending heartbeat to live-internal.fivem.net:30110
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       141] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       141] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       157] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       157] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       188] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       203] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       203] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       219] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       235] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       235] Found new resource emotes in C:/FXS\GTARP-FXS/resources//[scripts]/emotes
+[       235] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       250] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       266] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       266] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       282] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       282] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       282] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       297] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       313] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       313] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       328] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       344] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       360] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       360] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       375] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       375] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       391] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       407] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       407] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       438] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       438] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       453] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       453] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       500] Started resource sessionmanager
+[       516] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       110] Found new resource assets0 in C:/FXS\GTARP-FXS/resources//[assets]/assets0
+[       125] Found new resource assets1 in C:/FXS\GTARP-FXS/resources//[assets]/assets1
+[       125] Found new resource assets2 in C:/FXS\GTARP-FXS/resources//[assets]/assets2
+[       141] Found new resource assets4 in C:/FXS\GTARP-FXS/resources//[assets]/assets4
+[       141] Found new resource assets5 in C:/FXS\GTARP-FXS/resources//[assets]/assets5
+[       156] Found new resource coordsaver in C:/FXS\GTARP-FXS/resources//[dev]/coordsaver
+[       156] Found new resource Blueline-Gaming-Network in C:/FXS\GTARP-FXS/resources//[fivem]/Blueline-Gaming-Network
+[       172] Found new resource esplugin_mysql in C:/FXS\GTARP-FXS/resources//[fivem]/esplugin_mysql
+[       172] Found new resource essentialmode in C:/FXS\GTARP-FXS/resources//[fivem]/essentialmode
+[       188] Found new resource es_admin2 in C:/FXS\GTARP-FXS/resources//[fivem]/es_admin2
+[       188] Found new resource fivem in C:/FXS\GTARP-FXS/resources//[fivem]/fivem
+[       203] Found new resource fivem-awesome1501 in C:/FXS\GTARP-FXS/resources//[fivem]/fivem-awesome1501
+[       203] Found new resource runcode in C:/FXS\GTARP-FXS/resources//[fivem]/runcode
+[       219] Found new resource commands in C:/FXS\GTARP-FXS/resources//[scripts]/commands
+[       219] Found new resource doj in C:/FXS\GTARP-FXS/resources//[scripts]/doj
+[       235] Found new resource doj2 in C:/FXS\GTARP-FXS/resources//[scripts]/doj2
+[       235] Found new resource doj3 in C:/FXS\GTARP-FXS/resources//[scripts]/doj3
+[       235] Found new resource emotes in C:/FXS\GTARP-FXS/resources//[scripts]/emotes
+[       250] Found new resource hud in C:/FXS\GTARP-FXS/resources//[scripts]/hud
+[       250] Found new resource lightingsystem in C:/FXS\GTARP-FXS/resources//[scripts]/lightingsystem
+[       266] Found new resource loadingscreen in C:/FXS\GTARP-FXS/resources//[scripts]/loadingscreen
+[       266] Found new resource pNotify in C:/FXS\GTARP-FXS/resources//[scripts]/pNotify
+[       281] Found new resource realism in C:/FXS\GTARP-FXS/resources//[scripts]/realism
+[       281] Found new resource RPDeath in C:/FXS\GTARP-FXS/resources//[scripts]/RPDeath
+[       297] Found new resource sb in C:/FXS\GTARP-FXS/resources//[scripts]/sb
+[       297] Found new resource spawn in C:/FXS\GTARP-FXS/resources//[scripts]/spawn
+[       297] Found new resource ui in C:/FXS\GTARP-FXS/resources//[scripts]/ui
+[       313] Found new resource vMenu in C:/FXS\GTARP-FXS/resources//[scripts]/vMenu
+[       313] Found new resource wk_wrs in C:/FXS\GTARP-FXS/resources//[scripts]/wk_wrs
+[       328] Found new resource race in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race
+[       328] Found new resource race-test in C:/FXS\GTARP-FXS/resources//[fivem]/[gamemodes]/race-test
+[       344] Found new resource channelfeed in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/channelfeed
+[       344] Found new resource irc in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/irc
+[       360] Found new resource obituary in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary
+[       360] Found new resource obituary-deaths in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/obituary-deaths
+[       375] Found new resource playernames in C:/FXS\GTARP-FXS/resources//[fivem]/[gameplay]/playernames
+[       375] Found new resource mapmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[managers]/mapmanager
+[       391] Found new resource baseevents in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/baseevents
+[       391] Found new resource chat in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/chat
+[       406] Found new resource hardcap in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/hardcap
+[       406] Found new resource rconlog in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/rconlog
+[       422] Found new resource scoreboard in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/sessionmanager
+[       438] Found new resource spawnmanager in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/spawnmanager
+[       438] Found new resource betaguns in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/betaguns
+[       453] Found new resource gameInit in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/gameInit
+[       453] Found new resource keks in C:/FXS\GTARP-FXS/resources//[fivem]/[test]/keks
+[       469] Found new resource yarn in C:/FXS\GTARP-FXS/resources//[fivem]/[system]/[builders]/yarn
+[       516] Started resource sessionmanager
+[       547] Started resource mapmanager
+[       547] Started resource chat
+[       563] Started resource spawnmanager
+[       563] Stopping resource sessionmanager
+[       563] Started resource sessionmanager
+[       578] Started gametype BLGN-RP
+[       578] Started resource fivem
+[       578] Started resource hardcap
+[       594] Started resource rconlog
+[       594] Started resource pNotify
+[       610] Started resource hud
+[       625] Started resource spawn
+[       625] Started resource doj
+[       641] Jailer by Albo1125 (LUA, FXServer, FiveM).
+[       641] Started resource doj2
+[       641] Started resource doj3
+[       656] Started resource ui
+[       656] Started resource RPDeath
+[       672] Started resource commands
+[       672] Started resource realism
+[       688] Started resource loadingscreen
+[       703] Started resource lightingsystem
+[      1360] Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2045673908
+[      1391] Instantiated instance of script GHMatti.Http.RequestInternal.
+[      1391] Instantiated instance of script GHMatti.Http.Request.
+[      2047] Instantiated instance of script vMenuServer.BanManager.
+[      2141] Instantiated instance of script vMenuServer.MainServer.
+[      2156] Instantiated instance of script vMenuServer.UpdateChecker.
+[      2203] Started resource vMenu
+[      2203] Started resource wk_wrs
+[      2219] Started resource assets0
+[      2235] Started resource assets1
+[      2250] Started resource assets2
+[      2250] ^3Couldn't find resource assets3.^7
+[      2281] Started resource assets4
+[      2297] Started resource assets5
+[      2313] Authenticating server license key...
+[      2938] Server license key authentication succeeded. Welcome!
+[      3000] Sending heartbeat to live-internal.fivem.net:30110
+[      3344] Started map Blueline-Gaming-Network
+[      3344] Started resource Blueline-Gaming-Network
+[      3360] hitch warning: frame time of 372 milliseconds
+[      4094] 
+[      4094] [vMenu] Checking for updates.
+[      4110] [vMenu] Your version of vMenu is up to date! Good job!
+[    160766] Connecting: [CD] CIV-01 Brandon B.
+[    161985] Sending heartbeat to live-internal.fivem.net:30110
+[    342000] Sending heartbeat to live-internal.fivem.net:30110
+[    522000] Sending heartbeat to live-internal.fivem.net:30110
+[    702047] Sending heartbeat to live-internal.fivem.net:30110
+[    882078] Sending heartbeat to live-internal.fivem.net:30110
+[   1062094] Sending heartbeat to live-internal.fivem.net:30110
+[   1242125] Sending heartbeat to live-internal.fivem.net:30110
+[   1422172] Sending heartbeat to live-internal.fivem.net:30110
+[   1602188] Sending heartbeat to live-internal.fivem.net:30110
+[   1782235] Sending heartbeat to live-internal.fivem.net:30110
+[   1962266] Sending heartbeat to live-internal.fivem.net:30110
+[   2142281] Sending heartbeat to live-internal.fivem.net:30110
+[   2322281] Sending heartbeat to live-internal.fivem.net:30110
+[   2502313] Sending heartbeat to live-internal.fivem.net:30110
+[   2617313] Connecting: philip.a.chaky
+[   2620156] Sending heartbeat to live-internal.fivem.net:30110
+[   2800172] Sending heartbeat to live-internal.fivem.net:30110
+[   2980219] Sending heartbeat to live-internal.fivem.net:30110
+[   3160250] Sending heartbeat to live-internal.fivem.net:30110
+[   3177985] Sending heartbeat to live-internal.fivem.net:30110
+[   3189203] Got a late vouch for philip.a.chaky - they're the current arbitrator!
+[   3220860] Connecting: [CD] CIV-01 Brandon B.
+[   3221797] Sending heartbeat to live-internal.fivem.net:30110
+[   3317360] Sending heartbeat to live-internal.fivem.net:30110
+[   3369235] Connecting: [CD] CIV-01 Brandon B.
+[   3370219] Sending heartbeat to live-internal.fivem.net:30110
+[   3473547] Sending heartbeat to live-internal.fivem.net:30110
+[   3653563] Sending heartbeat to live-internal.fivem.net:30110
+[   3833563] Sending heartbeat to live-internal.fivem.net:30110
+[   3855485] Connecting: [CD] CIV-01 Brandon B.
+[   3856391] Sending heartbeat to live-internal.fivem.net:30110
+[   3952172] Sending heartbeat to live-internal.fivem.net:30110
+[   4008688] Connecting: [CD] CIV-01 Brandon B.
+[   4009594] Sending heartbeat to live-internal.fivem.net:30110
+[   4147891] Sending heartbeat to live-internal.fivem.net:30110
+[   4213328] Connecting: [CD] CIV-01 Brandon B.
+[   4214250] Sending heartbeat to live-internal.fivem.net:30110
+[   4376906] Connecting: Andrew J.
+[   4378391] Sending heartbeat to live-internal.fivem.net:30110
+[   4455719] Connecting: Alex C.
+[   4456985] Sending heartbeat to live-internal.fivem.net:30110
+[   4633125] : 
+[   4637031] Sending heartbeat to live-internal.fivem.net:30110
+[   4817078] Sending heartbeat to live-internal.fivem.net:30110
+[   4968969] Sending heartbeat to live-internal.fivem.net:30110
+[   5019641] Connecting: [CD] CIV-01 Brandon B.
+[   5020610] Sending heartbeat to live-internal.fivem.net:30110
+[   5200625] Sending heartbeat to live-internal.fivem.net:30110
+[   5380656] Sending heartbeat to live-internal.fivem.net:30110
+[   5560703] Sending heartbeat to live-internal.fivem.net:30110
+[   5740719] Sending heartbeat to live-internal.fivem.net:30110
+[   5832735] Sending heartbeat to live-internal.fivem.net:30110
+[   5881485] Connecting: [CD] CIV-01 Brandon B.
+[   5882438] Sending heartbeat to live-internal.fivem.net:30110
+[   6062453] Sending heartbeat to live-internal.fivem.net:30110
+[   6191672] Sending heartbeat to live-internal.fivem.net:30110
+[   6371703] Sending heartbeat to live-internal.fivem.net:30110
+[   6551735] Sending heartbeat to live-internal.fivem.net:30110
+[   6614235] Sending heartbeat to live-internal.fivem.net:30110
+[   6794266] Sending heartbeat to live-internal.fivem.net:30110
+[   6801078] Connecting: [CD] CIV-01 Brandon B.
+[   6801953] Sending heartbeat to live-internal.fivem.net:30110
+[   6901688] Sending heartbeat to live-internal.fivem.net:30110
+[   7081735] Sending heartbeat to live-internal.fivem.net:30110
+[   7261781] Sending heartbeat to live-internal.fivem.net:30110
+[   7441797] Sending heartbeat to live-internal.fivem.net:30110
+[   7453813] Command Processed by: Andrew J.: '/revive2'
+[   7559531] Connecting: [CD] CIV-01 Brandon B.
+[   7560297] Sending heartbeat to live-internal.fivem.net:30110
+[   7740313] Sending heartbeat to live-internal.fivem.net:30110
+[   7759672] Sending heartbeat to live-internal.fivem.net:30110
+[   7806172] Connecting: [CD] CIV-01 Brandon B.
+[   7807156] Sending heartbeat to live-internal.fivem.net:30110
+[   7906547] Sending heartbeat to live-internal.fivem.net:30110
+[   8086563] Sending heartbeat to live-internal.fivem.net:30110
+[   8266594] Sending heartbeat to live-internal.fivem.net:30110
+[   8301656] Connecting: [CD] CIV-01 Brandon B.
+[   8302672] Sending heartbeat to live-internal.fivem.net:30110
+[   8397610] Sending heartbeat to live-internal.fivem.net:30110
+[   8436703] Connecting: [CD] CIV-01 Brandon B.
+[   8437563] Sending heartbeat to live-internal.fivem.net:30110
+[   8580828] Sending heartbeat to live-internal.fivem.net:30110
+[   8621750] Connecting: [CD] CIV-01 Brandon B.
+[   8622750] Sending heartbeat to live-internal.fivem.net:30110
+[   8802766] Sending heartbeat to live-internal.fivem.net:30110
+[   8831422] : 
+[   8982781] Sending heartbeat to live-internal.fivem.net:30110
+[   9105531] Sending heartbeat to live-internal.fivem.net:30110
+[   9285547] Sending heartbeat to live-internal.fivem.net:30110
+[   9465578] Sending heartbeat to live-internal.fivem.net:30110
+[   9519172] Command Processed by: Andrew J.: '/d'
+[   9636047] Connecting: [CD] CIV-01 Brandon B.
+[   9636985] Sending heartbeat to live-internal.fivem.net:30110
+[   9798922] : 
+[   9817031] Sending heartbeat to live-internal.fivem.net:30110
+[   9884266] Sending heartbeat to live-internal.fivem.net:30110
+[   9900485] Connecting: [CD] CIV-01 Brandon B.
+[   9901391] Sending heartbeat to live-internal.fivem.net:30110
+[  10081406] Sending heartbeat to live-internal.fivem.net:30110
+[  10261438] Sending heartbeat to live-internal.fivem.net:30110
+[  10441500] Sending heartbeat to live-internal.fivem.net:30110
+[  10621516] Sending heartbeat to live-internal.fivem.net:30110
+[  10801563] Sending heartbeat to live-internal.fivem.net:30110
+[  10981594] Sending heartbeat to live-internal.fivem.net:30110
+[  10983235] Command Processed by: Andrew J.: '/oocokay'
+[  11161610] Sending heartbeat to live-internal.fivem.net:30110
+[  11341641] Sending heartbeat to live-internal.fivem.net:30110
+[  11521688] Sending heartbeat to live-internal.fivem.net:30110
+[  11701703] Sending heartbeat to live-internal.fivem.net:30110
+[  11881719] Sending heartbeat to live-internal.fivem.net:30110
+[  12061750] Sending heartbeat to live-internal.fivem.net:30110
+[  12241766] Sending heartbeat to live-internal.fivem.net:30110
+[  12421781] Sending heartbeat to live-internal.fivem.net:30110
+[  12601813] Sending heartbeat to live-internal.fivem.net:30110
+[  12781813] Sending heartbeat to live-internal.fivem.net:30110
+[  12961860] Sending heartbeat to live-internal.fivem.net:30110
+[  13141906] Sending heartbeat to live-internal.fivem.net:30110
+[  13276203] Sending heartbeat to live-internal.fivem.net:30110
+[  13290297] Sending heartbeat to live-internal.fivem.net:30110
+[  13308500] Got a late vouch for [CD] CIV-01 Brandon B. - they're the current arbitrator!
+[  13470328] Sending heartbeat to live-internal.fivem.net:30110
+[  13650391] Sending heartbeat to live-internal.fivem.net:30110
+[  13830406] Sending heartbeat to live-internal.fivem.net:30110
+[  14010438] Sending heartbeat to live-internal.fivem.net:30110
+[  14056360] Connecting: WVSP | [T-15] Trooper Elijah
+[  14061078] Sending heartbeat to live-internal.fivem.net:30110
+[  14241094] Sending heartbeat to live-internal.fivem.net:30110
+[  14250297] Connecting: Young
+[  14252047] Sending heartbeat to live-internal.fivem.net:30110
+[  14432047] Sending heartbeat to live-internal.fivem.net:30110
+[  14490266] Connecting: Alex C.
+[  14491656] Sending heartbeat to live-internal.fivem.net:30110
+[  14671688] Sending heartbeat to live-internal.fivem.net:30110
+[  14851719] Sending heartbeat to live-internal.fivem.net:30110
+[  15031735] Sending heartbeat to live-internal.fivem.net:30110
+[  15135219] Received a vouch for WVSP | [T-15] Trooper Elijah, they have 2 vouches and need 3.
+[  15135672] Received a vouch for WVSP | [T-15] Trooper Elijah, they have 3 vouches and need 3.
+[  15135688] WVSP | [T-15] Trooper Elijah is the new arbitrator, with an overwhelming 3 vote/s.
+[  15135703] Got a late vouch for WVSP | [T-15] Trooper Elijah - they're the current arbitrator!
+[  15139156] Sending heartbeat to live-internal.fivem.net:30110
+[  15319172] Sending heartbeat to live-internal.fivem.net:30110
+[  15499219] Sending heartbeat to live-internal.fivem.net:30110
+[  15679250] Sending heartbeat to live-internal.fivem.net:30110
+[  15785938] : 
+[  15834266] : 
+[  15841266] Connecting: [CD] CIV-01 Brandon B.
+[  15842266] Sending heartbeat to live-internal.fivem.net:30110
+[  15923328] Sending heartbeat to live-internal.fivem.net:30110
+[  15956188] Command Processed by: WVSP | [T-15] Trooper Elijah: '/cuff'
+[  16103344] Sending heartbeat to live-internal.fivem.net:30110
+[  16260328] : 
+[  16283360] Sending heartbeat to live-internal.fivem.net:30110
+[  16463375] Sending heartbeat to live-internal.fivem.net:30110
+[  16643406] Sending heartbeat to live-internal.fivem.net:30110
+[  16823422] Sending heartbeat to live-internal.fivem.net:30110
+[  16895235] Command Processed by: Young: '/quiot'
+[  16899422] Sending heartbeat to live-internal.fivem.net:30110
+[  16906297] Sending heartbeat to live-internal.fivem.net:30110
+[  17086344] Sending heartbeat to live-internal.fivem.net:30110
+[  17266360] Sending heartbeat to live-internal.fivem.net:30110
+[  17446391] Sending heartbeat to live-internal.fivem.net:30110
+[  17558156] Connecting: Lefty0126
+[  17563469] Sending heartbeat to live-internal.fivem.net:30110
+[  17565656] Connecting: Alex C.
+[  17567016] Sending heartbeat to live-internal.fivem.net:30110
+[  17747031] Sending heartbeat to live-internal.fivem.net:30110
+[  17764047] Sending heartbeat to live-internal.fivem.net:30110
+[  17944078] Sending heartbeat to live-internal.fivem.net:30110
+[  18002203] Sending heartbeat to live-internal.fivem.net:30110
+[  18182250] Sending heartbeat to live-internal.fivem.net:30110
+[  18276375] Sending heartbeat to live-internal.fivem.net:30110
+[  18456391] Sending heartbeat to live-internal.fivem.net:30110
+[  18636406] Sending heartbeat to live-internal.fivem.net:30110
+[  18816422] Sending heartbeat to live-internal.fivem.net:30110
+[  18996438] Sending heartbeat to live-internal.fivem.net:30110
+[  19176469] Sending heartbeat to live-internal.fivem.net:30110
+[  19356485] Sending heartbeat to live-internal.fivem.net:30110
+[  19536516] Sending heartbeat to live-internal.fivem.net:30110
+[  19716531] Sending heartbeat to live-internal.fivem.net:30110
+[  19896547] Sending heartbeat to live-internal.fivem.net:30110
+[  20076547] Sending heartbeat to live-internal.fivem.net:30110
+[  20256594] Sending heartbeat to live-internal.fivem.net:30110
+[  20422203] Connecting: Stallion
+[  20429203] Sending heartbeat to live-internal.fivem.net:30110
+[  20609235] Sending heartbeat to live-internal.fivem.net:30110
+[  20789266] Sending heartbeat to live-internal.fivem.net:30110
+[  20969313] Sending heartbeat to live-internal.fivem.net:30110
+[  21149313] Sending heartbeat to live-internal.fivem.net:30110
+[  21149516] Sending heartbeat to live-internal.fivem.net:30110
+[  21329547] Sending heartbeat to live-internal.fivem.net:30110
+[  21509594] Sending heartbeat to live-internal.fivem.net:30110
+[  21689641] Sending heartbeat to live-internal.fivem.net:30110
+[  21869688] Sending heartbeat to live-internal.fivem.net:30110
+[  22049703] Sending heartbeat to live-internal.fivem.net:30110
+[  22229750] Sending heartbeat to live-internal.fivem.net:30110
+[  22409797] Sending heartbeat to live-internal.fivem.net:30110
+[  22589813] Sending heartbeat to live-internal.fivem.net:30110
+[  22769860] Sending heartbeat to live-internal.fivem.net:30110
+[  22949860] Sending heartbeat to live-internal.fivem.net:30110
+[  23129906] Sending heartbeat to live-internal.fivem.net:30110
+[  23309938] Sending heartbeat to live-internal.fivem.net:30110
+[  23489953] Sending heartbeat to live-internal.fivem.net:30110
+[  23669969] Sending heartbeat to live-internal.fivem.net:30110
+[  23849985] Sending heartbeat to live-internal.fivem.net:30110
+[  24030000] Sending heartbeat to live-internal.fivem.net:30110
+[  24210016] Sending heartbeat to live-internal.fivem.net:30110
+[  24390031] Sending heartbeat to live-internal.fivem.net:30110
+[  24570047] Sending heartbeat to live-internal.fivem.net:30110
+[  24750063] Sending heartbeat to live-internal.fivem.net:30110
+[  24930094] Sending heartbeat to live-internal.fivem.net:30110
+[  25110094] Sending heartbeat to live-internal.fivem.net:30110
+[  25290125] Sending heartbeat to live-internal.fivem.net:30110
+[  25470156] Sending heartbeat to live-internal.fivem.net:30110
+[  25650203] Sending heartbeat to live-internal.fivem.net:30110
+[  25830219] Sending heartbeat to live-internal.fivem.net:30110
+[  26010235] Sending heartbeat to live-internal.fivem.net:30110
+[  26190281] Sending heartbeat to live-internal.fivem.net:30110
+[  26370297] Sending heartbeat to live-internal.fivem.net:30110
+[  26550328] Sending heartbeat to live-internal.fivem.net:30110
+[  26730375] Sending heartbeat to live-internal.fivem.net:30110
+[  26910391] Sending heartbeat to live-internal.fivem.net:30110
+[  27090438] Sending heartbeat to live-internal.fivem.net:30110
+[  27270469] Sending heartbeat to live-internal.fivem.net:30110
+[  27450500] Sending heartbeat to live-internal.fivem.net:30110
+[  27630531] Sending heartbeat to live-internal.fivem.net:30110
+[  27810578] Sending heartbeat to live-internal.fivem.net:30110
+[  27990594] Sending heartbeat to live-internal.fivem.net:30110
+[  28170610] Sending heartbeat to live-internal.fivem.net:30110
+[  28350656] Sending heartbeat to live-internal.fivem.net:30110
+[  28530672] Sending heartbeat to live-internal.fivem.net:30110
+[  28710688] Sending heartbeat to live-internal.fivem.net:30110
+[  28890703] Sending heartbeat to live-internal.fivem.net:30110
+[  29070719] Sending heartbeat to live-internal.fivem.net:30110
+[  29250735] Sending heartbeat to live-internal.fivem.net:30110
+[  29430750] Sending heartbeat to live-internal.fivem.net:30110
+[  29610766] Sending heartbeat to live-internal.fivem.net:30110
+[  29790797] Sending heartbeat to live-internal.fivem.net:30110
+[  29970844] Sending heartbeat to live-internal.fivem.net:30110
+[  30150844] Sending heartbeat to live-internal.fivem.net:30110
+[  30330860] Sending heartbeat to live-internal.fivem.net:30110
+[  30510906] Sending heartbeat to live-internal.fivem.net:30110
+[  30690938] Sending heartbeat to live-internal.fivem.net:30110
+[  30870985] Sending heartbeat to live-internal.fivem.net:30110
+[  31051016] Sending heartbeat to live-internal.fivem.net:30110
+[  31231031] Sending heartbeat to live-internal.fivem.net:30110
+[  31411047] Sending heartbeat to live-internal.fivem.net:30110
+[  31591094] Sending heartbeat to live-internal.fivem.net:30110
+[  31771110] Sending heartbeat to live-internal.fivem.net:30110
+[  31951156] Sending heartbeat to live-internal.fivem.net:30110
+[  32131188] Sending heartbeat to live-internal.fivem.net:30110
+[  32311219] Sending heartbeat to live-internal.fivem.net:30110
+[  32491266] Sending heartbeat to live-internal.fivem.net:30110
+[  32671297] Sending heartbeat to live-internal.fivem.net:30110
+[  32849485] Connecting: Alexander B. [4E-507]
+[  32851344] Sending heartbeat to live-internal.fivem.net:30110
+[  32859781] Sending heartbeat to live-internal.fivem.net:30110
+[  32882750] Sending heartbeat to live-internal.fivem.net:30110
+[  33062750] Sending heartbeat to live-internal.fivem.net:30110
+[  33242781] Sending heartbeat to live-internal.fivem.net:30110
+[  33422797] Sending heartbeat to live-internal.fivem.net:30110
+[  33602813] Sending heartbeat to live-internal.fivem.net:30110
+[  33782828] Sending heartbeat to live-internal.fivem.net:30110
+[  33962844] Sending heartbeat to live-internal.fivem.net:30110
+[  34142906] Sending heartbeat to live-internal.fivem.net:30110
+[  34322953] Sending heartbeat to live-internal.fivem.net:30110
+[  34503000] Sending heartbeat to live-internal.fivem.net:30110
+[  34683047] Sending heartbeat to live-internal.fivem.net:30110
+[  34863094] Sending heartbeat to live-internal.fivem.net:30110
+[  35043094] Sending heartbeat to live-internal.fivem.net:30110
+[  35223094] Sending heartbeat to live-internal.fivem.net:30110
+[  35403125] Sending heartbeat to live-internal.fivem.net:30110
+[  35583141] Sending heartbeat to live-internal.fivem.net:30110
+[  35763188] Sending heartbeat to live-internal.fivem.net:30110
+[  35805719] Connecting: peely1604
+[  35811953] Sending heartbeat to live-internal.fivem.net:30110
+[  35991985] Sending heartbeat to live-internal.fivem.net:30110
+[  36172000] Sending heartbeat to live-internal.fivem.net:30110
+[  36352047] Sending heartbeat to live-internal.fivem.net:30110
+[  36499953] : 
+[  36532094] Sending heartbeat to live-internal.fivem.net:30110
+[  36712125] Sending heartbeat to live-internal.fivem.net:30110
+[  36860000] Sending heartbeat to live-internal.fivem.net:30110
+[  37040047] Sending heartbeat to live-internal.fivem.net:30110
+[  37220047] Sending heartbeat to live-internal.fivem.net:30110
+[  37400078] Sending heartbeat to live-internal.fivem.net:30110
+[  37580078] Sending heartbeat to live-internal.fivem.net:30110
+[  37760110] Sending heartbeat to live-internal.fivem.net:30110
+[  37940141] Sending heartbeat to live-internal.fivem.net:30110
+[  38120172] Sending heartbeat to live-internal.fivem.net:30110
+[  38300188] Sending heartbeat to live-internal.fivem.net:30110
+[  38480188] Sending heartbeat to live-internal.fivem.net:30110
+[  38660219] Sending heartbeat to live-internal.fivem.net:30110
+[  38840235] Sending heartbeat to live-internal.fivem.net:30110
+[  39020266] Sending heartbeat to live-internal.fivem.net:30110
+[  39200281] Sending heartbeat to live-internal.fivem.net:30110
+[  39380297] Sending heartbeat to live-internal.fivem.net:30110
+[  39560297] Sending heartbeat to live-internal.fivem.net:30110
+[  39740344] Sending heartbeat to live-internal.fivem.net:30110
+[  39920391] Sending heartbeat to live-internal.fivem.net:30110
+[  40100438] Sending heartbeat to live-internal.fivem.net:30110
+[  40280453] Sending heartbeat to live-internal.fivem.net:30110
+[  40460469] Sending heartbeat to live-internal.fivem.net:30110
+[  40640469] Sending heartbeat to live-internal.fivem.net:30110
+[  40820485] Sending heartbeat to live-internal.fivem.net:30110
+[  41000500] Sending heartbeat to live-internal.fivem.net:30110
+[  41180516] Sending heartbeat to live-internal.fivem.net:30110
+[  41360516] Sending heartbeat to live-internal.fivem.net:30110
+[  41540563] Sending heartbeat to live-internal.fivem.net:30110
+[  41720594] Sending heartbeat to live-internal.fivem.net:30110
+[  41900656] Sending heartbeat to live-internal.fivem.net:30110
+[  42080656] Sending heartbeat to live-internal.fivem.net:30110
+[  42260688] Sending heartbeat to live-internal.fivem.net:30110
+[  42440735] Sending heartbeat to live-internal.fivem.net:30110
+[  42620735] Sending heartbeat to live-internal.fivem.net:30110
+[  42800781] Sending heartbeat to live-internal.fivem.net:30110
+[  42980813] Sending heartbeat to live-internal.fivem.net:30110
+[  43160860] Sending heartbeat to live-internal.fivem.net:30110
+[  43340875] Sending heartbeat to live-internal.fivem.net:30110
+[  43520906] Sending heartbeat to live-internal.fivem.net:30110
+[  43700938] Sending heartbeat to live-internal.fivem.net:30110
+[  43880953] Sending heartbeat to live-internal.fivem.net:30110
+[  44061016] Sending heartbeat to live-internal.fivem.net:30110
+[  44241063] Sending heartbeat to live-internal.fivem.net:30110
+[  44421063] Sending heartbeat to live-internal.fivem.net:30110
+[  44601110] Sending heartbeat to live-internal.fivem.net:30110
+[  44781141] Sending heartbeat to live-internal.fivem.net:30110
+[  44961156] Sending heartbeat to live-internal.fivem.net:30110
+[  45141188] Sending heartbeat to live-internal.fivem.net:30110
+[  45321235] Sending heartbeat to live-internal.fivem.net:30110
+[  45501250] Sending heartbeat to live-internal.fivem.net:30110
+[  45681266] Sending heartbeat to live-internal.fivem.net:30110
+[  45861297] Sending heartbeat to live-internal.fivem.net:30110
+[  46041297] Sending heartbeat to live-internal.fivem.net:30110
+[  46221328] Sending heartbeat to live-internal.fivem.net:30110
+[  46401360] Sending heartbeat to live-internal.fivem.net:30110
+[  46581406] Sending heartbeat to live-internal.fivem.net:30110
+[  46761438] Sending heartbeat to live-internal.fivem.net:30110
+[  46941438] Sending heartbeat to live-internal.fivem.net:30110
+[  47121485] Sending heartbeat to live-internal.fivem.net:30110
+[  47301531] Sending heartbeat to live-internal.fivem.net:30110
+[  47481547] Sending heartbeat to live-internal.fivem.net:30110
+[  47661578] Sending heartbeat to live-internal.fivem.net:30110
+[  47841610] Sending heartbeat to live-internal.fivem.net:30110
+[  48021656] Sending heartbeat to live-internal.fivem.net:30110
+[  48201703] Sending heartbeat to live-internal.fivem.net:30110
+[  48381766] Sending heartbeat to live-internal.fivem.net:30110
+[  48561781] Sending heartbeat to live-internal.fivem.net:30110
+[  48741828] Sending heartbeat to live-internal.fivem.net:30110
+[  48921875] Sending heartbeat to live-internal.fivem.net:30110
+[  49101906] Sending heartbeat to live-internal.fivem.net:30110
+[  49281969] Sending heartbeat to live-internal.fivem.net:30110
+[  49461985] Sending heartbeat to live-internal.fivem.net:30110
+[  49563328] Connecting: jadinjordanhooper
+[  49618844] Sending heartbeat to live-internal.fivem.net:30110
+[  49711266] nil	~=	29
+[  49798875] Sending heartbeat to live-internal.fivem.net:30110
+[  49978906] Sending heartbeat to live-internal.fivem.net:30110
+[  50158938] Sending heartbeat to live-internal.fivem.net:30110
+[  50338985] Sending heartbeat to live-internal.fivem.net:30110
+[  50519031] Sending heartbeat to live-internal.fivem.net:30110
+[  50699063] Sending heartbeat to live-internal.fivem.net:30110
+[  50738063] Sending heartbeat to live-internal.fivem.net:30110
+[  50918078] Sending heartbeat to live-internal.fivem.net:30110
+[  51098094] Sending heartbeat to live-internal.fivem.net:30110
+[  51278110] Sending heartbeat to live-internal.fivem.net:30110
+[  51458141] Sending heartbeat to live-internal.fivem.net:30110
+[  51638188] Sending heartbeat to live-internal.fivem.net:30110
+[  51818219] Sending heartbeat to live-internal.fivem.net:30110
+[  51998219] Sending heartbeat to live-internal.fivem.net:30110
+[  52068563] Connecting: WVSP | [T-15] Trooper Elijah
+[  52069906] Sending heartbeat to live-internal.fivem.net:30110
+[  52249922] Sending heartbeat to live-internal.fivem.net:30110
+[  52429953] Sending heartbeat to live-internal.fivem.net:30110
+[  52515360] Sending heartbeat to live-internal.fivem.net:30110
+[  52617235] Connecting: WVSP | [T-15] Trooper Elijah
+[  52618360] Sending heartbeat to live-internal.fivem.net:30110
+[  52652547] Sending heartbeat to live-internal.fivem.net:30110
+[  52706156] Connecting: WVSP | [T-15] Trooper Elijah
+[  52707375] Sending heartbeat to live-internal.fivem.net:30110
+[  52793906] nil	~=	32
+[  52887391] Sending heartbeat to live-internal.fivem.net:30110
+[  52939266] Sending heartbeat to live-internal.fivem.net:30110
+[  53119313] Sending heartbeat to live-internal.fivem.net:30110
+[  53299344] Sending heartbeat to live-internal.fivem.net:30110
+[  53479360] Sending heartbeat to live-internal.fivem.net:30110
+[  53659406] Sending heartbeat to live-internal.fivem.net:30110
+[  53839422] Sending heartbeat to live-internal.fivem.net:30110
+[  54019438] Sending heartbeat to live-internal.fivem.net:30110
+[  54061547] Connecting: yung allu
+[  54068578] Sending heartbeat to live-internal.fivem.net:30110
+[  54248610] Sending heartbeat to live-internal.fivem.net:30110
+[  54337563] Sending heartbeat to live-internal.fivem.net:30110
+[  54517563] Sending heartbeat to live-internal.fivem.net:30110
+[  54697594] Sending heartbeat to live-internal.fivem.net:30110
+[  54877610] Sending heartbeat to live-internal.fivem.net:30110
+[  55057610] Sending heartbeat to live-internal.fivem.net:30110
+[  55237625] Sending heartbeat to live-internal.fivem.net:30110
+[  55417641] Sending heartbeat to live-internal.fivem.net:30110
+[  55597688] Sending heartbeat to live-internal.fivem.net:30110
+[  55777735] Sending heartbeat to live-internal.fivem.net:30110
+[  55957781] Sending heartbeat to live-internal.fivem.net:30110
+[  56137813] Sending heartbeat to live-internal.fivem.net:30110
+[  56317828] Sending heartbeat to live-internal.fivem.net:30110
+[  56497860] Sending heartbeat to live-internal.fivem.net:30110
+[  56677906] Sending heartbeat to live-internal.fivem.net:30110
+[  56857922] Sending heartbeat to live-internal.fivem.net:30110
+[  57037922] Sending heartbeat to live-internal.fivem.net:30110
+[  57217969] Sending heartbeat to live-internal.fivem.net:30110
+[  57397985] Sending heartbeat to live-internal.fivem.net:30110
+[  57578000] Sending heartbeat to live-internal.fivem.net:30110
+[  57758047] Sending heartbeat to live-internal.fivem.net:30110
+[  57938094] Sending heartbeat to live-internal.fivem.net:30110
+[  57971203] Connecting: Suge Knight
+[  57976672] Sending heartbeat to live-internal.fivem.net:30110
+[  58156703] Sending heartbeat to live-internal.fivem.net:30110
+[  58322766] Command Processed by: Suge Knight: '/10-8'
+[  58336266] Sending heartbeat to live-internal.fivem.net:30110
+[  58516281] Sending heartbeat to live-internal.fivem.net:30110
+[  58696328] Sending heartbeat to live-internal.fivem.net:30110
+[  58876360] Sending heartbeat to live-internal.fivem.net:30110
+[  59056391] Sending heartbeat to live-internal.fivem.net:30110
+[  59236422] Sending heartbeat to live-internal.fivem.net:30110
+[  59309750] Connecting: Suge Knight
+[  59312094] Sending heartbeat to live-internal.fivem.net:30110
+[  59365328] Command Processed by: Suge Knight: '/spawn so1'
+[  59492125] Sending heartbeat to live-internal.fivem.net:30110
+[  59672172] Sending heartbeat to live-internal.fivem.net:30110
+[  59726531] Connecting: [CD] CIV-01 Brandon B.
+[  59727656] Sending heartbeat to live-internal.fivem.net:30110
+[  59907703] Sending heartbeat to live-internal.fivem.net:30110
+[  59934500] Sending heartbeat to live-internal.fivem.net:30110
+[  60114531] Sending heartbeat to live-internal.fivem.net:30110
+[  60153672] Connecting: Cheq
+[  60159313] Sending heartbeat to live-internal.fivem.net:30110
+[  60223469] Sending heartbeat to live-internal.fivem.net:30110
+[  60369766] : 
+[  60376828] Command Processed by: Suge Knight: '/twt hello'
+[  60379953] : 
+[  60403485] Sending heartbeat to live-internal.fivem.net:30110
+[  60583531] Sending heartbeat to live-internal.fivem.net:30110
+[  60763578] Sending heartbeat to live-internal.fivem.net:30110
+[  60832641] Connecting: dcgaming53
+[  60889766] Sending heartbeat to live-internal.fivem.net:30110
+[  60956594] Command Processed by: Suge Knight: '/cuff'
+[  61069797] Sending heartbeat to live-internal.fivem.net:30110
+[  61162328] Sending heartbeat to live-internal.fivem.net:30110
+[  61342375] Sending heartbeat to live-internal.fivem.net:30110
+[  61522406] Sending heartbeat to live-internal.fivem.net:30110
+[  61702453] Sending heartbeat to live-internal.fivem.net:30110
+[  61857328] Sending heartbeat to live-internal.fivem.net:30110
+[  62037360] Sending heartbeat to live-internal.fivem.net:30110
+[  62217406] Sending heartbeat to live-internal.fivem.net:30110
+[  62397422] Sending heartbeat to live-internal.fivem.net:30110
+[  62561735] Connecting: Eli Morningstar
+[  62572719] Sending heartbeat to live-internal.fivem.net:30110
+[  62733781] Connecting: Dexkers
+[  62740281] Sending heartbeat to live-internal.fivem.net:30110
+[  62854860] Sending heartbeat to live-internal.fivem.net:30110
+[  63034906] Sending heartbeat to live-internal.fivem.net:30110
+[  63214922] Sending heartbeat to live-internal.fivem.net:30110
+[  63394953] Sending heartbeat to live-internal.fivem.net:30110
+[  63574969] Sending heartbeat to live-internal.fivem.net:30110
+[  63755000] Sending heartbeat to live-internal.fivem.net:30110
+[  63855641] Connecting: dcgaming53
+[  63858422] Sending heartbeat to live-internal.fivem.net:30110
+[  64038453] Sending heartbeat to live-internal.fivem.net:30110
+[  64218469] Sending heartbeat to live-internal.fivem.net:30110
+[  64398500] Sending heartbeat to live-internal.fivem.net:30110
+[  64578531] Sending heartbeat to live-internal.fivem.net:30110
+[  64758578] Sending heartbeat to live-internal.fivem.net:30110
+[  64938610] Sending heartbeat to live-internal.fivem.net:30110
+[  65118641] Sending heartbeat to live-internal.fivem.net:30110
+[  65298656] Sending heartbeat to live-internal.fivem.net:30110
+[  65478656] Sending heartbeat to live-internal.fivem.net:30110
+[  65658672] Sending heartbeat to live-internal.fivem.net:30110
+[  65838703] Sending heartbeat to live-internal.fivem.net:30110
+[  66018735] Sending heartbeat to live-internal.fivem.net:30110
+[  66198750] Sending heartbeat to live-internal.fivem.net:30110
+[  66378766] Sending heartbeat to live-internal.fivem.net:30110
+[  66462250] Connecting: WVSP | [T-15] Trooper Elijah
+[  66464016] Sending heartbeat to live-internal.fivem.net:30110
+[  66644031] Sending heartbeat to live-internal.fivem.net:30110
+[  66671844] : 
+[  66678813] : 
+[  66774547] Connecting: 5M-88 Liam B
+[  66824063] Sending heartbeat to live-internal.fivem.net:30110
+[  66833735] Sending heartbeat to live-internal.fivem.net:30110
+[  66834063] Connecting: 5M-88 Liam B
+[  66838235] Received a vouch for dcgaming53, they have 2 vouches and need 2.
+[  66838235] dcgaming53 is the new arbitrator, with an overwhelming 2 vote/s.
+[  66838797] Got a late vouch for dcgaming53 - they're the current arbitrator!
+[  66842156] Sending heartbeat to live-internal.fivem.net:30110
+[  66954188] Sending heartbeat to live-internal.fivem.net:30110
+[  67134188] Sending heartbeat to live-internal.fivem.net:30110
+[  67147328] Connecting: 5M-88 Liam B
+[  67158719] Sending heartbeat to live-internal.fivem.net:30110
+[  67166766] Connecting: Andrew J.
+[  67168766] Sending heartbeat to live-internal.fivem.net:30110
+[  67298906] Connecting: Alex C.
+[  67300703] Sending heartbeat to live-internal.fivem.net:30110
+[  67438719] : 
+[  67480719] Sending heartbeat to live-internal.fivem.net:30110
+[  67625641] : 
+[  67638469] : 
+[  67641656] Command Processed by: 5M-88 Liam B: '/advert hi'
+[  67646156] Command Processed by: Alex C.: '/ablueballs test'
+[  67650781] : 
+[  67660766] Sending heartbeat to live-internal.fivem.net:30110
+[  67701781] Command Processed by: Alex C.: '/announcementblueballs test'
+[  67759516] Command Processed by: Alex C.: '/.dv'
+[  67840813] Sending heartbeat to live-internal.fivem.net:30110
+[  68020860] Sending heartbeat to live-internal.fivem.net:30110
+[  68200891] Sending heartbeat to live-internal.fivem.net:30110
+[  68246719] Command Processed by: WVSP | [T-15] Trooper Elijah: '/cbluballs45'
+[  68277188] Received a vouch for WVSP | [T-15] Trooper Elijah, they have 2 vouches and need 3.
+[  68277735] Received a vouch for WVSP | [T-15] Trooper Elijah, they have 3 vouches and need 3.
+[  68277735] WVSP | [T-15] Trooper Elijah is the new arbitrator, with an overwhelming 3 vote/s.
+[  68277750] Got a late vouch for WVSP | [T-15] Trooper Elijah - they're the current arbitrator!
+[  68277781] Got a late vouch for WVSP | [T-15] Trooper Elijah - they're the current arbitrator!
+[  68280906] Sending heartbeat to live-internal.fivem.net:30110
+[  68460938] Sending heartbeat to live-internal.fivem.net:30110
+[  68592516] Command Processed by: WVSP | [T-15] Trooper Elijah: '/cbluballs45'
+[  68640938] Sending heartbeat to live-internal.fivem.net:30110
+[  68761813] Connecting: Suge Knight
+[  68765594] Sending heartbeat to live-internal.fivem.net:30110
+[  68777625] : 
+[  68839781] : 
+[  68945625] Sending heartbeat to live-internal.fivem.net:30110
+[  69125656] Sending heartbeat to live-internal.fivem.net:30110
+[  69305688] Sending heartbeat to live-internal.fivem.net:30110
+[  69485485] Command Processed by: Alex C.: '/dblueballs43'
+[  69485735] Sending heartbeat to live-internal.fivem.net:30110
+[  69491266] Command Processed by: Andrew J.: '/crouch'
+[  69665750] Sending heartbeat to live-internal.fivem.net:30110
+[  69845750] Sending heartbeat to live-internal.fivem.net:30110
+[  69903938] Command Processed by: Suge Knight: '/emote photography'
+[  69917688] : 
+[  69920047] : 
+[  70025766] Sending heartbeat to live-internal.fivem.net:30110
+[  70205766] Sending heartbeat to live-internal.fivem.net:30110
+[  70290906] Command Processed by: Andrew J.: '/crouch'
+[  70385797] Sending heartbeat to live-internal.fivem.net:30110
+[  70419906] : 
+[  70565844] Sending heartbeat to live-internal.fivem.net:30110
+[  70576422] Sending heartbeat to live-internal.fivem.net:30110
+[  70646266] Command Processed by: Andrew J.: '/dispatch'
+[  70756453] Sending heartbeat to live-internal.fivem.net:30110
+[  70936500] Sending heartbeat to live-internal.fivem.net:30110
+[  71116516] Sending heartbeat to live-internal.fivem.net:30110
+[  71296563] Sending heartbeat to live-internal.fivem.net:30110
+[  71476610] Sending heartbeat to live-internal.fivem.net:30110
+[  71579438] Command Processed by: Andrew J.: '/reviven'
+[  71656672] Sending heartbeat to live-internal.fivem.net:30110
+[  71836719] Sending heartbeat to live-internal.fivem.net:30110
+[  71846094] : 
+[  71847219] Command Processed by: 5M-88 Liam B: '/d'
+[  72016719] Sending heartbeat to live-internal.fivem.net:30110
+[  72122297] : 
+[  72196735] Sending heartbeat to live-internal.fivem.net:30110
+[  72242703] : 
+[  72275360] : 
+[  72376766] Sending heartbeat to live-internal.fivem.net:30110
+[  72556781] Sending heartbeat to live-internal.fivem.net:30110
+[  72625422] : 
+[  72736813] Sending heartbeat to live-internal.fivem.net:30110
+[  72881844] Sending heartbeat to live-internal.fivem.net:30110
+[  72891703] Got a late vouch for Alex C. - they're the current arbitrator!
+[  72892031] Got a late vouch for Alex C. - they're the current arbitrator!
+[  72892172] Got a late vouch for Alex C. - they're the current arbitrator!
+[  73059547] Command Processed by: Andrew J.: '/revove'
+[  73061860] Sending heartbeat to live-internal.fivem.net:30110
+[  73088453] Connecting: WVSP | [T-15] Trooper Elijah
+[  73089813] Sending heartbeat to live-internal.fivem.net:30110
+[  73135172] Connecting: Eli Morningstar
+[  73136969] Sending heartbeat to live-internal.fivem.net:30110
+[  73139235] Sending heartbeat to live-internal.fivem.net:30110
+[  73211563] Connecting: WVSP | [T-15] Trooper Elijah
+[  73212938] Sending heartbeat to live-internal.fivem.net:30110
+[  73265969] Command Processed by: Andrew J.: '/revove'
+[  73273860] Sending heartbeat to live-internal.fivem.net:30110
+[  73453875] Sending heartbeat to live-internal.fivem.net:30110
+[  73455063] Connecting: 5M-88 Liam B
+[  73456188] Sending heartbeat to live-internal.fivem.net:30110
+[  73486563] Connecting: RJ
+[  73490813] Sending heartbeat to live-internal.fivem.net:30110
+[  73573735] Command Processed by: 5M-88 Liam B: '/REVIVE'
+[  73576094] Command Processed by: 5M-88 Liam B: '/REVIVE'
+[  73584906] Command Processed by: 5M-88 Liam B: '/revive]'
+[  73586610] Command Processed by: 5M-88 Liam B: '/revive]'
+[  73670844] Sending heartbeat to live-internal.fivem.net:30110
+[  73850906] Sending heartbeat to live-internal.fivem.net:30110
+[  73882375] : 
+[  73941641] : 
+[  74030906] Sending heartbeat to live-internal.fivem.net:30110
+[  74051985] Sending heartbeat to live-internal.fivem.net:30110
+[  74232031] Sending heartbeat to live-internal.fivem.net:30110
+[  74412031] Sending heartbeat to live-internal.fivem.net:30110
+[  74592078] Sending heartbeat to live-internal.fivem.net:30110
+[  74772094] Sending heartbeat to live-internal.fivem.net:30110
+[  74832938] : 
+[  74849172] Command Processed by: Andrew J.: '/hospital 48 30 unconsius'
+[  74865453] Command Processed by: Andrew J.: '/hospitalize 48 30 unconsuis'
+[  74952141] Sending heartbeat to live-internal.fivem.net:30110
+[  74980656] : 
+[  74983860] Command Processed by: Alex C.: '/dvn'
+[  75004641] Command Processed by: Eli Morningstar: '/Ad I would like to enform that the person you dropped of, a mr Eli morningstar is awake and has been singed out of the hospital.'
+[  75035813] Command Processed by: Andrew J.: '/emote yoga'
+[  75038313] Command Processed by: Andrew J.: '/emotes'
+[  75044938] Command Processed by: Alex C.: '/emote smoke'
+[  75132172] Sending heartbeat to live-internal.fivem.net:30110
+[  75151485] Command Processed by: Alex C.: '/edv'
+[  75274891] Sending heartbeat to live-internal.fivem.net:30110
+[  75374938] Command Processed by: Andrew J.: '/dfvg'
+[  75391797] Command Processed by: Andrew J.: '/revove'
+[  75429781] Connecting: WVSP | [T-15] Trooper Elijah
+[  75430969] Sending heartbeat to live-internal.fivem.net:30110
+[  75512703] Command Processed by: RJ: '/reviv'
+[  75580985] Command Processed by: WVSP | [T-15] Trooper Elijah: '/revive\'
+[  75584938] : 
+[  75611016] Sending heartbeat to live-internal.fivem.net:30110
+[  75791063] Sending heartbeat to live-internal.fivem.net:30110
+[  75805891] Command Processed by: Andrew J.: '/reviev'
+[  75881860] Command Processed by: Andrew J.: '/reviev'
+[  75971078] Sending heartbeat to live-internal.fivem.net:30110
+[  76149297] : 
+[  76151110] Sending heartbeat to live-internal.fivem.net:30110
+[  76223516] Command Processed by: Andrew J.: '/reviev'
+[  76331156] Sending heartbeat to live-internal.fivem.net:30110
+[  76511172] Sending heartbeat to live-internal.fivem.net:30110
+[  76691203] Sending heartbeat to live-internal.fivem.net:30110
+[  76734641] Sending heartbeat to live-internal.fivem.net:30110
+[  76914672] Sending heartbeat to live-internal.fivem.net:30110
+[  76936985] Sending heartbeat to live-internal.fivem.net:30110
+[  77117031] Sending heartbeat to live-internal.fivem.net:30110
+[  77124360] Command Processed by: Alex C.: '/t/dv'
+[  77297078] Sending heartbeat to live-internal.fivem.net:30110
+[  77477110] Sending heartbeat to live-internal.fivem.net:30110
+[  77657125] Sending heartbeat to live-internal.fivem.net:30110
+[  77684844] : 
+[  77837141] Sending heartbeat to live-internal.fivem.net:30110
+[  77957703] Command Processed by: Andrew J.: '/reviev'
+[  78002656] Command Processed by: Andrew J.: '/reviev'
+[  78017188] Sending heartbeat to live-internal.fivem.net:30110
+[  78197235] Sending heartbeat to live-internal.fivem.net:30110
+[  78377250] Sending heartbeat to live-internal.fivem.net:30110
+[  78557266] Sending heartbeat to live-internal.fivem.net:30110
+[  78737297] Sending heartbeat to live-internal.fivem.net:30110
+[  78893094] Sending heartbeat to live-internal.fivem.net:30110
+[  78896406] : 
+[  79073141] Sending heartbeat to live-internal.fivem.net:30110
+[  79253188] Sending heartbeat to live-internal.fivem.net:30110
+[  79433219] Sending heartbeat to live-internal.fivem.net:30110
+[  79596094] Sending heartbeat to live-internal.fivem.net:30110
+[  79603156] Sending heartbeat to live-internal.fivem.net:30110
+[  79783172] Sending heartbeat to live-internal.fivem.net:30110
+[  79963172] Sending heartbeat to live-internal.fivem.net:30110
+[  80143188] Sending heartbeat to live-internal.fivem.net:30110
+[  80323235] Sending heartbeat to live-internal.fivem.net:30110
+[  80503250] Sending heartbeat to live-internal.fivem.net:30110
+[  80683266] Sending heartbeat to live-internal.fivem.net:30110
+[  80863266] Sending heartbeat to live-internal.fivem.net:30110
+[  81043281] Sending heartbeat to live-internal.fivem.net:30110
+[  81223297] Sending heartbeat to live-internal.fivem.net:30110
+[  81403328] Sending heartbeat to live-internal.fivem.net:30110
+[  81583360] Sending heartbeat to live-internal.fivem.net:30110
+[  81763360] Sending heartbeat to live-internal.fivem.net:30110
+[  81943406] Sending heartbeat to live-internal.fivem.net:30110
+[  82123406] Sending heartbeat to live-internal.fivem.net:30110
+[  82248047] Connecting: Young
+[  82250875] Sending heartbeat to live-internal.fivem.net:30110
+[  82430875] Sending heartbeat to live-internal.fivem.net:30110
+[  82575406] Command Processed by: Young: '/.dv'
+[  82610891] Sending heartbeat to live-internal.fivem.net:30110
+[  82790953] Sending heartbeat to live-internal.fivem.net:30110
+[  82970969] Sending heartbeat to live-internal.fivem.net:30110
+[  83124703] Sending heartbeat to live-internal.fivem.net:30110
+[  83304735] Sending heartbeat to live-internal.fivem.net:30110
+[  83484766] Sending heartbeat to live-internal.fivem.net:30110
+[  83664797] Sending heartbeat to live-internal.fivem.net:30110
+[  83844797] Sending heartbeat to live-internal.fivem.net:30110
+[  84024813] Sending heartbeat to live-internal.fivem.net:30110
+[  84204813] Sending heartbeat to live-internal.fivem.net:30110
+[  84384860] Sending heartbeat to live-internal.fivem.net:30110
+[  84564860] Sending heartbeat to live-internal.fivem.net:30110
+[  84744891] Sending heartbeat to live-internal.fivem.net:30110
+[  84924922] Sending heartbeat to live-internal.fivem.net:30110
+[  85104938] Sending heartbeat to live-internal.fivem.net:30110
+[  85206000] Connecting: YoungPlays
+[  85207875] Sending heartbeat to live-internal.fivem.net:30110
+[  85387922] Sending heartbeat to live-internal.fivem.net:30110
+[  85567938] Sending heartbeat to live-internal.fivem.net:30110
+[  85581781] Sending heartbeat to live-internal.fivem.net:30110
+[  85761813] Sending heartbeat to live-internal.fivem.net:30110
+[  85941828] Sending heartbeat to live-internal.fivem.net:30110
+[  86121860] Sending heartbeat to live-internal.fivem.net:30110
+[  86301906] Sending heartbeat to live-internal.fivem.net:30110
+[  86481906] Sending heartbeat to live-internal.fivem.net:30110
+[  86661953] Sending heartbeat to live-internal.fivem.net:30110
+[  86842000] Sending heartbeat to live-internal.fivem.net:30110
+[  87022047] Sending heartbeat to live-internal.fivem.net:30110
+[  87202047] Sending heartbeat to live-internal.fivem.net:30110
+[  87382078] Sending heartbeat to live-internal.fivem.net:30110
+[  87562094] Sending heartbeat to live-internal.fivem.net:30110
+[  87742125] Sending heartbeat to live-internal.fivem.net:30110
+[  87922156] Sending heartbeat to live-internal.fivem.net:30110
+[  88102188] Sending heartbeat to live-internal.fivem.net:30110
+[  88282203] Sending heartbeat to live-internal.fivem.net:30110
+[  88462235] Sending heartbeat to live-internal.fivem.net:30110
+[  88642266] Sending heartbeat to live-internal.fivem.net:30110
+[  88822313] Sending heartbeat to live-internal.fivem.net:30110
+[  89002328] Sending heartbeat to live-internal.fivem.net:30110
+[  89182344] Sending heartbeat to live-internal.fivem.net:30110
+[  89362391] Sending heartbeat to live-internal.fivem.net:30110
+[  89542422] Sending heartbeat to live-internal.fivem.net:30110
+[  89722453] Sending heartbeat to live-internal.fivem.net:30110
+[  89902500] Sending heartbeat to live-internal.fivem.net:30110
+[  90082531] Sending heartbeat to live-internal.fivem.net:30110
+[  90262563] Sending heartbeat to live-internal.fivem.net:30110
+[  90442610] Sending heartbeat to live-internal.fivem.net:30110
+[  90622672] Sending heartbeat to live-internal.fivem.net:30110
+[  90802719] Sending heartbeat to live-internal.fivem.net:30110
+[  90982735] Sending heartbeat to live-internal.fivem.net:30110
+[  91162766] Sending heartbeat to live-internal.fivem.net:30110
+[  91342813] Sending heartbeat to live-internal.fivem.net:30110
+[  91522844] Sending heartbeat to live-internal.fivem.net:30110
+[  91702860] Sending heartbeat to live-internal.fivem.net:30110
+[  91882891] Sending heartbeat to live-internal.fivem.net:30110
+[  92062922] Sending heartbeat to live-internal.fivem.net:30110
+[  92242969] Sending heartbeat to live-internal.fivem.net:30110
+[  92422969] Sending heartbeat to live-internal.fivem.net:30110
+[  92602985] Sending heartbeat to live-internal.fivem.net:30110
+[  92783000] Sending heartbeat to live-internal.fivem.net:30110
+[  92963047] Sending heartbeat to live-internal.fivem.net:30110
+[  93143094] Sending heartbeat to live-internal.fivem.net:30110
+[  93323125] Sending heartbeat to live-internal.fivem.net:30110
+[  93503125] Sending heartbeat to live-internal.fivem.net:30110
+[  93683141] Sending heartbeat to live-internal.fivem.net:30110
+[  93821063] Connecting: manny209
+[  93826219] Sending heartbeat to live-internal.fivem.net:30110
+[  93944047] Sending heartbeat to live-internal.fivem.net:30110
+[  94124047] Sending heartbeat to live-internal.fivem.net:30110
+[  94304094] Sending heartbeat to live-internal.fivem.net:30110
+[  94484125] Sending heartbeat to live-internal.fivem.net:30110
+[  94664172] Sending heartbeat to live-internal.fivem.net:30110
+[  94844203] Sending heartbeat to live-internal.fivem.net:30110
+[  95024203] Sending heartbeat to live-internal.fivem.net:30110
+[  95204219] Sending heartbeat to live-internal.fivem.net:30110
+[  95384235] Sending heartbeat to live-internal.fivem.net:30110
+[  95564281] Sending heartbeat to live-internal.fivem.net:30110
+[  95744297] Sending heartbeat to live-internal.fivem.net:30110
+[  95924344] Sending heartbeat to live-internal.fivem.net:30110
+[  96104360] Sending heartbeat to live-internal.fivem.net:30110
+[  96284406] Sending heartbeat to live-internal.fivem.net:30110
+[  96464422] Sending heartbeat to live-internal.fivem.net:30110
+[  96644438] Sending heartbeat to live-internal.fivem.net:30110
+[  96824453] Sending heartbeat to live-internal.fivem.net:30110
+[  97004500] Sending heartbeat to live-internal.fivem.net:30110
+[  97184516] Sending heartbeat to live-internal.fivem.net:30110
+[  97364531] Sending heartbeat to live-internal.fivem.net:30110
+[  97544563] Sending heartbeat to live-internal.fivem.net:30110
+[  97596891] Connecting: [CI][CIV-92] B. Brandon
+[  97598500] Sending heartbeat to live-internal.fivem.net:30110
+[  97778547] Sending heartbeat to live-internal.fivem.net:30110
+[  97853516] Sending heartbeat to live-internal.fivem.net:30110
+[  98033547] Sending heartbeat to live-internal.fivem.net:30110
+[  98213578] Sending heartbeat to live-internal.fivem.net:30110
+[  98393594] Sending heartbeat to live-internal.fivem.net:30110
+[  98573656] Sending heartbeat to live-internal.fivem.net:30110
+[  98753672] Sending heartbeat to live-internal.fivem.net:30110
+[  98933735] Sending heartbeat to live-internal.fivem.net:30110
+[  99113766] Sending heartbeat to live-internal.fivem.net:30110
+[  99293813] Sending heartbeat to live-internal.fivem.net:30110
+[  99473860] Sending heartbeat to live-internal.fivem.net:30110
+[  99653875] Sending heartbeat to live-internal.fivem.net:30110
+[  99833891] Sending heartbeat to live-internal.fivem.net:30110
+[ 100013906] Sending heartbeat to live-internal.fivem.net:30110
+[ 100193938] Sending heartbeat to live-internal.fivem.net:30110
+[ 100373953] Sending heartbeat to live-internal.fivem.net:30110
+[ 100553985] Sending heartbeat to live-internal.fivem.net:30110
+[ 100734016] Sending heartbeat to live-internal.fivem.net:30110
+[ 100914047] Sending heartbeat to live-internal.fivem.net:30110
+[ 100963703] Connecting: WVSP | [T-15] Trooper Elijah
+[ 100965063] Sending heartbeat to live-internal.fivem.net:30110
+[ 101145110] Sending heartbeat to live-internal.fivem.net:30110
+[ 101325156] Sending heartbeat to live-internal.fivem.net:30110
+[ 101505172] Sending heartbeat to live-internal.fivem.net:30110
+[ 101685219] Sending heartbeat to live-internal.fivem.net:30110
+[ 101865250] Sending heartbeat to live-internal.fivem.net:30110
+[ 102045266] Sending heartbeat to live-internal.fivem.net:30110
+[ 102225297] Sending heartbeat to live-internal.fivem.net:30110
+[ 102405344] Sending heartbeat to live-internal.fivem.net:30110
+[ 102433547] Sending heartbeat to live-internal.fivem.net:30110
+[ 102613563] Sending heartbeat to live-internal.fivem.net:30110
+[ 102793594] Sending heartbeat to live-internal.fivem.net:30110
+[ 102973610] Sending heartbeat to live-internal.fivem.net:30110
+[ 103153625] Sending heartbeat to live-internal.fivem.net:30110
+[ 103333672] Sending heartbeat to live-internal.fivem.net:30110
+[ 103513672] Sending heartbeat to live-internal.fivem.net:30110
+[ 103693703] Sending heartbeat to live-internal.fivem.net:30110
+[ 103873750] Sending heartbeat to live-internal.fivem.net:30110
+[ 104053766] Sending heartbeat to live-internal.fivem.net:30110
+[ 104233813] Sending heartbeat to live-internal.fivem.net:30110
+[ 104413828] Sending heartbeat to live-internal.fivem.net:30110
+[ 104593875] Sending heartbeat to live-internal.fivem.net:30110
+[ 104773891] Sending heartbeat to live-internal.fivem.net:30110
+[ 104953938] Sending heartbeat to live-internal.fivem.net:30110
+[ 105133985] Sending heartbeat to live-internal.fivem.net:30110
+[ 105314000] Sending heartbeat to live-internal.fivem.net:30110
+[ 105494031] Sending heartbeat to live-internal.fivem.net:30110
+[ 105674047] Sending heartbeat to live-internal.fivem.net:30110
+[ 105854063] Sending heartbeat to live-internal.fivem.net:30110
+[ 106034063] Sending heartbeat to live-internal.fivem.net:30110
+[ 106214094] Sending heartbeat to live-internal.fivem.net:30110
+[ 106394094] Sending heartbeat to live-internal.fivem.net:30110
+[ 106574141] Sending heartbeat to live-internal.fivem.net:30110
+[ 106754172] Sending heartbeat to live-internal.fivem.net:30110
+[ 106934203] Sending heartbeat to live-internal.fivem.net:30110
+[ 107114219] Sending heartbeat to live-internal.fivem.net:30110
+[ 107294235] Sending heartbeat to live-internal.fivem.net:30110
+[ 107474250] Sending heartbeat to live-internal.fivem.net:30110
+[ 107654297] Sending heartbeat to live-internal.fivem.net:30110
+[ 107834313] Sending heartbeat to live-internal.fivem.net:30110
+[ 108014344] Sending heartbeat to live-internal.fivem.net:30110
+[ 108194375] Sending heartbeat to live-internal.fivem.net:30110
+[ 108374422] Sending heartbeat to live-internal.fivem.net:30110
+[ 108554438] Sending heartbeat to live-internal.fivem.net:30110
+[ 108734469] Sending heartbeat to live-internal.fivem.net:30110
+[ 108914500] Sending heartbeat to live-internal.fivem.net:30110
+[ 109094531] Sending heartbeat to live-internal.fivem.net:30110
+[ 109274578] Sending heartbeat to live-internal.fivem.net:30110
+[ 109454594] Sending heartbeat to live-internal.fivem.net:30110
+[ 109634641] Sending heartbeat to live-internal.fivem.net:30110
+[ 109814672] Sending heartbeat to live-internal.fivem.net:30110
+[ 109994719] Sending heartbeat to live-internal.fivem.net:30110
+[ 110174735] Sending heartbeat to live-internal.fivem.net:30110
+[ 110354735] Sending heartbeat to live-internal.fivem.net:30110
+[ 110534766] Sending heartbeat to live-internal.fivem.net:30110
+[ 110714766] Sending heartbeat to live-internal.fivem.net:30110
+[ 110894797] Sending heartbeat to live-internal.fivem.net:30110
+[ 111074828] Sending heartbeat to live-internal.fivem.net:30110
+[ 111254875] Sending heartbeat to live-internal.fivem.net:30110
+[ 111434891] Sending heartbeat to live-internal.fivem.net:30110
+[ 111614906] Sending heartbeat to live-internal.fivem.net:30110
+[ 111794938] Sending heartbeat to live-internal.fivem.net:30110
+[ 111974953] Sending heartbeat to live-internal.fivem.net:30110
+[ 112155000] Sending heartbeat to live-internal.fivem.net:30110
+[ 112335031] Sending heartbeat to live-internal.fivem.net:30110
+[ 112515063] Sending heartbeat to live-internal.fivem.net:30110
+[ 112695094] Sending heartbeat to live-internal.fivem.net:30110
+[ 112875141] Sending heartbeat to live-internal.fivem.net:30110
+[ 113055188] Sending heartbeat to live-internal.fivem.net:30110
+[ 113235219] Sending heartbeat to live-internal.fivem.net:30110
+[ 113415235] Sending heartbeat to live-internal.fivem.net:30110
+[ 113595266] Sending heartbeat to live-internal.fivem.net:30110
+[ 113775297] Sending heartbeat to live-internal.fivem.net:30110
+[ 113955344] Sending heartbeat to live-internal.fivem.net:30110
+[ 114135375] Sending heartbeat to live-internal.fivem.net:30110
+[ 114315406] Sending heartbeat to live-internal.fivem.net:30110
+[ 114495453] Sending heartbeat to live-internal.fivem.net:30110
+[ 114675469] Sending heartbeat to live-internal.fivem.net:30110
+[ 114855500] Sending heartbeat to live-internal.fivem.net:30110
+[ 115035547] Sending heartbeat to live-internal.fivem.net:30110
+[ 115215578] Sending heartbeat to live-internal.fivem.net:30110
+[ 115395610] Sending heartbeat to live-internal.fivem.net:30110
+[ 115575656] Sending heartbeat to live-internal.fivem.net:30110
+[ 115755688] Sending heartbeat to live-internal.fivem.net:30110
+[ 115935719] Sending heartbeat to live-internal.fivem.net:30110
+[ 116115750] Sending heartbeat to live-internal.fivem.net:30110
+[ 116295766] Sending heartbeat to live-internal.fivem.net:30110
+[ 116475813] Sending heartbeat to live-internal.fivem.net:30110
+[ 116655844] Sending heartbeat to live-internal.fivem.net:30110
+[ 116835891] Sending heartbeat to live-internal.fivem.net:30110
+[ 117015922] Sending heartbeat to live-internal.fivem.net:30110
+[ 117195953] Sending heartbeat to live-internal.fivem.net:30110
+[ 117376000] Sending heartbeat to live-internal.fivem.net:30110
+[ 117556047] Sending heartbeat to live-internal.fivem.net:30110
+[ 117736078] Sending heartbeat to live-internal.fivem.net:30110
+[ 117916110] Sending heartbeat to live-internal.fivem.net:30110
+[ 118096141] Sending heartbeat to live-internal.fivem.net:30110
+[ 118276188] Sending heartbeat to live-internal.fivem.net:30110
+[ 118456188] Sending heartbeat to live-internal.fivem.net:30110
+[ 118636203] Sending heartbeat to live-internal.fivem.net:30110
+[ 118816250] Sending heartbeat to live-internal.fivem.net:30110
+[ 118996297] Sending heartbeat to live-internal.fivem.net:30110
+[ 119176328] Sending heartbeat to live-internal.fivem.net:30110
+[ 119356328] Sending heartbeat to live-internal.fivem.net:30110
+[ 119536360] Sending heartbeat to live-internal.fivem.net:30110
+[ 119716360] Sending heartbeat to live-internal.fivem.net:30110
+[ 119896406] Sending heartbeat to live-internal.fivem.net:30110
+[ 120076453] Sending heartbeat to live-internal.fivem.net:30110
+[ 120256453] Sending heartbeat to live-internal.fivem.net:30110
+[ 120436485] Sending heartbeat to live-internal.fivem.net:30110
+[ 120616500] Sending heartbeat to live-internal.fivem.net:30110
+[ 120796547] Sending heartbeat to live-internal.fivem.net:30110
+[ 120976594] Sending heartbeat to live-internal.fivem.net:30110
+[ 121156641] Sending heartbeat to live-internal.fivem.net:30110
+[ 121336656] Sending heartbeat to live-internal.fivem.net:30110
+[ 121516688] Sending heartbeat to live-internal.fivem.net:30110
+[ 121696688] Sending heartbeat to live-internal.fivem.net:30110
+[ 121876703] Sending heartbeat to live-internal.fivem.net:30110
+[ 122056719] Sending heartbeat to live-internal.fivem.net:30110
+[ 122197766] Connecting: CIV-81 Daniel S.
+[ 122220453] Sending heartbeat to live-internal.fivem.net:30110
+[ 122400500] Sending heartbeat to live-internal.fivem.net:30110
+[ 122580531] Sending heartbeat to live-internal.fivem.net:30110
+[ 122708000] Command Processed by: CIV-81 Daniel S.: '/fix'
+[ 122760547] Sending heartbeat to live-internal.fivem.net:30110
+[ 122940578] Sending heartbeat to live-internal.fivem.net:30110
+[ 123120610] Sending heartbeat to live-internal.fivem.net:30110
+[ 123186438] Command Processed by: CIV-81 Daniel S.: '/fix'
+[ 123300610] Sending heartbeat to live-internal.fivem.net:30110
+[ 123480625] Sending heartbeat to live-internal.fivem.net:30110
+[ 123550219] : 
+[ 123660625] Sending heartbeat to live-internal.fivem.net:30110
+[ 123840656] Sending heartbeat to live-internal.fivem.net:30110
+[ 124020688] Sending heartbeat to live-internal.fivem.net:30110
+[ 124200735] Sending heartbeat to live-internal.fivem.net:30110
+[ 124380750] Sending heartbeat to live-internal.fivem.net:30110
+[ 124560781] Sending heartbeat to live-internal.fivem.net:30110
+[ 124740813] Sending heartbeat to live-internal.fivem.net:30110
+[ 124920828] Sending heartbeat to live-internal.fivem.net:30110
+[ 125080141] Sending heartbeat to live-internal.fivem.net:30110
+[ 125260156] Sending heartbeat to live-internal.fivem.net:30110
+[ 125440203] Sending heartbeat to live-internal.fivem.net:30110
+[ 125620219] Sending heartbeat to live-internal.fivem.net:30110
+[ 125800235] Sending heartbeat to live-internal.fivem.net:30110
+[ 125980235] Sending heartbeat to live-internal.fivem.net:30110
+[ 126160281] Sending heartbeat to live-internal.fivem.net:30110
+[ 126340297] Sending heartbeat to live-internal.fivem.net:30110
+[ 126520297] Sending heartbeat to live-internal.fivem.net:30110
+[ 126700328] Sending heartbeat to live-internal.fivem.net:30110
+[ 126880328] Sending heartbeat to live-internal.fivem.net:30110
+[ 127060375] Sending heartbeat to live-internal.fivem.net:30110
+[ 127240391] Sending heartbeat to live-internal.fivem.net:30110
+[ 127420438] Sending heartbeat to live-internal.fivem.net:30110
+[ 127600453] Sending heartbeat to live-internal.fivem.net:30110
+[ 127780500] Sending heartbeat to live-internal.fivem.net:30110
+[ 127960531] Sending heartbeat to live-internal.fivem.net:30110
+[ 128140547] Sending heartbeat to live-internal.fivem.net:30110
+[ 128320578] Sending heartbeat to live-internal.fivem.net:30110
+[ 128500578] Sending heartbeat to live-internal.fivem.net:30110
+[ 128680594] Sending heartbeat to live-internal.fivem.net:30110
+[ 128860610] Sending heartbeat to live-internal.fivem.net:30110
+[ 129040625] Sending heartbeat to live-internal.fivem.net:30110
+[ 129220641] Sending heartbeat to live-internal.fivem.net:30110
+[ 129400688] Sending heartbeat to live-internal.fivem.net:30110
+[ 129580719] Sending heartbeat to live-internal.fivem.net:30110
+[ 129760766] Sending heartbeat to live-internal.fivem.net:30110
+[ 129940797] Sending heartbeat to live-internal.fivem.net:30110
+[ 130120813] Sending heartbeat to live-internal.fivem.net:30110
+[ 130300828] Sending heartbeat to live-internal.fivem.net:30110
+[ 130480860] Sending heartbeat to live-internal.fivem.net:30110
+[ 130660906] Sending heartbeat to live-internal.fivem.net:30110
+[ 130840922] Sending heartbeat to live-internal.fivem.net:30110
+[ 131020953] Sending heartbeat to live-internal.fivem.net:30110
+[ 131200985] Sending heartbeat to live-internal.fivem.net:30110
+[ 131380985] Sending heartbeat to live-internal.fivem.net:30110
+[ 131561000] Sending heartbeat to live-internal.fivem.net:30110
+[ 131741016] Sending heartbeat to live-internal.fivem.net:30110
+[ 131921047] Sending heartbeat to live-internal.fivem.net:30110
+[ 132101063] Sending heartbeat to live-internal.fivem.net:30110
+[ 132281094] Sending heartbeat to live-internal.fivem.net:30110
+[ 132461141] Sending heartbeat to live-internal.fivem.net:30110
+[ 132641188] Sending heartbeat to live-internal.fivem.net:30110
+[ 132821219] Sending heartbeat to live-internal.fivem.net:30110
+[ 133001250] Sending heartbeat to live-internal.fivem.net:30110
+[ 133181266] Sending heartbeat to live-internal.fivem.net:30110
+[ 133361281] Sending heartbeat to live-internal.fivem.net:30110
+[ 133541281] Sending heartbeat to live-internal.fivem.net:30110
+[ 133721281] Sending heartbeat to live-internal.fivem.net:30110
+[ 133901313] Sending heartbeat to live-internal.fivem.net:30110
+[ 134081328] Sending heartbeat to live-internal.fivem.net:30110
+[ 134261360] Sending heartbeat to live-internal.fivem.net:30110
+[ 134441360] Sending heartbeat to live-internal.fivem.net:30110
+[ 134621391] Sending heartbeat to live-internal.fivem.net:30110
+[ 134801406] Sending heartbeat to live-internal.fivem.net:30110
+[ 134981422] Sending heartbeat to live-internal.fivem.net:30110
+[ 135065610] Connecting: 5E-660 | Brad N.
+[ 135085266] Sending heartbeat to live-internal.fivem.net:30110
+[ 135218063] Sending heartbeat to live-internal.fivem.net:30110
+[ 135251000] Connecting: 5E-660 | Brad N.
+[ 135253750] Sending heartbeat to live-internal.fivem.net:30110
+[ 135433797] Sending heartbeat to live-internal.fivem.net:30110
+[ 135613844] Sending heartbeat to live-internal.fivem.net:30110
+[ 135621063] Sending heartbeat to live-internal.fivem.net:30110
+[ 135801078] Sending heartbeat to live-internal.fivem.net:30110
+[ 135981094] Sending heartbeat to live-internal.fivem.net:30110
+[ 136161110] Sending heartbeat to live-internal.fivem.net:30110
+[ 136341141] Sending heartbeat to live-internal.fivem.net:30110
+[ 136521156] Sending heartbeat to live-internal.fivem.net:30110
+[ 136701203] Sending heartbeat to live-internal.fivem.net:30110
+[ 136881203] Sending heartbeat to live-internal.fivem.net:30110
+[ 137061219] Sending heartbeat to live-internal.fivem.net:30110
+[ 137241266] Sending heartbeat to live-internal.fivem.net:30110
+[ 137421281] Sending heartbeat to live-internal.fivem.net:30110
+[ 137601281] Sending heartbeat to live-internal.fivem.net:30110
+[ 137781297] Sending heartbeat to live-internal.fivem.net:30110
+[ 137961328] Sending heartbeat to live-internal.fivem.net:30110
+[ 138141360] Sending heartbeat to live-internal.fivem.net:30110
+[ 138321391] Sending heartbeat to live-internal.fivem.net:30110
+[ 138501422] Sending heartbeat to live-internal.fivem.net:30110
+[ 138681438] Sending heartbeat to live-internal.fivem.net:30110
+[ 138861453] Sending heartbeat to live-internal.fivem.net:30110
+[ 139041485] Sending heartbeat to live-internal.fivem.net:30110
+[ 139221516] Sending heartbeat to live-internal.fivem.net:30110
+[ 139401531] Sending heartbeat to live-internal.fivem.net:30110
+[ 139581547] Sending heartbeat to live-internal.fivem.net:30110
+[ 139761610] Sending heartbeat to live-internal.fivem.net:30110
+[ 139941625] Sending heartbeat to live-internal.fivem.net:30110
+[ 140121672] Sending heartbeat to live-internal.fivem.net:30110
+[ 140301672] Sending heartbeat to live-internal.fivem.net:30110
+[ 140481703] Sending heartbeat to live-internal.fivem.net:30110
+[ 140661719] Sending heartbeat to live-internal.fivem.net:30110
+[ 140841766] Sending heartbeat to live-internal.fivem.net:30110
+[ 141021797] Sending heartbeat to live-internal.fivem.net:30110
+[ 141201844] Sending heartbeat to live-internal.fivem.net:30110
+[ 141381860] Sending heartbeat to live-internal.fivem.net:30110
+[ 141561922] Sending heartbeat to live-internal.fivem.net:30110
+[ 141741953] Sending heartbeat to live-internal.fivem.net:30110
+[ 141922000] Sending heartbeat to live-internal.fivem.net:30110
+[ 142102047] Sending heartbeat to live-internal.fivem.net:30110
+[ 142282078] Sending heartbeat to live-internal.fivem.net:30110
+[ 142462125] Sending heartbeat to live-internal.fivem.net:30110
+[ 142642141] Sending heartbeat to live-internal.fivem.net:30110
+[ 142822188] Sending heartbeat to live-internal.fivem.net:30110
+[ 143002219] Sending heartbeat to live-internal.fivem.net:30110
+[ 143182235] Sending heartbeat to live-internal.fivem.net:30110
+[ 143362250] Sending heartbeat to live-internal.fivem.net:30110
+[ 143542250] Sending heartbeat to live-internal.fivem.net:30110
+[ 143722266] Sending heartbeat to live-internal.fivem.net:30110
+[ 143902297] Sending heartbeat to live-internal.fivem.net:30110
+[ 144082313] Sending heartbeat to live-internal.fivem.net:30110
+[ 144262313] Sending heartbeat to live-internal.fivem.net:30110
+[ 144442328] Sending heartbeat to live-internal.fivem.net:30110
+[ 144622375] Sending heartbeat to live-internal.fivem.net:30110
+[ 144802375] Sending heartbeat to live-internal.fivem.net:30110
+[ 144982406] Sending heartbeat to live-internal.fivem.net:30110
+[ 145162438] Sending heartbeat to live-internal.fivem.net:30110
+[ 145342485] Sending heartbeat to live-internal.fivem.net:30110
+[ 145522485] Sending heartbeat to live-internal.fivem.net:30110
+[ 145702531] Sending heartbeat to live-internal.fivem.net:30110
+[ 145882563] Sending heartbeat to live-internal.fivem.net:30110
+[ 146062563] Sending heartbeat to live-internal.fivem.net:30110
+[ 146242610] Sending heartbeat to live-internal.fivem.net:30110
+[ 146422625] Sending heartbeat to live-internal.fivem.net:30110
+[ 146602656] Sending heartbeat to live-internal.fivem.net:30110
+[ 146782703] Sending heartbeat to live-internal.fivem.net:30110
+[ 146962719] Sending heartbeat to live-internal.fivem.net:30110
+[ 147142750] Sending heartbeat to live-internal.fivem.net:30110
+[ 147322797] Sending heartbeat to live-internal.fivem.net:30110
+[ 147502844] Sending heartbeat to live-internal.fivem.net:30110
+[ 147682891] Sending heartbeat to live-internal.fivem.net:30110
+[ 147862938] Sending heartbeat to live-internal.fivem.net:30110
+[ 148031985] Connecting: Goodfella
+[ 148036391] Sending heartbeat to live-internal.fivem.net:30110
+[ 148216422] Sending heartbeat to live-internal.fivem.net:30110
+[ 148268328] Sending heartbeat to live-internal.fivem.net:30110
+[ 148448344] Sending heartbeat to live-internal.fivem.net:30110
+[ 148628375] Sending heartbeat to live-internal.fivem.net:30110
+[ 148808406] Sending heartbeat to live-internal.fivem.net:30110
+[ 148988406] Sending heartbeat to live-internal.fivem.net:30110
+[ 149168438] Sending heartbeat to live-internal.fivem.net:30110
+[ 149348485] Sending heartbeat to live-internal.fivem.net:30110
+[ 149528485] Sending heartbeat to live-internal.fivem.net:30110
+[ 149708531] Sending heartbeat to live-internal.fivem.net:30110
+[ 149888547] Sending heartbeat to live-internal.fivem.net:30110
+[ 150023938] Connecting: Goodfella
+[ 150025250] Sending heartbeat to live-internal.fivem.net:30110
+[ 150205266] Sending heartbeat to live-internal.fivem.net:30110
+[ 150385266] Sending heartbeat to live-internal.fivem.net:30110
+[ 150565297] Sending heartbeat to live-internal.fivem.net:30110
+[ 150745313] Sending heartbeat to live-internal.fivem.net:30110
+[ 150925360] Sending heartbeat to live-internal.fivem.net:30110
+[ 151105375] Sending heartbeat to live-internal.fivem.net:30110
+[ 151285406] Sending heartbeat to live-internal.fivem.net:30110
+[ 151465453] Sending heartbeat to live-internal.fivem.net:30110
+[ 151645500] Sending heartbeat to live-internal.fivem.net:30110
+[ 151825500] Sending heartbeat to live-internal.fivem.net:30110
+[ 152005500] Sending heartbeat to live-internal.fivem.net:30110
+[ 152026344] Connecting: OJ Simpson
+[ 152029563] Sending heartbeat to live-internal.fivem.net:30110
+[ 152204625] : 
+[ 152209594] Sending heartbeat to live-internal.fivem.net:30110
+[ 152230969] Command Processed by: OJ Simpson: '/discord'
+[ 152389625] Sending heartbeat to live-internal.fivem.net:30110
+[ 152569672] Sending heartbeat to live-internal.fivem.net:30110
+[ 152740531] Sending heartbeat to live-internal.fivem.net:30110
+[ 152920563] Sending heartbeat to live-internal.fivem.net:30110
+[ 153100594] Sending heartbeat to live-internal.fivem.net:30110
+[ 153280610] Sending heartbeat to live-internal.fivem.net:30110
+[ 153460641] Sending heartbeat to live-internal.fivem.net:30110
+[ 153640656] Sending heartbeat to live-internal.fivem.net:30110
+[ 153820672] Sending heartbeat to live-internal.fivem.net:30110
+[ 154000735] Sending heartbeat to live-internal.fivem.net:30110
+[ 154180766] Sending heartbeat to live-internal.fivem.net:30110
+[ 154360797] Sending heartbeat to live-internal.fivem.net:30110
+[ 154540844] Sending heartbeat to live-internal.fivem.net:30110
+[ 154720875] Sending heartbeat to live-internal.fivem.net:30110
+[ 154900891] Sending heartbeat to live-internal.fivem.net:30110
+[ 155080938] Sending heartbeat to live-internal.fivem.net:30110
+[ 155260969] Sending heartbeat to live-internal.fivem.net:30110
+[ 155440985] Sending heartbeat to live-internal.fivem.net:30110
+[ 155621000] Sending heartbeat to live-internal.fivem.net:30110
+[ 155801063] Sending heartbeat to live-internal.fivem.net:30110
+[ 155829063] Sending heartbeat to live-internal.fivem.net:30110
+[ 155944828] Connecting: J. Snipes
+[ 155948625] Sending heartbeat to live-internal.fivem.net:30110
+[ 156128656] Sending heartbeat to live-internal.fivem.net:30110
+[ 156179563] Command Processed by: J. Snipes: '/dv '
+[ 156308688] Sending heartbeat to live-internal.fivem.net:30110
+[ 156430219] Command Processed by: J. Snipes: '/trunk'
+[ 156488703] Sending heartbeat to live-internal.fivem.net:30110
+[ 156668719] Sending heartbeat to live-internal.fivem.net:30110
+[ 156848735] Sending heartbeat to live-internal.fivem.net:30110
+[ 157028735] Sending heartbeat to live-internal.fivem.net:30110
+[ 157102719] Sending heartbeat to live-internal.fivem.net:30110
+[ 157282750] Sending heartbeat to live-internal.fivem.net:30110
+[ 157462766] Sending heartbeat to live-internal.fivem.net:30110
+[ 157642813] Sending heartbeat to live-internal.fivem.net:30110
+[ 157822828] Sending heartbeat to live-internal.fivem.net:30110
+[ 158002844] Sending heartbeat to live-internal.fivem.net:30110
+[ 158182844] Sending heartbeat to live-internal.fivem.net:30110
+[ 158362875] Sending heartbeat to live-internal.fivem.net:30110
+[ 158542938] Sending heartbeat to live-internal.fivem.net:30110
+[ 158722953] Sending heartbeat to live-internal.fivem.net:30110
+[ 158902969] Sending heartbeat to live-internal.fivem.net:30110
+[ 159082985] Sending heartbeat to live-internal.fivem.net:30110
+[ 159263000] Sending heartbeat to live-internal.fivem.net:30110
+[ 159443031] Sending heartbeat to live-internal.fivem.net:30110
+[ 159623047] Sending heartbeat to live-internal.fivem.net:30110
+[ 159803063] Sending heartbeat to live-internal.fivem.net:30110
+[ 159983094] Sending heartbeat to live-internal.fivem.net:30110
+[ 160163125] Sending heartbeat to live-internal.fivem.net:30110
+[ 160343125] Sending heartbeat to live-internal.fivem.net:30110
+[ 160523125] Sending heartbeat to live-internal.fivem.net:30110
+[ 160703156] Sending heartbeat to live-internal.fivem.net:30110
+[ 160883172] Sending heartbeat to live-internal.fivem.net:30110
+[ 161063172] Sending heartbeat to live-internal.fivem.net:30110
+[ 161243188] Sending heartbeat to live-internal.fivem.net:30110
+[ 161423219] Sending heartbeat to live-internal.fivem.net:30110
+[ 161603235] Sending heartbeat to live-internal.fivem.net:30110
+[ 161783281] Sending heartbeat to live-internal.fivem.net:30110
+[ 161963297] Sending heartbeat to live-internal.fivem.net:30110
+[ 162143313] Sending heartbeat to live-internal.fivem.net:30110
+[ 162323313] Sending heartbeat to live-internal.fivem.net:30110
+[ 162503360] Sending heartbeat to live-internal.fivem.net:30110
+[ 162683375] Sending heartbeat to live-internal.fivem.net:30110
+[ 162863422] Sending heartbeat to live-internal.fivem.net:30110
+[ 163043422] Sending heartbeat to live-internal.fivem.net:30110
+[ 163223438] Sending heartbeat to live-internal.fivem.net:30110
+[ 163403469] Sending heartbeat to live-internal.fivem.net:30110
+[ 163583516] Sending heartbeat to live-internal.fivem.net:30110
+[ 163763563] Sending heartbeat to live-internal.fivem.net:30110
+[ 163943610] Sending heartbeat to live-internal.fivem.net:30110
+[ 164123610] Sending heartbeat to live-internal.fivem.net:30110
+[ 164303641] Sending heartbeat to live-internal.fivem.net:30110
+[ 164483688] Sending heartbeat to live-internal.fivem.net:30110
+[ 164663719] Sending heartbeat to live-internal.fivem.net:30110
+[ 164843750] Sending heartbeat to live-internal.fivem.net:30110
+[ 165023781] Sending heartbeat to live-internal.fivem.net:30110
+[ 165203813] Sending heartbeat to live-internal.fivem.net:30110
+[ 165383844] Sending heartbeat to live-internal.fivem.net:30110
+[ 165563860] Sending heartbeat to live-internal.fivem.net:30110
+[ 165743860] Sending heartbeat to live-internal.fivem.net:30110
+[ 165923906] Sending heartbeat to live-internal.fivem.net:30110
+[ 166103922] Sending heartbeat to live-internal.fivem.net:30110
+[ 166283953] Sending heartbeat to live-internal.fivem.net:30110
+[ 166463969] Sending heartbeat to live-internal.fivem.net:30110
+[ 166643969] Sending heartbeat to live-internal.fivem.net:30110
+[ 166824031] Sending heartbeat to live-internal.fivem.net:30110
+[ 167004078] Sending heartbeat to live-internal.fivem.net:30110
+[ 167184125] Sending heartbeat to live-internal.fivem.net:30110
+[ 167364156] Sending heartbeat to live-internal.fivem.net:30110
+[ 167544203] Sending heartbeat to live-internal.fivem.net:30110
+[ 167724235] Sending heartbeat to live-internal.fivem.net:30110
+[ 167904281] Sending heartbeat to live-internal.fivem.net:30110
+[ 168084328] Sending heartbeat to live-internal.fivem.net:30110
+[ 168264344] Sending heartbeat to live-internal.fivem.net:30110
+[ 168444391] Sending heartbeat to live-internal.fivem.net:30110
+[ 168624406] Sending heartbeat to live-internal.fivem.net:30110
+[ 168804453] Sending heartbeat to live-internal.fivem.net:30110
+[ 168984485] Sending heartbeat to live-internal.fivem.net:30110
+[ 169164516] Sending heartbeat to live-internal.fivem.net:30110
+[ 169344531] Sending heartbeat to live-internal.fivem.net:30110
+[ 169524594] Sending heartbeat to live-internal.fivem.net:30110
+[ 169704610] Sending heartbeat to live-internal.fivem.net:30110
+[ 169884656] Sending heartbeat to live-internal.fivem.net:30110
+[ 170064703] Sending heartbeat to live-internal.fivem.net:30110
+[ 170244703] Sending heartbeat to live-internal.fivem.net:30110
+[ 170424735] Sending heartbeat to live-internal.fivem.net:30110
+[ 170604766] Sending heartbeat to live-internal.fivem.net:30110
+[ 170784781] Sending heartbeat to live-internal.fivem.net:30110
+[ 170964813] Sending heartbeat to live-internal.fivem.net:30110
+[ 171144813] Sending heartbeat to live-internal.fivem.net:30110
+[ 171324844] Sending heartbeat to live-internal.fivem.net:30110
+[ 171504844] Sending heartbeat to live-internal.fivem.net:30110
+[ 171684891] Sending heartbeat to live-internal.fivem.net:30110
+[ 171864891] Sending heartbeat to live-internal.fivem.net:30110
+[ 172044953] Sending heartbeat to live-internal.fivem.net:30110
+[ 172224969] Sending heartbeat to live-internal.fivem.net:30110
+[ 172404969] Sending heartbeat to live-internal.fivem.net:30110
+[ 172584985] Sending heartbeat to live-internal.fivem.net:30110
+[ 172765000] Sending heartbeat to live-internal.fivem.net:30110
+[ 172945047] Sending heartbeat to live-internal.fivem.net:30110
+[ 173125063] Sending heartbeat to live-internal.fivem.net:30110
+[ 173305094] Sending heartbeat to live-internal.fivem.net:30110
+[ 173485156] Sending heartbeat to live-internal.fivem.net:30110
+[ 173665203] Sending heartbeat to live-internal.fivem.net:30110
+[ 173845235] Sending heartbeat to live-internal.fivem.net:30110
+[ 174025250] Sending heartbeat to live-internal.fivem.net:30110
+[ 174205281] Sending heartbeat to live-internal.fivem.net:30110
+[ 174385328] Sending heartbeat to live-internal.fivem.net:30110
+[ 174565344] Sending heartbeat to live-internal.fivem.net:30110
+[ 174745391] Sending heartbeat to live-internal.fivem.net:30110
+[ 174925438] Sending heartbeat to live-internal.fivem.net:30110
+[ 175105469] Sending heartbeat to live-internal.fivem.net:30110
+[ 175285500] Sending heartbeat to live-internal.fivem.net:30110
+[ 175465547] Sending heartbeat to live-internal.fivem.net:30110
+[ 175645594] Sending heartbeat to live-internal.fivem.net:30110
+[ 175825610] Sending heartbeat to live-internal.fivem.net:30110
+[ 176005641] Sending heartbeat to live-internal.fivem.net:30110
+[ 176185688] Sending heartbeat to live-internal.fivem.net:30110
+[ 176365703] Sending heartbeat to live-internal.fivem.net:30110
+[ 176545750] Sending heartbeat to live-internal.fivem.net:30110
+[ 176725766] Sending heartbeat to live-internal.fivem.net:30110
+[ 176905813] Sending heartbeat to live-internal.fivem.net:30110
+[ 177085844] Sending heartbeat to live-internal.fivem.net:30110
+[ 177265875] Sending heartbeat to live-internal.fivem.net:30110
+[ 177445922] Sending heartbeat to live-internal.fivem.net:30110
+[ 177625985] Sending heartbeat to live-internal.fivem.net:30110
+[ 177806000] Sending heartbeat to live-internal.fivem.net:30110
+[ 177986047] Sending heartbeat to live-internal.fivem.net:30110
+[ 178166094] Sending heartbeat to live-internal.fivem.net:30110
+[ 178346110] Sending heartbeat to live-internal.fivem.net:30110
+[ 178526141] Sending heartbeat to live-internal.fivem.net:30110
+[ 178706156] Sending heartbeat to live-internal.fivem.net:30110
+[ 178886188] Sending heartbeat to live-internal.fivem.net:30110
+[ 179066250] Sending heartbeat to live-internal.fivem.net:30110
+[ 179246250] Sending heartbeat to live-internal.fivem.net:30110
+[ 179426281] Sending heartbeat to live-internal.fivem.net:30110
+[ 179606297] Sending heartbeat to live-internal.fivem.net:30110
+[ 179786344] Sending heartbeat to live-internal.fivem.net:30110
+[ 179966391] Sending heartbeat to live-internal.fivem.net:30110
+[ 180146422] Sending heartbeat to live-internal.fivem.net:30110
+[ 180326438] Sending heartbeat to live-internal.fivem.net:30110
+[ 180506469] Sending heartbeat to live-internal.fivem.net:30110
+[ 180686516] Sending heartbeat to live-internal.fivem.net:30110
+[ 180866531] Sending heartbeat to live-internal.fivem.net:30110
+[ 181046547] Sending heartbeat to live-internal.fivem.net:30110
+[ 181226563] Sending heartbeat to live-internal.fivem.net:30110
+[ 181406594] Sending heartbeat to live-internal.fivem.net:30110
+[ 181586625] Sending heartbeat to live-internal.fivem.net:30110
+[ 181766656] Sending heartbeat to live-internal.fivem.net:30110
+[ 181946688] Sending heartbeat to live-internal.fivem.net:30110
+[ 182126735] Sending heartbeat to live-internal.fivem.net:30110
+[ 182306750] Sending heartbeat to live-internal.fivem.net:30110
+[ 182486797] Sending heartbeat to live-internal.fivem.net:30110
+[ 182666844] Sending heartbeat to live-internal.fivem.net:30110
+[ 182846844] Sending heartbeat to live-internal.fivem.net:30110
+[ 183026906] Sending heartbeat to live-internal.fivem.net:30110
+[ 183206938] Sending heartbeat to live-internal.fivem.net:30110
+[ 183386985] Sending heartbeat to live-internal.fivem.net:30110
+[ 183567016] Sending heartbeat to live-internal.fivem.net:30110
+[ 183747047] Sending heartbeat to live-internal.fivem.net:30110
+[ 183927047] Sending heartbeat to live-internal.fivem.net:30110
+[ 184107094] Sending heartbeat to live-internal.fivem.net:30110
+[ 184287110] Sending heartbeat to live-internal.fivem.net:30110
+[ 184467156] Sending heartbeat to live-internal.fivem.net:30110
+[ 184647172] Sending heartbeat to live-internal.fivem.net:30110
+[ 184827203] Sending heartbeat to live-internal.fivem.net:30110
+[ 185007219] Sending heartbeat to live-internal.fivem.net:30110
+[ 185187235] Sending heartbeat to live-internal.fivem.net:30110
+[ 185367250] Sending heartbeat to live-internal.fivem.net:30110
+[ 185547281] Sending heartbeat to live-internal.fivem.net:30110
+[ 185727297] Sending heartbeat to live-internal.fivem.net:30110
+[ 185907344] Sending heartbeat to live-internal.fivem.net:30110
+[ 186087360] Sending heartbeat to live-internal.fivem.net:30110
+[ 186267422] Sending heartbeat to live-internal.fivem.net:30110
+[ 186447422] Sending heartbeat to live-internal.fivem.net:30110
+[ 186627469] Sending heartbeat to live-internal.fivem.net:30110
+[ 186807500] Sending heartbeat to live-internal.fivem.net:30110
+[ 186987516] Sending heartbeat to live-internal.fivem.net:30110
+[ 187167578] Sending heartbeat to live-internal.fivem.net:30110
+[ 187347625] Sending heartbeat to live-internal.fivem.net:30110
+[ 187527625] Sending heartbeat to live-internal.fivem.net:30110
+[ 187707625] Sending heartbeat to live-internal.fivem.net:30110
+[ 187887672] Sending heartbeat to live-internal.fivem.net:30110
+[ 188067672] Sending heartbeat to live-internal.fivem.net:30110
+[ 188247688] Sending heartbeat to live-internal.fivem.net:30110
+[ 188427703] Sending heartbeat to live-internal.fivem.net:30110
+[ 188607719] Sending heartbeat to live-internal.fivem.net:30110
+[ 188787766] Sending heartbeat to live-internal.fivem.net:30110
+[ 188967797] Sending heartbeat to live-internal.fivem.net:30110
+[ 189147813] Sending heartbeat to live-internal.fivem.net:30110
+[ 189327828] Sending heartbeat to live-internal.fivem.net:30110
+[ 189507875] Sending heartbeat to live-internal.fivem.net:30110
+[ 189687891] Sending heartbeat to live-internal.fivem.net:30110
+[ 189867906] Sending heartbeat to live-internal.fivem.net:30110
+[ 190047938] Sending heartbeat to live-internal.fivem.net:30110
+[ 190227953] Sending heartbeat to live-internal.fivem.net:30110
+[ 190407985] Sending heartbeat to live-internal.fivem.net:30110
+[ 190588000] Sending heartbeat to live-internal.fivem.net:30110
+[ 190768016] Sending heartbeat to live-internal.fivem.net:30110
+[ 190948031] Sending heartbeat to live-internal.fivem.net:30110
+[ 191128031] Sending heartbeat to live-internal.fivem.net:30110
+[ 191308047] Sending heartbeat to live-internal.fivem.net:30110
+[ 191488078] Sending heartbeat to live-internal.fivem.net:30110
+[ 191668125] Sending heartbeat to live-internal.fivem.net:30110
+[ 191848172] Sending heartbeat to live-internal.fivem.net:30110
+[ 192028203] Sending heartbeat to live-internal.fivem.net:30110
+[ 192208219] Sending heartbeat to live-internal.fivem.net:30110
+[ 192388235] Sending heartbeat to live-internal.fivem.net:30110
+[ 192568250] Sending heartbeat to live-internal.fivem.net:30110
+[ 192748281] Sending heartbeat to live-internal.fivem.net:30110
+[ 192928281] Sending heartbeat to live-internal.fivem.net:30110
+[ 193108297] Sending heartbeat to live-internal.fivem.net:30110
+[ 193288344] Sending heartbeat to live-internal.fivem.net:30110
+[ 193468360] Sending heartbeat to live-internal.fivem.net:30110
+[ 193648391] Sending heartbeat to live-internal.fivem.net:30110
+[ 193828438] Sending heartbeat to live-internal.fivem.net:30110
+[ 194008453] Sending heartbeat to live-internal.fivem.net:30110
+[ 194188485] Sending heartbeat to live-internal.fivem.net:30110
+[ 194368516] Sending heartbeat to live-internal.fivem.net:30110
+[ 194548563] Sending heartbeat to live-internal.fivem.net:30110
+[ 194728578] Sending heartbeat to live-internal.fivem.net:30110
+[ 194908594] Sending heartbeat to live-internal.fivem.net:30110
+[ 195088625] Sending heartbeat to live-internal.fivem.net:30110
+[ 195268625] Sending heartbeat to live-internal.fivem.net:30110
+[ 195448641] Sending heartbeat to live-internal.fivem.net:30110
+[ 195628656] Sending heartbeat to live-internal.fivem.net:30110
+[ 195808672] Sending heartbeat to live-internal.fivem.net:30110
+[ 195988719] Sending heartbeat to live-internal.fivem.net:30110
+[ 196168750] Sending heartbeat to live-internal.fivem.net:30110
+[ 196348797] Sending heartbeat to live-internal.fivem.net:30110
+[ 196528828] Sending heartbeat to live-internal.fivem.net:30110
+[ 196708828] Sending heartbeat to live-internal.fivem.net:30110
+[ 196888875] Sending heartbeat to live-internal.fivem.net:30110
+[ 197068922] Sending heartbeat to live-internal.fivem.net:30110
+[ 197248922] Sending heartbeat to live-internal.fivem.net:30110
+[ 197428969] Sending heartbeat to live-internal.fivem.net:30110
+[ 197609016] Sending heartbeat to live-internal.fivem.net:30110
+[ 197789063] Sending heartbeat to live-internal.fivem.net:30110
+[ 197969094] Sending heartbeat to live-internal.fivem.net:30110
+[ 198149141] Sending heartbeat to live-internal.fivem.net:30110
+[ 198329188] Sending heartbeat to live-internal.fivem.net:30110
+[ 198509235] Sending heartbeat to live-internal.fivem.net:30110
+[ 198689281] Sending heartbeat to live-internal.fivem.net:30110
+[ 198869297] Sending heartbeat to live-internal.fivem.net:30110
+[ 199049328] Sending heartbeat to live-internal.fivem.net:30110
+[ 199229360] Sending heartbeat to live-internal.fivem.net:30110
+[ 199409406] Sending heartbeat to live-internal.fivem.net:30110
+[ 199589422] Sending heartbeat to live-internal.fivem.net:30110
+[ 199769438] Sending heartbeat to live-internal.fivem.net:30110
+[ 199949453] Sending heartbeat to live-internal.fivem.net:30110
+[ 200129485] Sending heartbeat to live-internal.fivem.net:30110
+[ 200309516] Sending heartbeat to live-internal.fivem.net:30110
+[ 200489563] Sending heartbeat to live-internal.fivem.net:30110
+[ 200669578] Sending heartbeat to live-internal.fivem.net:30110
+[ 200849610] Sending heartbeat to live-internal.fivem.net:30110
+[ 201029641] Sending heartbeat to live-internal.fivem.net:30110
+[ 201209672] Sending heartbeat to live-internal.fivem.net:30110
+[ 201389672] Sending heartbeat to live-internal.fivem.net:30110
+[ 201569703] Sending heartbeat to live-internal.fivem.net:30110
+[ 201749735] Sending heartbeat to live-internal.fivem.net:30110
+[ 201929735] Sending heartbeat to live-internal.fivem.net:30110
+[ 202109766] Sending heartbeat to live-internal.fivem.net:30110
+[ 202289797] Sending heartbeat to live-internal.fivem.net:30110
+[ 202469813] Sending heartbeat to live-internal.fivem.net:30110
+[ 202649828] Sending heartbeat to live-internal.fivem.net:30110
+[ 202829875] Sending heartbeat to live-internal.fivem.net:30110
+[ 203009922] Sending heartbeat to live-internal.fivem.net:30110
+[ 203189922] Sending heartbeat to live-internal.fivem.net:30110
+[ 203369953] Sending heartbeat to live-internal.fivem.net:30110
+[ 203549985] Sending heartbeat to live-internal.fivem.net:30110
+[ 203730031] Sending heartbeat to live-internal.fivem.net:30110
+[ 203910063] Sending heartbeat to live-internal.fivem.net:30110
+[ 204090110] Sending heartbeat to live-internal.fivem.net:30110
+[ 204270125] Sending heartbeat to live-internal.fivem.net:30110
+[ 204450125] Sending heartbeat to live-internal.fivem.net:30110
+[ 204630156] Sending heartbeat to live-internal.fivem.net:30110
+[ 204810172] Sending heartbeat to live-internal.fivem.net:30110
+[ 204990203] Sending heartbeat to live-internal.fivem.net:30110
+[ 205170203] Sending heartbeat to live-internal.fivem.net:30110
+[ 205350235] Sending heartbeat to live-internal.fivem.net:30110
+[ 205530266] Sending heartbeat to live-internal.fivem.net:30110
+[ 205710281] Sending heartbeat to live-internal.fivem.net:30110
+[ 205890328] Sending heartbeat to live-internal.fivem.net:30110
+[ 206070360] Sending heartbeat to live-internal.fivem.net:30110
+[ 206250375] Sending heartbeat to live-internal.fivem.net:30110
+[ 206430406] Sending heartbeat to live-internal.fivem.net:30110
+[ 206610438] Sending heartbeat to live-internal.fivem.net:30110
+[ 206790469] Sending heartbeat to live-internal.fivem.net:30110
+[ 206970500] Sending heartbeat to live-internal.fivem.net:30110
+[ 207150547] Sending heartbeat to live-internal.fivem.net:30110
+[ 207330563] Sending heartbeat to live-internal.fivem.net:30110
+[ 207510594] Sending heartbeat to live-internal.fivem.net:30110
+[ 207690594] Sending heartbeat to live-internal.fivem.net:30110
+[ 207870625] Sending heartbeat to live-internal.fivem.net:30110
+[ 208050656] Sending heartbeat to live-internal.fivem.net:30110
+[ 208230672] Sending heartbeat to live-internal.fivem.net:30110
+[ 208410688] Sending heartbeat to live-internal.fivem.net:30110
+[ 208590735] Sending heartbeat to live-internal.fivem.net:30110
+[ 208770766] Sending heartbeat to live-internal.fivem.net:30110
+[ 208950797] Sending heartbeat to live-internal.fivem.net:30110
+[ 209130844] Sending heartbeat to live-internal.fivem.net:30110
+[ 209310875] Sending heartbeat to live-internal.fivem.net:30110
+[ 209490891] Sending heartbeat to live-internal.fivem.net:30110
+[ 209670938] Sending heartbeat to live-internal.fivem.net:30110
+[ 209850953] Sending heartbeat to live-internal.fivem.net:30110
+[ 210030953] Sending heartbeat to live-internal.fivem.net:30110
+[ 210210985] Sending heartbeat to live-internal.fivem.net:30110
+[ 210391016] Sending heartbeat to live-internal.fivem.net:30110
+[ 210571047] Sending heartbeat to live-internal.fivem.net:30110
+[ 210751063] Sending heartbeat to live-internal.fivem.net:30110
+[ 210931094] Sending heartbeat to live-internal.fivem.net:30110
+[ 211111094] Sending heartbeat to live-internal.fivem.net:30110
+[ 211291141] Sending heartbeat to live-internal.fivem.net:30110
+[ 211471141] Sending heartbeat to live-internal.fivem.net:30110
+[ 211651172] Sending heartbeat to live-internal.fivem.net:30110
+[ 211831188] Sending heartbeat to live-internal.fivem.net:30110
+[ 212011203] Sending heartbeat to live-internal.fivem.net:30110
+[ 212191250] Sending heartbeat to live-internal.fivem.net:30110
+[ 212371297] Sending heartbeat to live-internal.fivem.net:30110
+[ 212551313] Sending heartbeat to live-internal.fivem.net:30110
+[ 212731328] Sending heartbeat to live-internal.fivem.net:30110
+[ 212911360] Sending heartbeat to live-internal.fivem.net:30110
+[ 213091391] Sending heartbeat to live-internal.fivem.net:30110
+[ 213271422] Sending heartbeat to live-internal.fivem.net:30110
+[ 213451469] Sending heartbeat to live-internal.fivem.net:30110
+[ 213631531] Sending heartbeat to live-internal.fivem.net:30110
+[ 213811547] Sending heartbeat to live-internal.fivem.net:30110
+[ 213991578] Sending heartbeat to live-internal.fivem.net:30110
+[ 214171610] Sending heartbeat to live-internal.fivem.net:30110
+[ 214351625] Sending heartbeat to live-internal.fivem.net:30110
+[ 214531656] Sending heartbeat to live-internal.fivem.net:30110
+[ 214711703] Sending heartbeat to live-internal.fivem.net:30110
+[ 214891735] Sending heartbeat to live-internal.fivem.net:30110
+[ 215071766] Sending heartbeat to live-internal.fivem.net:30110
+[ 215251813] Sending heartbeat to live-internal.fivem.net:30110
+[ 215431844] Sending heartbeat to live-internal.fivem.net:30110
+[ 215611860] Sending heartbeat to live-internal.fivem.net:30110
+[ 215791875] Sending heartbeat to live-internal.fivem.net:30110
+[ 215971906] Sending heartbeat to live-internal.fivem.net:30110
+[ 216151922] Sending heartbeat to live-internal.fivem.net:30110
+[ 216331969] Sending heartbeat to live-internal.fivem.net:30110
+[ 216512000] Sending heartbeat to live-internal.fivem.net:30110
+[ 216692031] Sending heartbeat to live-internal.fivem.net:30110
+[ 216872031] Sending heartbeat to live-internal.fivem.net:30110
+[ 217052078] Sending heartbeat to live-internal.fivem.net:30110
+[ 217232125] Sending heartbeat to live-internal.fivem.net:30110
+[ 217412141] Sending heartbeat to live-internal.fivem.net:30110
+[ 217592188] Sending heartbeat to live-internal.fivem.net:30110
+[ 217772219] Sending heartbeat to live-internal.fivem.net:30110
+[ 217952266] Sending heartbeat to live-internal.fivem.net:30110
+[ 218132313] Sending heartbeat to live-internal.fivem.net:30110
+[ 218312313] Sending heartbeat to live-internal.fivem.net:30110
+[ 218492360] Sending heartbeat to live-internal.fivem.net:30110
+[ 218672391] Sending heartbeat to live-internal.fivem.net:30110
+[ 218852422] Sending heartbeat to live-internal.fivem.net:30110
+[ 219032438] Sending heartbeat to live-internal.fivem.net:30110
+[ 219212485] Sending heartbeat to live-internal.fivem.net:30110
+[ 219392500] Sending heartbeat to live-internal.fivem.net:30110
+[ 219572531] Sending heartbeat to live-internal.fivem.net:30110
+[ 219752578] Sending heartbeat to live-internal.fivem.net:30110
+[ 219932625] Sending heartbeat to live-internal.fivem.net:30110
+[ 220112641] Sending heartbeat to live-internal.fivem.net:30110
+[ 220292641] Sending heartbeat to live-internal.fivem.net:30110
+[ 220472672] Sending heartbeat to live-internal.fivem.net:30110
+[ 220652703] Sending heartbeat to live-internal.fivem.net:30110
+[ 220832719] Sending heartbeat to live-internal.fivem.net:30110
+[ 221012750] Sending heartbeat to live-internal.fivem.net:30110
+[ 221192781] Sending heartbeat to live-internal.fivem.net:30110
+[ 221372781] Sending heartbeat to live-internal.fivem.net:30110
+[ 221552813] Sending heartbeat to live-internal.fivem.net:30110
+[ 221732828] Sending heartbeat to live-internal.fivem.net:30110
+[ 221912844] Sending heartbeat to live-internal.fivem.net:30110
+[ 222092860] Sending heartbeat to live-internal.fivem.net:30110
+[ 222272875] Sending heartbeat to live-internal.fivem.net:30110
+[ 222452891] Sending heartbeat to live-internal.fivem.net:30110
+[ 222632891] Sending heartbeat to live-internal.fivem.net:30110
+[ 222812938] Sending heartbeat to live-internal.fivem.net:30110
+[ 222992953] Sending heartbeat to live-internal.fivem.net:30110
+[ 223173000] Sending heartbeat to live-internal.fivem.net:30110
+[ 223353047] Sending heartbeat to live-internal.fivem.net:30110
+[ 223533094] Sending heartbeat to live-internal.fivem.net:30110
+[ 223713141] Sending heartbeat to live-internal.fivem.net:30110
+[ 223893172] Sending heartbeat to live-internal.fivem.net:30110
+[ 224073219] Sending heartbeat to live-internal.fivem.net:30110
+[ 224253235] Sending heartbeat to live-internal.fivem.net:30110
+[ 224433281] Sending heartbeat to live-internal.fivem.net:30110
+[ 224613297] Sending heartbeat to live-internal.fivem.net:30110
+[ 224793313] Sending heartbeat to live-internal.fivem.net:30110
+[ 224973328] Sending heartbeat to live-internal.fivem.net:30110
+[ 225153344] Sending heartbeat to live-internal.fivem.net:30110
+[ 225333360] Sending heartbeat to live-internal.fivem.net:30110
+[ 225513360] Sending heartbeat to live-internal.fivem.net:30110
+[ 225693406] Sending heartbeat to live-internal.fivem.net:30110
+[ 225873406] Sending heartbeat to live-internal.fivem.net:30110
+[ 226053438] Sending heartbeat to live-internal.fivem.net:30110
+[ 226233485] Sending heartbeat to live-internal.fivem.net:30110
+[ 226413516] Sending heartbeat to live-internal.fivem.net:30110
+[ 226593531] Sending heartbeat to live-internal.fivem.net:30110
+[ 226773578] Sending heartbeat to live-internal.fivem.net:30110
+[ 226953625] Sending heartbeat to live-internal.fivem.net:30110
+[ 227133641] Sending heartbeat to live-internal.fivem.net:30110
+[ 227313688] Sending heartbeat to live-internal.fivem.net:30110
+[ 227493703] Sending heartbeat to live-internal.fivem.net:30110
+[ 227673719] Sending heartbeat to live-internal.fivem.net:30110
+[ 227853735] Sending heartbeat to live-internal.fivem.net:30110
+[ 228033750] Sending heartbeat to live-internal.fivem.net:30110
+[ 228213766] Sending heartbeat to live-internal.fivem.net:30110
+[ 228393781] Sending heartbeat to live-internal.fivem.net:30110
+[ 228573828] Sending heartbeat to live-internal.fivem.net:30110
+[ 228753860] Sending heartbeat to live-internal.fivem.net:30110
+[ 228933906] Sending heartbeat to live-internal.fivem.net:30110
+[ 229113906] Sending heartbeat to live-internal.fivem.net:30110
+[ 229293922] Sending heartbeat to live-internal.fivem.net:30110
+[ 229473922] Sending heartbeat to live-internal.fivem.net:30110
+[ 229653985] Sending heartbeat to live-internal.fivem.net:30110
+[ 229833985] Sending heartbeat to live-internal.fivem.net:30110
+[ 230014000] Sending heartbeat to live-internal.fivem.net:30110
+[ 230194016] Sending heartbeat to live-internal.fivem.net:30110
+[ 230374031] Sending heartbeat to live-internal.fivem.net:30110
+[ 230554078] Sending heartbeat to live-internal.fivem.net:30110
+[ 230734094] Sending heartbeat to live-internal.fivem.net:30110
+[ 230914110] Sending heartbeat to live-internal.fivem.net:30110
+[ 231094141] Sending heartbeat to live-internal.fivem.net:30110
+[ 231274172] Sending heartbeat to live-internal.fivem.net:30110
+[ 231454188] Sending heartbeat to live-internal.fivem.net:30110
+[ 231634219] Sending heartbeat to live-internal.fivem.net:30110
+[ 231814250] Sending heartbeat to live-internal.fivem.net:30110
+[ 231994281] Sending heartbeat to live-internal.fivem.net:30110
+[ 232174313] Sending heartbeat to live-internal.fivem.net:30110
+[ 232354328] Sending heartbeat to live-internal.fivem.net:30110
+[ 232534360] Sending heartbeat to live-internal.fivem.net:30110
+[ 232714375] Sending heartbeat to live-internal.fivem.net:30110
+[ 232894406] Sending heartbeat to live-internal.fivem.net:30110
+[ 233074422] Sending heartbeat to live-internal.fivem.net:30110
+[ 233254469] Sending heartbeat to live-internal.fivem.net:30110
+[ 233434516] Sending heartbeat to live-internal.fivem.net:30110
+[ 233614531] Sending heartbeat to live-internal.fivem.net:30110
+[ 233794578] Sending heartbeat to live-internal.fivem.net:30110
+[ 233974641] Sending heartbeat to live-internal.fivem.net:30110
+[ 234154672] Sending heartbeat to live-internal.fivem.net:30110
+[ 234334688] Sending heartbeat to live-internal.fivem.net:30110
+[ 234514735] Sending heartbeat to live-internal.fivem.net:30110
+[ 234694781] Sending heartbeat to live-internal.fivem.net:30110
+[ 234874797] Sending heartbeat to live-internal.fivem.net:30110
+[ 235054813] Sending heartbeat to live-internal.fivem.net:30110
+[ 235234828] Sending heartbeat to live-internal.fivem.net:30110
+[ 235414844] Sending heartbeat to live-internal.fivem.net:30110
+[ 235594891] Sending heartbeat to live-internal.fivem.net:30110
+[ 235774891] Sending heartbeat to live-internal.fivem.net:30110
+[ 235954906] Sending heartbeat to live-internal.fivem.net:30110
+[ 236134938] Sending heartbeat to live-internal.fivem.net:30110
+[ 236314985] Sending heartbeat to live-internal.fivem.net:30110
+[ 236495031] Sending heartbeat to live-internal.fivem.net:30110
+[ 236675078] Sending heartbeat to live-internal.fivem.net:30110
+[ 236855094] Sending heartbeat to live-internal.fivem.net:30110
+[ 237035110] Sending heartbeat to live-internal.fivem.net:30110
+[ 237215125] Sending heartbeat to live-internal.fivem.net:30110
+[ 237395156] Sending heartbeat to live-internal.fivem.net:30110
+[ 237575203] Sending heartbeat to live-internal.fivem.net:30110
+[ 237755203] Sending heartbeat to live-internal.fivem.net:30110
+[ 237935250] Sending heartbeat to live-internal.fivem.net:30110
+[ 238115266] Sending heartbeat to live-internal.fivem.net:30110
+[ 238295266] Sending heartbeat to live-internal.fivem.net:30110
+[ 238475313] Sending heartbeat to live-internal.fivem.net:30110
+[ 238655344] Sending heartbeat to live-internal.fivem.net:30110
+[ 238835375] Sending heartbeat to live-internal.fivem.net:30110
+[ 239015391] Sending heartbeat to live-internal.fivem.net:30110
+[ 239195422] Sending heartbeat to live-internal.fivem.net:30110
+[ 239375453] Sending heartbeat to live-internal.fivem.net:30110
+[ 239555500] Sending heartbeat to live-internal.fivem.net:30110
+[ 239735516] Sending heartbeat to live-internal.fivem.net:30110
+[ 239915547] Sending heartbeat to live-internal.fivem.net:30110
+[ 240095578] Sending heartbeat to live-internal.fivem.net:30110
+[ 240275625] Sending heartbeat to live-internal.fivem.net:30110
+[ 240455672] Sending heartbeat to live-internal.fivem.net:30110
+[ 240635688] Sending heartbeat to live-internal.fivem.net:30110
+[ 240815719] Sending heartbeat to live-internal.fivem.net:30110
+[ 240995750] Sending heartbeat to live-internal.fivem.net:30110
+[ 241175766] Sending heartbeat to live-internal.fivem.net:30110
+[ 241355781] Sending heartbeat to live-internal.fivem.net:30110
+[ 241535813] Sending heartbeat to live-internal.fivem.net:30110
+[ 241715844] Sending heartbeat to live-internal.fivem.net:30110
+[ 241895860] Sending heartbeat to live-internal.fivem.net:30110
+[ 242075891] Sending heartbeat to live-internal.fivem.net:30110
+[ 242255906] Sending heartbeat to live-internal.fivem.net:30110
+[ 242435953] Sending heartbeat to live-internal.fivem.net:30110
+[ 242616000] Sending heartbeat to live-internal.fivem.net:30110
+[ 242796031] Sending heartbeat to live-internal.fivem.net:30110
+[ 242976063] Sending heartbeat to live-internal.fivem.net:30110
+[ 243156094] Sending heartbeat to live-internal.fivem.net:30110
+[ 243336125] Sending heartbeat to live-internal.fivem.net:30110
+[ 243516141] Sending heartbeat to live-internal.fivem.net:30110
+[ 243696188] Sending heartbeat to live-internal.fivem.net:30110
+[ 243876203] Sending heartbeat to live-internal.fivem.net:30110
+[ 244056219] Sending heartbeat to live-internal.fivem.net:30110
+[ 244236235] Sending heartbeat to live-internal.fivem.net:30110
+[ 244416266] Sending heartbeat to live-internal.fivem.net:30110
+[ 244596281] Sending heartbeat to live-internal.fivem.net:30110
+[ 244776328] Sending heartbeat to live-internal.fivem.net:30110
+[ 244956344] Sending heartbeat to live-internal.fivem.net:30110
+[ 245136406] Sending heartbeat to live-internal.fivem.net:30110
+[ 245316406] Sending heartbeat to live-internal.fivem.net:30110
+[ 245496438] Sending heartbeat to live-internal.fivem.net:30110
+[ 245676438] Sending heartbeat to live-internal.fivem.net:30110
+[ 245856453] Sending heartbeat to live-internal.fivem.net:30110
+[ 245992281] Connecting: (X 626) M. Walker
+[ 246013860] Sending heartbeat to live-internal.fivem.net:30110
+[ 246193906] Sending heartbeat to live-internal.fivem.net:30110
+[ 246311516] Connecting: michail | Villains
+[ 246315969] Sending heartbeat to live-internal.fivem.net:30110
+[ 246496016] Sending heartbeat to live-internal.fivem.net:30110
+[ 246525797] Command Processed by: (X 626) M. Walker: '/so2'
+[ 246533016] Command Processed by: (X 626) M. Walker: '/so2'
+[ 246539672] Command Processed by: (X 626) M. Walker: '/spawn so2'
+[ 246553406] Connecting: SaggyGoober
+[ 246560719] Sending heartbeat to live-internal.fivem.net:30110
+[ 246650641] Command Processed by: michail | Villains: '/REVIVE'
+[ 246740735] Sending heartbeat to live-internal.fivem.net:30110
+[ 246918891] Sending heartbeat to live-internal.fivem.net:30110
+[ 247098922] Sending heartbeat to live-internal.fivem.net:30110
+[ 247124110] Connecting: michail | Villains
+[ 247126203] Sending heartbeat to live-internal.fivem.net:30110
+[ 247185250] Connecting: [HP-63] Sam J.
+[ 247191188] Sending heartbeat to live-internal.fivem.net:30110
+[ 247236000] Command Processed by: (X 626) M. Walker: '/engine'
+[ 247248563] Command Processed by: (X 626) M. Walker: '/huk'
+[ 247371250] Sending heartbeat to live-internal.fivem.net:30110
+[ 247421938] Received a vouch for [HP-63] Sam J., they have 2 vouches and need 3.
+[ 247422219] Received a vouch for [HP-63] Sam J., they have 3 vouches and need 3.
+[ 247422219] [HP-63] Sam J. is the new arbitrator, with an overwhelming 3 vote/s.
+[ 247422235] Got a late vouch for [HP-63] Sam J. - they're the current arbitrator!
+[ 247426813] Sending heartbeat to live-internal.fivem.net:30110
+[ 247606828] Sending heartbeat to live-internal.fivem.net:30110
+[ 247607328] Sending heartbeat to live-internal.fivem.net:30110
+[ 247617453] Got a late vouch for michail | Villains - they're the current arbitrator!
+[ 247618094] Got a late vouch for michail | Villains - they're the current arbitrator!
+[ 247651250] Connecting: [HP-63] Sam J.
+[ 247652313] Sending heartbeat to live-internal.fivem.net:30110
+[ 247832360] Sending heartbeat to live-internal.fivem.net:30110
+[ 248012391] Sending heartbeat to live-internal.fivem.net:30110
+[ 248192438] Sending heartbeat to live-internal.fivem.net:30110
+[ 248372438] Sending heartbeat to live-internal.fivem.net:30110
+[ 248552469] Sending heartbeat to live-internal.fivem.net:30110
+[ 248597469] : 
+[ 248732500] Sending heartbeat to live-internal.fivem.net:30110
+[ 248855594] Connecting: [HP-61] Kurt S.
+[ 248864875] Sending heartbeat to live-internal.fivem.net:30110
+[ 248983016] Connecting: Enemy Uav
+[ 248984922] Sending heartbeat to live-internal.fivem.net:30110
+[ 249164938] Sending heartbeat to live-internal.fivem.net:30110
+[ 249189672] Sending heartbeat to live-internal.fivem.net:30110
+[ 249369703] Sending heartbeat to live-internal.fivem.net:30110
+[ 249419594] Received a vouch for Enemy Uav, they have 2 vouches and need 3.
+[ 249419938] Received a vouch for Enemy Uav, they have 3 vouches and need 3.
+[ 249419938] Enemy Uav is the new arbitrator, with an overwhelming 3 vote/s.
+[ 249419938] Got a late vouch for Enemy Uav - they're the current arbitrator!
+[ 249423750] Sending heartbeat to live-internal.fivem.net:30110
+[ 249535578] Connecting: Alex C.
+[ 249537328] Sending heartbeat to live-internal.fivem.net:30110
+[ 249554156] Command Processed by: [HP-63] Sam J.: '/leoweapons'
+[ 249717375] Sending heartbeat to live-internal.fivem.net:30110
+[ 249765453] Sending heartbeat to live-internal.fivem.net:30110
+[ 249945469] Sending heartbeat to live-internal.fivem.net:30110
+[ 250125500] Sending heartbeat to live-internal.fivem.net:30110
+[ 250305547] Sending heartbeat to live-internal.fivem.net:30110
+[ 250414235] Command Processed by: [HP-63] Sam J.: '/cuff 73'
+[ 250485563] Sending heartbeat to live-internal.fivem.net:30110
+[ 250665610] Sending heartbeat to live-internal.fivem.net:30110
+[ 250845641] Sending heartbeat to live-internal.fivem.net:30110
+[ 250917531] : 
+[ 250926750] Command Processed by: Enemy Uav: '/emotes'
+[ 251025688] Sending heartbeat to live-internal.fivem.net:30110
+[ 251113485] Command Processed by: Enemy Uav: '/dc'
+[ 251205719] Sending heartbeat to live-internal.fivem.net:30110
+[ 251385735] Sending heartbeat to live-internal.fivem.net:30110
+[ 251565781] Sending heartbeat to live-internal.fivem.net:30110
+[ 251745813] Sending heartbeat to live-internal.fivem.net:30110
+[ 251806125] Command Processed by: [HP-63] Sam J.: '/cblueballs72'
+[ 251925828] Sending heartbeat to live-internal.fivem.net:30110
+[ 252105860] Sending heartbeat to live-internal.fivem.net:30110
+[ 252165891] : 
+[ 252249641] Command Processed by: [HP-63] Sam J.: '/jailblueballs 72 1'
+[ 252270656] Jailing Alex C. for 1 secs - cm entered by Enemy Uav
+[ 252285906] Sending heartbeat to live-internal.fivem.net:30110
+[ 252293563] Jailing Enemy Uav for 1 secs - cm entered by [HP-63] Sam J.
+[ 252374547] Sending heartbeat to live-internal.fivem.net:30110
+[ 252377141] Received a vouch for Alex C., they have 2 vouches and need 2.
+[ 252377141] Alex C. is the new arbitrator, with an overwhelming 2 vote/s.
+[ 252378813] Sending heartbeat to live-internal.fivem.net:30110
+[ 252381469] Sending heartbeat to live-internal.fivem.net:30110
+[ 252561516] Sending heartbeat to live-internal.fivem.net:30110
+[ 252741516] Sending heartbeat to live-internal.fivem.net:30110
+[ 252921547] Sending heartbeat to live-internal.fivem.net:30110
+[ 253101578] Sending heartbeat to live-internal.fivem.net:30110
+[ 253281594] Sending heartbeat to live-internal.fivem.net:30110
+[ 253461641] Sending heartbeat to live-internal.fivem.net:30110
+[ 253641672] Sending heartbeat to live-internal.fivem.net:30110
+[ 253821703] Sending heartbeat to live-internal.fivem.net:30110
+[ 254001750] Sending heartbeat to live-internal.fivem.net:30110
+[ 254181750] Sending heartbeat to live-internal.fivem.net:30110
+[ 254361797] Sending heartbeat to live-internal.fivem.net:30110
+[ 254541828] Sending heartbeat to live-internal.fivem.net:30110
+[ 254721875] Sending heartbeat to live-internal.fivem.net:30110
+[ 254901906] Sending heartbeat to live-internal.fivem.net:30110
+[ 255081906] Sending heartbeat to live-internal.fivem.net:30110
+[ 255261938] Sending heartbeat to live-internal.fivem.net:30110
+[ 255441969] Sending heartbeat to live-internal.fivem.net:30110
+[ 255621969] Sending heartbeat to live-internal.fivem.net:30110
+[ 255802000] Sending heartbeat to live-internal.fivem.net:30110
+[ 255982047] Sending heartbeat to live-internal.fivem.net:30110
+[ 256162047] Sending heartbeat to live-internal.fivem.net:30110
+[ 256342078] Sending heartbeat to live-internal.fivem.net:30110
+[ 256522125] Sending heartbeat to live-internal.fivem.net:30110
+[ 256702172] Sending heartbeat to live-internal.fivem.net:30110
