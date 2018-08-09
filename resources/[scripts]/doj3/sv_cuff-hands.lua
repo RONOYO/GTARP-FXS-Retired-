@@ -1,7 +1,7 @@
 AddEventHandler("chatMessage", function(source, name, message)
 	cm = stringsplit(message, " ")
 
-	if cm[1] == "/cblueballs" then
+	if cm[1] == "/c" then
 		CancelEvent()
 		if tablelength(cm) > 1 then
 			local tPID = tonumber(cm[2])

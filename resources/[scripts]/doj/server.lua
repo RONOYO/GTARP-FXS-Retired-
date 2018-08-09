@@ -1,4 +1,4 @@
-RegisterCommand("dblueballs", function(source, args, rawCommand)
+RegisterCommand("d", function(source, args, rawCommand)
 	if #args == 1 then
 		if GetPlayerName(args[1]) then
 			if args[1] ~= source then

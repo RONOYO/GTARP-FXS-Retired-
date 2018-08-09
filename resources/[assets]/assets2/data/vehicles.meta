@@ -408,7 +408,7 @@
  <Item>
       <modelName>sp4</modelName>
       <txdName>sp4</txdName>
-      <handlingId>police</handlingId>
+      <handlingId>rancherxl</handlingId>
       <gameName>2013 Chevrolet Tahoe</gameName>
       <vehicleMakeName>SASP</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -1221,7 +1221,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>RIOT</audioNameHash>
       <layout>LAYOUT_RIOT_VAN</layout>
       <coverBoundOffsets>RIOT_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_TRUCK</explosionInfo>

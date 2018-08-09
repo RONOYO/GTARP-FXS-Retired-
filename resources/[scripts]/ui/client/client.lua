@@ -65,11 +65,11 @@ Citizen.CreateThread(function()
         
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                            AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                              AOP: Sandy Shores"
         end
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                            AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                              AOP: Sandy Shores"
         end        
         if displayDayOfWeek == true and not IsPedInAnyVehicle(PlayerPedId(), true) then
             CalculateDayOfWeekToDisplay()
@@ -101,11 +101,11 @@ Citizen.CreateThread(function()
         
         if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM   |   AOP: Blaine County"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM   |   AOP: Sandy Shores"
         end
         if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM   |   AOP: Blaine County"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM   |   AOP: Sandy Shores"
         end        
         if displayDayOfWeek == true and IsPedInAnyVehicle(PlayerPedId(), true) then
             CalculateDayOfWeekToDisplay()
@@ -463,4 +463,11 @@ Citizen.CreateThread(function()
             end
         end
     end
+end)
+
+RegisterNetEvent('frfuel:fuelAdded')
+AddEventHandler('frfuel:fuelAdded', function(amount)
+    gallons = amount * 0.264172
+    Wait(500)
+    TriggerEvent("pNotify:SendNotification", {text = "Pumped " .. math.ceil(gallons) .. " gallons", layout = "topRight", timeout = 2000, type = "info", progressBar = false})
 end)
