@@ -65,11 +65,11 @@ Citizen.CreateThread(function()
         
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                            AOP: Blaine County"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                            AOP: Sandy Shores"
         end
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                            AOP: Blaine County"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                            AOP: Sandy Shores"
         end        
         if displayDayOfWeek == true and not IsPedInAnyVehicle(PlayerPedId(), true) then
             CalculateDayOfWeekToDisplay()
