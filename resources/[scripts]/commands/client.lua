@@ -180,12 +180,15 @@ end
 
 
 RegisterCommand("dutyso", function(source, args, rawCommand)
+    Stuff2() 
+end, false)
+
+RegisterCommand("dutysp", function(source, args, rawCommand)
     Stuff() 
 end, false)
 
-
-function Stuff()
-    local model = GetHashKey("s_m_y_hwaycop_01")
+function Stuff2()
+    local model = GetHashKey("s_m_y_sheriff_01")
     RequestModel(model)
     while not HasModelLoaded(model) do
         RequestModel(model)
@@ -213,13 +216,9 @@ function Stuff()
     SetCurrentPedWeapon(ped, GetHashKey("WEAPON_UNARMED"), true)
 end
 
-RegisterCommand("dutysp", function(source, args, rawCommand)
-    Stuff() 
-end, false)
-
 
 function Stuff()
-    local model = GetHashKey("s_m_y_sheriff_01")
+    local model = GetHashKey("s_m_y_hwaycop_01")
     RequestModel(model)
     while not HasModelLoaded(model) do
         RequestModel(model)
