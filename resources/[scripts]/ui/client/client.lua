@@ -65,11 +65,11 @@ Citizen.CreateThread(function()
         
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                              AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM                              AOP: Paleto Bay"
         end
         if displayTime == true and not IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                              AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM                              AOP: Paleto Bay"
         end        
         if displayDayOfWeek == true and not IsPedInAnyVehicle(PlayerPedId(), true) then
             CalculateDayOfWeekToDisplay()
@@ -101,11 +101,11 @@ Citizen.CreateThread(function()
         
         if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() < 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM   |   AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " AM   |   AOP: Paleto Bay"
         end
         if displayTime == true and IsPedInAnyVehicle(PlayerPedId(), true) and GetClockHours() >= 12 then
             CalculateTimeToDisplay()
-            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM   |   AOP: Sandy Shores"
+            timeAndDateString = "" .. hour .. "~w~:~w~" .. minute .. " PM   |   AOP: Paleto Bay"
         end        
         if displayDayOfWeek == true and IsPedInAnyVehicle(PlayerPedId(), true) then
             CalculateDayOfWeekToDisplay()
