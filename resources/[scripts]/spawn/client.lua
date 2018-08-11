@@ -127,8 +127,7 @@ end
                 drawTxt2(0.56, 0.67, 1.0,1.0,0.4, "~b~Commands", 255, 255, 255, 255)
                 drawTxt3(0.54, 0.72, 1.0,1.0,0.4, "•/ooc (out of character chat)\n•/me (visualize a action in chat)", 255, 255, 255, 255)
                 drawTxt3(0.54, 0.78, 1.0,1.0,0.4, "•/help (get help from other players)\n•/911 (a emergency chat to fire,ems, and leo)", 255, 255, 255, 255)
-                drawTxt3(0.54, 0.84, 1.0,1.0,0.4, "•/311 (non-urgent concerns or requesting services)\n•/report (report a player or incident to a staff member)", 255, 255, 255, 255)
-                drawTxt3(0.54, 0.87, 1.0,1.0,0.4, "•/report (report a player or incident to a staff member)", 255, 255, 255, 255)
+                drawTxt3(0.54, 0.84, 1.0,1.0,0.4, "•/311 (non-urgent concerns or requesting services)\n•/duty", 255, 255, 255, 255)
 
                 -- Controls
                 drawTxt2(0.56, 0.96, 1.0,1.0,0.4, "~b~Controls", 255, 255, 255, 255)
@@ -141,8 +140,6 @@ end
                 drawTxt3(1.23, 0.72, 1.0,1.0,0.4, "•HEAD DEVELOPER (Young)\n•DISCORD (~b~discord.gg/qwPHSSN~w~)", 255, 255, 255, 255)
                 drawTxt3(1.23, 0.78, 1.0,1.0,0.4, "•WEBSITE (~b~https://bluelinegaming.net~w~)", 255, 255, 255, 255)
 
-                -- Current News
-                drawTxt2(1.25, 0.96, 1.0,1.0,0.4, "~b~Rules", 255, 255, 255, 255)
 
 
                 if SecurityCamConfig.HideRadar then
