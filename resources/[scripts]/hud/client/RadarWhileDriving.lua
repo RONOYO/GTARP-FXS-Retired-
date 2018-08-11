@@ -41,13 +41,13 @@ Citizen.CreateThread(function()
 				local BackgroundBar = {['R'] = 40, ['G'] = 40, ['B'] = 40, ['A'] = 255, ['L'] = 0}
 				
 				local HealthBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
-				local HealthBar = {['R'] = 96, ['G'] = 159, ['B'] = 80, ['A'] = 255, ['L'] = 2}
+				local HealthBar = {['R'] = 54, ['G'] = 163, ['B'] = 54, ['A'] = 255, ['L'] = 2}
 				
 				local HealthHitBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255}
 				local HealthHitBar = {['R'] = 224, ['G'] = 50, ['B'] = 50, ['A'] = 175}
 				
 				local ArmourBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
-				local ArmourBar = {['R'] = 123, ['G'] = 121, ['B'] = 214, ['A'] = 255, ['L'] = 2}
+				local ArmourBar = {['R'] = 37, ['G'] = 141, ['B'] = 194, ['A'] = 255, ['L'] = 2}
 				
 				local AirBaseBar = {['R'] = 67, ['G'] = 106, ['B'] = 130, ['A'] = 175, ['L'] = 1}
 				local AirBar = {['R'] = 174, ['G'] = 219, ['B'] = 242, ['A'] = 175, ['L'] = 2}
