@@ -45274,3 +45274,1022 @@ ts]/assets5
 [      3250] Started resource cooldown
 [      3266] Started resource connectqueue
 [      3313] Started resource assets0
+[    567234] Sending heartbeat to live-internal.fivem.net:30110
+[    747265] Sending heartbeat to live-internal.fivem.net:30110
+[    835172] Sending heartbeat to live-internal.fivem.net:30110
+[   1015172] Sending heartbeat to live-internal.fivem.net:30110
+[   1047781] Connecting: Young
+[   1048828] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[   1048844] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[   1049984] Sending heartbeat to live-internal.fivem.net:30110
+[   1230031] Sending heartbeat to live-internal.fivem.net:30110
+[   1332015] Connecting: Exilezz
+[   1333062] Queue: Exilezz[steam:11000011a32f1a8] was placed 1/1 in queue
+[   1333062] Queue: Exilezz[steam:11000011a32f1a8] is loading into the server
+[   1334859] Sending heartbeat to live-internal.fivem.net:30110
+[   1514890] Sending heartbeat to live-internal.fivem.net:30110
+[   1543875] Command Processed by: Young: '/revie'
+[   1694922] Sending heartbeat to live-internal.fivem.net:30110
+[   1874953] Sending heartbeat to live-internal.fivem.net:30110
+[   2055000] Sending heartbeat to live-internal.fivem.net:30110
+[   2235031] Sending heartbeat to live-internal.fivem.net:30110
+[   2415031] Sending heartbeat to live-internal.fivem.net:30110
+[   2595078] Sending heartbeat to live-internal.fivem.net:30110
+[   2775078] Sending heartbeat to live-internal.fivem.net:30110
+[   2955094] Sending heartbeat to live-internal.fivem.net:30110
+[   3071297] Connecting: darkjedi23
+[   3072328] Queue: darkjedi23[steam:110000100bb9cf8] was placed 1/1 in queue
+[   3072344] Queue: darkjedi23[steam:110000100bb9cf8] is loading into the server
+[   3074844] Sending heartbeat to live-internal.fivem.net:30110
+[   3079203] Sending heartbeat to live-internal.fivem.net:30110
+[   3105125] Got a late vouch for Exilezz - they're the current arbitrator!
+[   3259250] Sending heartbeat to live-internal.fivem.net:30110
+[   3439281] Sending heartbeat to live-internal.fivem.net:30110
+[   3619281] Sending heartbeat to live-internal.fivem.net:30110
+[   3799297] Sending heartbeat to live-internal.fivem.net:30110
+[   3848640] Connecting: C. Johnson
+[   3849687] Queue: C. Johnson[steam:11000011221715c] was placed 1/1 in queue
+[   3849687] Queue: C. Johnson[steam:11000011221715c] is loading into the server
+[   3853437] Sending heartbeat to live-internal.fivem.net:30110
+[   3857922] Command Processed by: darkjedi23: '/e cop'
+[   3862422] Command Processed by: darkjedi23: '/em cop'
+[   3925640] Sending heartbeat to live-internal.fivem.net:30110
+[   4105672] Sending heartbeat to live-internal.fivem.net:30110
+[   4110781] Connecting: C. Johnson
+[   4111797] Queue: C. Johnson[steam:11000011221715c] was placed 1/1 in queue
+[   4111797] Queue: C. Johnson[steam:11000011221715c] is loading into the server
+[   4113344] Sending heartbeat to live-internal.fivem.net:30110
+[   4117094] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   4117094] stack traceback:
+[   4117094] 	[C]: in function 'string.lower'
+[   4117094] 	sv.lua:4: in upvalue 'handler'
+[   4117094] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   4117094] stack traceback:
+[   4117094] 	[C]: in function 'error'
+[   4117109] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   4117109] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   4117109] : 
+[   4159734] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[   4159734] stack traceback:
+[   4159734] 	[C]: in function 'string.lower'
+[   4159734] 	sv.lua:4: in upvalue 'handler'
+[   4159734] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   4159734] stack traceback:
+[   4159734] 	[C]: in function 'error'
+[   4159734] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[   4159734] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[   4159734] : 
+[   4293390] Sending heartbeat to live-internal.fivem.net:30110
+[   4473406] Sending heartbeat to live-internal.fivem.net:30110
+[   4632562] Sending heartbeat to live-internal.fivem.net:30110
+[   4757562] Sending heartbeat to live-internal.fivem.net:30110
+[   4800703] Sending heartbeat to live-internal.fivem.net:30110
+[   4809172] Connecting: darkjedi23
+[   4810187] Queue: darkjedi23[steam:110000100bb9cf8] was placed 1/1 in queue
+[   4810187] Queue: darkjedi23[steam:110000100bb9cf8] is loading into the server
+[   4811734] Sending heartbeat to live-internal.fivem.net:30110
+[   4991750] Sending heartbeat to live-internal.fivem.net:30110
+[   5171781] Sending heartbeat to live-internal.fivem.net:30110
+[   5262578] Connecting: J.Meyers
+[   5263594] Queue: J.Meyers[steam:11000010c8e7cd2] was placed 1/1 in queue
+[   5263609] Queue: J.Meyers[steam:11000010c8e7cd2] is loading into the server
+[   5265406] Sending heartbeat to live-internal.fivem.net:30110
+[   5411078] Sending heartbeat to live-internal.fivem.net:30110
+[   5543844] Connecting: J.Meyers
+[   5544859] Queue: J.Meyers[steam:11000010c8e7cd2] was placed 1/1 in queue
+[   5544875] Queue: J.Meyers[steam:11000010c8e7cd2] is loading into the server
+[   5545922] Sending heartbeat to live-internal.fivem.net:30110
+[   5657765] Connecting: Young
+[   5658781] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[   5658781] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[   5659937] Sending heartbeat to live-internal.fivem.net:30110
+[   5839937] Sending heartbeat to live-internal.fivem.net:30110
+[   5880656] Stopping resource ui
+[   5880672] Started resource ui
+[   5913703] Stopping resource ui
+[   5915109] Started resource ui
+[   5929062] Stopping resource ui
+[   5934734] Started resource ui
+[   6019969] Sending heartbeat to live-internal.fivem.net:30110
+[   6192390] Command Processed by: darkjedi23: '/so16'
+[   6199984] Sending heartbeat to live-internal.fivem.net:30110
+[   6380015] Sending heartbeat to live-internal.fivem.net:30110
+[   6395797] Command Processed by: darkjedi23: '/ahh i have alt for push to talk maybe i messed it up'
+[   6490719] Found new resource debug in C:/FXS\GTARP-FXS/resources//[dev]/debug
+[   6492922] Started resource debug
+[   6503515] Command Processed by: Young: '/debug'
+[   6560062] Sending heartbeat to live-internal.fivem.net:30110
+[   6665734] Stopping resource debug
+[   6665750] Started resource debug
+[   6740094] Sending heartbeat to live-internal.fivem.net:30110
+[   6819640] Connecting: Exilezz
+[   6820594] Connecting: Enemy Uav
+[   6820656] Queue: Exilezz[steam:11000011a32f1a8] was placed 1/1 in queue
+[   6820656] Queue: Exilezz[steam:11000011a32f1a8] is loading into the server
+[   6821609] Queue: Enemy Uav[steam:11000011a3c277b] was placed 1/1 in queue
+[   6821609] Queue: Enemy Uav[steam:11000011a3c277b] is loading into the server
+[   6822312] Sending heartbeat to live-internal.fivem.net:30110
+[   6831125] Sending heartbeat to live-internal.fivem.net:30110
+[   7000062] Command Processed by: Enemy Uav: '/duty'
+[   7011172] Sending heartbeat to live-internal.fivem.net:30110
+[   7016297] Command Processed by: Exilezz: '/debugg'
+[   7191187] Sending heartbeat to live-internal.fivem.net:30110
+[   7371203] Sending heartbeat to live-internal.fivem.net:30110
+[   7386140] Sending heartbeat to live-internal.fivem.net:30110
+[   7566172] Sending heartbeat to live-internal.fivem.net:30110
+[   7746187] Sending heartbeat to live-internal.fivem.net:30110
+[   7926187] Sending heartbeat to live-internal.fivem.net:30110
+[   7965390] Stopping resource ui
+[   7965390] Started resource ui
+[   7995031] Stopping resource debug
+[   7995047] Started resource debug
+[   8049500] Command Processed by: Young: '/dc'
+[   8058297] Stopping resource debug
+[   8058312] Started resource debug
+[   8106203] Sending heartbeat to live-internal.fivem.net:30110
+[   8158312] Stopping resource ui
+[   8158328] Started resource ui
+[   8286219] Sending heartbeat to live-internal.fivem.net:30110
+[   8314359] Sending heartbeat to live-internal.fivem.net:30110
+[   8494406] Sending heartbeat to live-internal.fivem.net:30110
+[   8557375] Stopping resource ui
+[   8557390] Started resource ui
+[   8640094] Command Processed by: J.Meyers: '/commands'
+[   8640906] Command Processed by: darkjedi23: '/command'
+[   8643828] Command Processed by: darkjedi23: '/commands'
+[   8647734] Command Processed by: darkjedi23: '/com'
+[   8653578] Command Processed by: darkjedi23: '/commands'
+[   8674453] Sending heartbeat to live-internal.fivem.net:30110
+[   8750734] Stopping resource ui
+[   8750734] Started resource ui
+[   8777562] Sending heartbeat to live-internal.fivem.net:30110
+[   8794859] Stopping resource ui
+[   8794859] Started resource ui
+[   8957594] Sending heartbeat to live-internal.fivem.net:30110
+[   9127609] Connecting: Caminus
+[   9128609] Queue: Caminus[steam:110000101f81f51] was placed 1/1 in queue
+[   9128609] Queue: Caminus[steam:110000101f81f51] is loading into the server
+[   9136890] Sending heartbeat to live-internal.fivem.net:30110
+[   9316922] Sending heartbeat to live-internal.fivem.net:30110
+[   9496937] Sending heartbeat to live-internal.fivem.net:30110
+[   9676937] Sending heartbeat to live-internal.fivem.net:30110
+[   9856969] Sending heartbeat to live-internal.fivem.net:30110
+[   9904156] Command Processed by: darkjedi23: '/duty so'
+[  10037015] Sending heartbeat to live-internal.fivem.net:30110
+[  10191734] Command Processed by: darkjedi23: '/gps'
+[  10191781] Command Processed by: Young: '/pv'
+[  10196515] Command Processed by: Young: '/pv'
+[  10217062] Sending heartbeat to live-internal.fivem.net:30110
+[  10329375] Stopping resource ui
+[  10329375] Started resource ui
+[  10378047] Stopping resource ui
+[  10378047] Started resource ui
+[  10397078] Sending heartbeat to live-internal.fivem.net:30110
+[  10577109] Sending heartbeat to live-internal.fivem.net:30110
+[  10757156] Sending heartbeat to live-internal.fivem.net:30110
+[  10937187] Sending heartbeat to live-internal.fivem.net:30110
+[  11117234] Sending heartbeat to live-internal.fivem.net:30110
+[  11297250] Sending heartbeat to live-internal.fivem.net:30110
+[  11477312] Sending heartbeat to live-internal.fivem.net:30110
+[  11657359] Sending heartbeat to live-internal.fivem.net:30110
+[  11837359] Sending heartbeat to live-internal.fivem.net:30110
+[  11959953] Sending heartbeat to live-internal.fivem.net:30110
+[  12034265] Command Processed by: darkjedi23: '/cuff 14'
+[  12139984] Sending heartbeat to live-internal.fivem.net:30110
+[  12232531] Command Processed by: Caminus: '/smoke'
+[  12320031] Sending heartbeat to live-internal.fivem.net:30110
+[  12500047] Sending heartbeat to live-internal.fivem.net:30110
+[  12680062] Sending heartbeat to live-internal.fivem.net:30110
+[  12860062] Sending heartbeat to live-internal.fivem.net:30110
+[  13040109] Sending heartbeat to live-internal.fivem.net:30110
+[  13220125] Sending heartbeat to live-internal.fivem.net:30110
+[  13400156] Sending heartbeat to live-internal.fivem.net:30110
+[  13580203] Sending heartbeat to live-internal.fivem.net:30110
+[  13760234] Sending heartbeat to live-internal.fivem.net:30110
+[  13873078] Sending heartbeat to live-internal.fivem.net:30110
+[  13995750] Sending heartbeat to live-internal.fivem.net:30110
+[  14175781] Sending heartbeat to live-internal.fivem.net:30110
+[  14355828] Sending heartbeat to live-internal.fivem.net:30110
+[  14535875] Sending heartbeat to live-internal.fivem.net:30110
+[  14715875] Sending heartbeat to live-internal.fivem.net:30110
+[  14895922] Sending heartbeat to live-internal.fivem.net:30110
+[  15075937] Sending heartbeat to live-internal.fivem.net:30110
+[  15255953] Sending heartbeat to live-internal.fivem.net:30110
+[  15435953] Sending heartbeat to live-internal.fivem.net:30110
+[  15615969] Sending heartbeat to live-internal.fivem.net:30110
+[  15796000] Sending heartbeat to live-internal.fivem.net:30110
+[  15976047] Sending heartbeat to live-internal.fivem.net:30110
+[  16156078] Sending heartbeat to live-internal.fivem.net:30110
+[  16336125] Sending heartbeat to live-internal.fivem.net:30110
+[  16516140] Sending heartbeat to live-internal.fivem.net:30110
+[  16696187] Sending heartbeat to live-internal.fivem.net:30110
+[  16876203] Sending heartbeat to live-internal.fivem.net:30110
+[  17056265] Sending heartbeat to live-internal.fivem.net:30110
+[  17236312] Sending heartbeat to live-internal.fivem.net:30110
+[  17416344] Sending heartbeat to live-internal.fivem.net:30110
+[  17596375] Sending heartbeat to live-internal.fivem.net:30110
+[  17776390] Sending heartbeat to live-internal.fivem.net:30110
+[  17956422] Sending heartbeat to live-internal.fivem.net:30110
+[  18136437] Sending heartbeat to live-internal.fivem.net:30110
+[  18316453] Sending heartbeat to live-internal.fivem.net:30110
+[  18496469] Sending heartbeat to live-internal.fivem.net:30110
+[  18676500] Sending heartbeat to live-internal.fivem.net:30110
+[  18856547] Sending heartbeat to live-internal.fivem.net:30110
+[  19036578] Sending heartbeat to live-internal.fivem.net:30110
+[  19216609] Sending heartbeat to live-internal.fivem.net:30110
+[  19396640] Sending heartbeat to live-internal.fivem.net:30110
+[  19576672] Sending heartbeat to live-internal.fivem.net:30110
+[  19756687] Sending heartbeat to live-internal.fivem.net:30110
+[  19936734] Sending heartbeat to live-internal.fivem.net:30110
+[  20116781] Sending heartbeat to live-internal.fivem.net:30110
+[  20296828] Sending heartbeat to live-internal.fivem.net:30110
+[  20476859] Sending heartbeat to live-internal.fivem.net:30110
+[  20656906] Sending heartbeat to live-internal.fivem.net:30110
+[  20836922] Sending heartbeat to live-internal.fivem.net:30110
+[  21016922] Sending heartbeat to live-internal.fivem.net:30110
+[  21196922] Sending heartbeat to live-internal.fivem.net:30110
+[  21376984] Sending heartbeat to live-internal.fivem.net:30110
+[  21557015] Sending heartbeat to live-internal.fivem.net:30110
+[  21737031] Sending heartbeat to live-internal.fivem.net:30110
+[  21917047] Sending heartbeat to live-internal.fivem.net:30110
+[  22097094] Sending heartbeat to live-internal.fivem.net:30110
+[  22277109] Sending heartbeat to live-internal.fivem.net:30110
+[  22457125] Sending heartbeat to live-internal.fivem.net:30110
+[  22637140] Sending heartbeat to live-internal.fivem.net:30110
+[  22817187] Sending heartbeat to live-internal.fivem.net:30110
+[  22997234] Sending heartbeat to live-internal.fivem.net:30110
+[  23113078] Connecting: Snareo
+[  23114109] Queue: Snareo[steam:11000010a1118ac] was placed 1/1 in queue
+[  23114109] Queue: Snareo[steam:11000010a1118ac] is loading into the server
+[  23124094] Sending heartbeat to live-internal.fivem.net:30110
+[  23191140] Command Processed by: Snareo: '/duty sop'
+[  23199797] Command Processed by: Snareo: '/dutysop'
+[  23235047] Connecting: Young
+[  23236078] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[  23236078] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[  23242750] Sending heartbeat to live-internal.fivem.net:30110
+[  23323484] Connecting: The Greatest
+[  23324531] Queue: The Greatest[steam:11000010cc5e28a] was placed 1/1 in queue
+[  23324547] Queue: The Greatest[steam:11000010cc5e28a] is loading into the server
+[  23327031] Sending heartbeat to live-internal.fivem.net:30110
+[  23421000] Command Processed by: Snareo: '/aspawn'
+[  23507047] Sending heartbeat to live-internal.fivem.net:30110
+[  23640953] Command Processed by: Young: '/reviv'
+[  23687078] Sending heartbeat to live-internal.fivem.net:30110
+[  23779828] Command Processed by: The Greatest: '/aspawn'
+[  23842453] Command Processed by: The Greatest: '/reviv'
+[  23867125] Sending heartbeat to live-internal.fivem.net:30110
+[  24047125] Sending heartbeat to live-internal.fivem.net:30110
+[  24081984] Command Processed by: Young: '/evive'
+[  24115890] Command Processed by: The Greatest: '/revi'
+[  24184484] Command Processed by: The Greatest: '/reviev'
+[  24227172] Sending heartbeat to live-internal.fivem.net:30110
+[  24241937] Command Processed by: Young: '/reviev'
+[  24249094] Command Processed by: Young: '/reviv'
+[  24371984] Command Processed by: The Greatest: '/REVIVE'
+[  24374187] Command Processed by: The Greatest: '/REVIVE'
+[  24407203] Sending heartbeat to live-internal.fivem.net:30110
+[  24506328] Command Processed by: Young: '/revove'
+[  24553609] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  24553609] stack traceback:
+[  24553609] 	[C]: in function 'string.lower'
+[  24553609] 	sv.lua:4: in upvalue 'handler'
+[  24553609] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  24553609] stack traceback:
+[  24553609] 	[C]: in function 'error'
+[  24553609] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  24553609] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  24553609] : 
+[  24587234] Sending heartbeat to live-internal.fivem.net:30110
+[  24767250] Sending heartbeat to live-internal.fivem.net:30110
+[  24768703] Sending heartbeat to live-internal.fivem.net:30110
+[  24778984] Got a late vouch for Young - they're the current arbitrator!
+[  24779297] Got a late vouch for Young - they're the current arbitrator!
+[  24948750] Sending heartbeat to live-internal.fivem.net:30110
+[  25128797] Sending heartbeat to live-internal.fivem.net:30110
+[  25308797] Sending heartbeat to live-internal.fivem.net:30110
+[  25488844] Sending heartbeat to live-internal.fivem.net:30110
+[  25524640] Sending heartbeat to live-internal.fivem.net:30110
+[  25549156] Connecting: Young
+[  25550172] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[  25550172] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[  25551922] Sending heartbeat to live-internal.fivem.net:30110
+[  25731937] Sending heartbeat to live-internal.fivem.net:30110
+[  25911953] Sending heartbeat to live-internal.fivem.net:30110
+[  26092000] Sending heartbeat to live-internal.fivem.net:30110
+[  26186109] Sending heartbeat to live-internal.fivem.net:30110
+[  26222140] Connecting: Young
+[  26223156] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[  26223156] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[  26224203] Sending heartbeat to live-internal.fivem.net:30110
+[  26404219] Sending heartbeat to live-internal.fivem.net:30110
+[  26584250] Sending heartbeat to live-internal.fivem.net:30110
+[  26641578] Connecting: dcgaming53
+[  26642609] Queue: dcgaming53[steam:11000010cb1929e] was placed 1/1 in queue
+[  26642609] Queue: dcgaming53[steam:11000010cb1929e] is loading into the server
+[  26649219] Sending heartbeat to live-internal.fivem.net:30110
+[  26829250] Sending heartbeat to live-internal.fivem.net:30110
+[  26878297] Sending heartbeat to live-internal.fivem.net:30110
+[  27058344] Sending heartbeat to live-internal.fivem.net:30110
+[  27238375] Sending heartbeat to live-internal.fivem.net:30110
+[  27265062] Sending heartbeat to live-internal.fivem.net:30110
+[  27401672] Got a late vouch for dcgaming53 - they're the current arbitrator!
+[  27413000] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  27413000] stack traceback:
+[  27413000] 	[C]: in function 'string.lower'
+[  27413000] 	sv.lua:4: in upvalue 'handler'
+[  27413000] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  27413000] stack traceback:
+[  27413000] 	[C]: in function 'error'
+[  27413000] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  27413000] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  27413000] : 
+[  27427640] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  27427640] stack traceback:
+[  27427640] 	[C]: in function 'string.lower'
+[  27427640] 	sv.lua:4: in upvalue 'handler'
+[  27427640] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  27427640] stack traceback:
+[  27427640] 	[C]: in function 'error'
+[  27427640] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  27427640] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  27427656] : 
+[  27445062] Sending heartbeat to live-internal.fivem.net:30110
+[  27625125] Sending heartbeat to live-internal.fivem.net:30110
+[  27805156] Sending heartbeat to live-internal.fivem.net:30110
+[  27985187] Sending heartbeat to live-internal.fivem.net:30110
+[  28165219] Sending heartbeat to live-internal.fivem.net:30110
+[  28345250] Sending heartbeat to live-internal.fivem.net:30110
+[  28525265] Sending heartbeat to live-internal.fivem.net:30110
+[  28705297] Sending heartbeat to live-internal.fivem.net:30110
+[  28885297] Sending heartbeat to live-internal.fivem.net:30110
+[  29065312] Sending heartbeat to live-internal.fivem.net:30110
+[  29245359] Sending heartbeat to live-internal.fivem.net:30110
+[  29425390] Sending heartbeat to live-internal.fivem.net:30110
+[  29605453] Sending heartbeat to live-internal.fivem.net:30110
+[  29785469] Sending heartbeat to live-internal.fivem.net:30110
+[  29912640] Connecting: Snareo
+[  29913640] Queue: Snareo[steam:11000010a1118ac] was placed 1/1 in queue
+[  29913656] Queue: Snareo[steam:11000010a1118ac] is loading into the server
+[  29919719] Sending heartbeat to live-internal.fivem.net:30110
+[  30099734] Sending heartbeat to live-internal.fivem.net:30110
+[  30131890] Connecting: Yokai.LogicBomb
+[  30132906] Queue: Yokai.LogicBomb[steam:11000010e3912d3] was placed 1/1 in queue
+[  30132906] Queue: Yokai.LogicBomb[steam:11000010e3912d3] is loading into the server
+[  30141531] Sending heartbeat to live-internal.fivem.net:30110
+[  30214187] Queue: Snareo[steam:11000010a1118ac] was removed from the connecting queue because they timed out
+[  30254953] Sending heartbeat to live-internal.fivem.net:30110
+[  30303719] Connecting: Yokai.LogicBomb
+[  30304765] Queue: Yokai.LogicBomb[steam:11000010e3912d3] was placed 1/1 in queue
+[  30304765] Queue: Yokai.LogicBomb[steam:11000010e3912d3] is loading into the server
+[  30306265] Sending heartbeat to live-internal.fivem.net:30110
+[  30486297] Sending heartbeat to live-internal.fivem.net:30110
+[  30666312] Sending heartbeat to live-internal.fivem.net:30110
+[  30846328] Sending heartbeat to live-internal.fivem.net:30110
+[  31026344] Sending heartbeat to live-internal.fivem.net:30110
+[  31206390] Sending heartbeat to live-internal.fivem.net:30110
+[  31386437] Sending heartbeat to live-internal.fivem.net:30110
+[  31566453] Sending heartbeat to live-internal.fivem.net:30110
+[  31746484] Sending heartbeat to live-internal.fivem.net:30110
+[  31926515] Sending heartbeat to live-internal.fivem.net:30110
+[  32106515] Sending heartbeat to live-internal.fivem.net:30110
+[  32286547] Sending heartbeat to live-internal.fivem.net:30110
+[  32290906] Sending heartbeat to live-internal.fivem.net:30110
+[  32470953] Sending heartbeat to live-internal.fivem.net:30110
+[  32530531] Sending heartbeat to live-internal.fivem.net:30110
+[  32710578] Sending heartbeat to live-internal.fivem.net:30110
+[  32890640] Sending heartbeat to live-internal.fivem.net:30110
+[  33070656] Sending heartbeat to live-internal.fivem.net:30110
+[  33250703] Sending heartbeat to live-internal.fivem.net:30110
+[  33430719] Sending heartbeat to live-internal.fivem.net:30110
+[  33610750] Sending heartbeat to live-internal.fivem.net:30110
+[  33790797] Sending heartbeat to live-internal.fivem.net:30110
+[  33970812] Sending heartbeat to live-internal.fivem.net:30110
+[  34150844] Sending heartbeat to live-internal.fivem.net:30110
+[  34330890] Sending heartbeat to live-internal.fivem.net:30110
+[  34510890] Sending heartbeat to live-internal.fivem.net:30110
+[  34690937] Sending heartbeat to live-internal.fivem.net:30110
+[  34870984] Sending heartbeat to live-internal.fivem.net:30110
+[  35051000] Sending heartbeat to live-internal.fivem.net:30110
+[  35231000] Sending heartbeat to live-internal.fivem.net:30110
+[  35411047] Sending heartbeat to live-internal.fivem.net:30110
+[  35591094] Sending heartbeat to live-internal.fivem.net:30110
+[  35771140] Sending heartbeat to live-internal.fivem.net:30110
+[  35951187] Sending heartbeat to live-internal.fivem.net:30110
+[  36131234] Sending heartbeat to live-internal.fivem.net:30110
+[  36311265] Sending heartbeat to live-internal.fivem.net:30110
+[  36491297] Sending heartbeat to live-internal.fivem.net:30110
+[  36671344] Sending heartbeat to live-internal.fivem.net:30110
+[  36851359] Sending heartbeat to live-internal.fivem.net:30110
+[  37031406] Sending heartbeat to live-internal.fivem.net:30110
+[  37211453] Sending heartbeat to live-internal.fivem.net:30110
+[  37391453] Sending heartbeat to live-internal.fivem.net:30110
+[  37571500] Sending heartbeat to live-internal.fivem.net:30110
+[  37751547] Sending heartbeat to live-internal.fivem.net:30110
+[  37931594] Sending heartbeat to live-internal.fivem.net:30110
+[  38111625] Sending heartbeat to live-internal.fivem.net:30110
+[  38291640] Sending heartbeat to live-internal.fivem.net:30110
+[  38471656] Sending heartbeat to live-internal.fivem.net:30110
+[  38651656] Sending heartbeat to live-internal.fivem.net:30110
+[  38798078] Connecting: C. Johnson
+[  38799094] Queue: C. Johnson[steam:11000011221715c] was placed 1/1 in queue
+[  38799109] Queue: C. Johnson[steam:11000011221715c] is loading into the server
+[  38802515] Sending heartbeat to live-internal.fivem.net:30110
+[  38908219] Sending heartbeat to live-internal.fivem.net:30110
+[  39088265] Sending heartbeat to live-internal.fivem.net:30110
+[  39268312] Sending heartbeat to live-internal.fivem.net:30110
+[  39448344] Sending heartbeat to live-internal.fivem.net:30110
+[  39628390] Sending heartbeat to live-internal.fivem.net:30110
+[  39808406] Sending heartbeat to live-internal.fivem.net:30110
+[  39988422] Sending heartbeat to live-internal.fivem.net:30110
+[  40168453] Sending heartbeat to live-internal.fivem.net:30110
+[  40348484] Sending heartbeat to live-internal.fivem.net:30110
+[  40528484] Sending heartbeat to live-internal.fivem.net:30110
+[  40708531] Sending heartbeat to live-internal.fivem.net:30110
+[  40888578] Sending heartbeat to live-internal.fivem.net:30110
+[  41068609] Sending heartbeat to live-internal.fivem.net:30110
+[  41248609] Sending heartbeat to live-internal.fivem.net:30110
+[  41428640] Sending heartbeat to live-internal.fivem.net:30110
+[  41608703] Sending heartbeat to live-internal.fivem.net:30110
+[  41788750] Sending heartbeat to live-internal.fivem.net:30110
+[  41968781] Sending heartbeat to live-internal.fivem.net:30110
+[  42148797] Sending heartbeat to live-internal.fivem.net:30110
+[  42328812] Sending heartbeat to live-internal.fivem.net:30110
+[  42508844] Sending heartbeat to live-internal.fivem.net:30110
+[  42688844] Sending heartbeat to live-internal.fivem.net:30110
+[  42868859] Sending heartbeat to live-internal.fivem.net:30110
+[  43048890] Sending heartbeat to live-internal.fivem.net:30110
+[  43228922] Sending heartbeat to live-internal.fivem.net:30110
+[  43408922] Sending heartbeat to live-internal.fivem.net:30110
+[  43588937] Sending heartbeat to live-internal.fivem.net:30110
+[  43768969] Sending heartbeat to live-internal.fivem.net:30110
+[  43949015] Sending heartbeat to live-internal.fivem.net:30110
+[  44129015] Sending heartbeat to live-internal.fivem.net:30110
+[  44309031] Sending heartbeat to live-internal.fivem.net:30110
+[  44489078] Sending heartbeat to live-internal.fivem.net:30110
+[  44669109] Sending heartbeat to live-internal.fivem.net:30110
+[  44849140] Sending heartbeat to live-internal.fivem.net:30110
+[  45029187] Sending heartbeat to live-internal.fivem.net:30110
+[  45209219] Sending heartbeat to live-internal.fivem.net:30110
+[  45389250] Sending heartbeat to live-internal.fivem.net:30110
+[  45569297] Sending heartbeat to live-internal.fivem.net:30110
+[  45749328] Sending heartbeat to live-internal.fivem.net:30110
+[  45929344] Sending heartbeat to live-internal.fivem.net:30110
+[  46109375] Sending heartbeat to live-internal.fivem.net:30110
+[  46289390] Sending heartbeat to live-internal.fivem.net:30110
+[  46469422] Sending heartbeat to live-internal.fivem.net:30110
+[  46649437] Sending heartbeat to live-internal.fivem.net:30110
+[  46829469] Sending heartbeat to live-internal.fivem.net:30110
+[  47009531] Sending heartbeat to live-internal.fivem.net:30110
+[  47189562] Sending heartbeat to live-internal.fivem.net:30110
+[  47369609] Sending heartbeat to live-internal.fivem.net:30110
+[  47549656] Sending heartbeat to live-internal.fivem.net:30110
+[  47729687] Sending heartbeat to live-internal.fivem.net:30110
+[  47909719] Sending heartbeat to live-internal.fivem.net:30110
+[  48089734] Sending heartbeat to live-internal.fivem.net:30110
+[  48269765] Sending heartbeat to live-internal.fivem.net:30110
+[  48449765] Sending heartbeat to live-internal.fivem.net:30110
+[  48629828] Sending heartbeat to live-internal.fivem.net:30110
+[  48809844] Sending heartbeat to live-internal.fivem.net:30110
+[  48989844] Sending heartbeat to live-internal.fivem.net:30110
+[  49169859] Sending heartbeat to live-internal.fivem.net:30110
+[  49349859] Sending heartbeat to live-internal.fivem.net:30110
+[  49529875] Sending heartbeat to live-internal.fivem.net:30110
+[  49709875] Sending heartbeat to live-internal.fivem.net:30110
+[  49889906] Sending heartbeat to live-internal.fivem.net:30110
+[  50069953] Sending heartbeat to live-internal.fivem.net:30110
+[  50250000] Sending heartbeat to live-internal.fivem.net:30110
+[  50430047] Sending heartbeat to live-internal.fivem.net:30110
+[  50610078] Sending heartbeat to live-internal.fivem.net:30110
+[  50790109] Sending heartbeat to live-internal.fivem.net:30110
+[  50970125] Sending heartbeat to live-internal.fivem.net:30110
+[  51150187] Sending heartbeat to live-internal.fivem.net:30110
+[  51330187] Sending heartbeat to live-internal.fivem.net:30110
+[  51510203] Sending heartbeat to live-internal.fivem.net:30110
+[  51690219] Sending heartbeat to live-internal.fivem.net:30110
+[  51870234] Sending heartbeat to live-internal.fivem.net:30110
+[  52050265] Sending heartbeat to live-internal.fivem.net:30110
+[  52230281] Sending heartbeat to live-internal.fivem.net:30110
+[  52410281] Sending heartbeat to live-internal.fivem.net:30110
+[  52590328] Sending heartbeat to live-internal.fivem.net:30110
+[  52770344] Sending heartbeat to live-internal.fivem.net:30110
+[  52950390] Sending heartbeat to live-internal.fivem.net:30110
+[  53130437] Sending heartbeat to live-internal.fivem.net:30110
+[  53310453] Sending heartbeat to live-internal.fivem.net:30110
+[  53490500] Sending heartbeat to live-internal.fivem.net:30110
+[  53670515] Sending heartbeat to live-internal.fivem.net:30110
+[  53850562] Sending heartbeat to live-internal.fivem.net:30110
+[  53977672] Connecting: Xan
+[  53978719] Queue: Xan[steam:11000011617b452] was placed 1/1 in queue
+[  53978719] Queue: Xan[steam:11000011617b452] is loading into the server
+[  53979828] Sending heartbeat to live-internal.fivem.net:30110
+[  54111594] Connecting: Vespura
+[  54112625] Queue: Vespura[steam:110000105959047] was placed 1/1 in queue
+[  54112625] Queue: Vespura[steam:110000105959047] is loading into the server
+[  54122281] Sending heartbeat to live-internal.fivem.net:30110
+[  54201000] Sending heartbeat to live-internal.fivem.net:30110
+[  54381015] Sending heartbeat to live-internal.fivem.net:30110
+[  54561047] Sending heartbeat to live-internal.fivem.net:30110
+[  54741047] Sending heartbeat to live-internal.fivem.net:30110
+[  54885422] Got a late vouch for Vespura - they're the current arbitrator!
+[  54906750] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  54906750] stack traceback:
+[  54906750] 	[C]: in function 'string.lower'
+[  54906750] 	sv.lua:4: in upvalue 'handler'
+[  54906750] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  54906750] stack traceback:
+[  54906750] 	[C]: in function 'error'
+[  54906750] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  54906750] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  54906750] : 
+[  54911359] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  54911359] stack traceback:
+[  54911359] 	[C]: in function 'string.lower'
+[  54911359] 	sv.lua:4: in upvalue 'handler'
+[  54911359] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  54911359] stack traceback:
+[  54911359] 	[C]: in function 'error'
+[  54911359] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  54911359] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  54911359] : 
+[  54921062] Sending heartbeat to live-internal.fivem.net:30110
+[  54925515] Command Processed by: Vespura: '/msg'
+[  54932187] Command Processed by: Vespura: '/msg wtf'
+[  54940078] Command Processed by: Vespura: '/what is this?'
+[  54947578] Connecting: S.Friendly
+[  54948594] Queue: S.Friendly[steam:110000134ee1129] was placed 1/1 in queue
+[  54948609] Queue: S.Friendly[steam:110000134ee1129] is loading into the server
+[  54958734] Sending heartbeat to live-internal.fivem.net:30110
+[  55042344] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55042344] stack traceback:
+[  55042344] 	[C]: in function 'string.lower'
+[  55042344] 	sv.lua:4: in upvalue 'handler'
+[  55042344] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55042344] stack traceback:
+[  55042344] 	[C]: in function 'error'
+[  55042344] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55042344] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55042344] : 
+[  55054797] Command Processed by: Vespura: '/discord'
+[  55055187] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55055187] stack traceback:
+[  55055187] 	[C]: in function 'string.lower'
+[  55055187] 	sv.lua:4: in upvalue 'handler'
+[  55055187] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55055187] stack traceback:
+[  55055187] 	[C]: in function 'error'
+[  55055187] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55055187] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55055187] : 
+[  55072640] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55072640] stack traceback:
+[  55072640] 	[C]: in function 'string.lower'
+[  55072640] 	sv.lua:4: in upvalue 'handler'
+[  55072640] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55072640] stack traceback:
+[  55072640] 	[C]: in function 'error'
+[  55072640] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55072640] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55072640] : 
+[  55096797] Command Processed by: Vespura: '/heal'
+[  55138765] Sending heartbeat to live-internal.fivem.net:30110
+[  55164687] Sending heartbeat to live-internal.fivem.net:30110
+[  55182922] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55182922] stack traceback:
+[  55182922] 	[C]: in function 'string.lower'
+[  55182922] 	sv.lua:4: in upvalue 'handler'
+[  55182922] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55182922] stack traceback:
+[  55182922] 	[C]: in function 'error'
+[  55182922] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55182922] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55182922] : 
+[  55188328] Command Processed by: S.Friendly: '/oocis there custom police cars'
+[  55279297] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55279297] stack traceback:
+[  55279297] 	[C]: in function 'string.lower'
+[  55279297] 	sv.lua:4: in upvalue 'handler'
+[  55279297] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55279297] stack traceback:
+[  55279297] 	[C]: in function 'error'
+[  55279297] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55279297] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55279297] : 
+[  55304750] Connecting: Vespura
+[  55305781] Queue: Vespura[steam:110000105959047] was placed 1/1 in queue
+[  55305781] Queue: Vespura[steam:110000105959047] is loading into the server
+[  55307375] Sending heartbeat to live-internal.fivem.net:30110
+[  55313828] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55313828] stack traceback:
+[  55313828] 	[C]: in function 'string.lower'
+[  55313828] 	sv.lua:4: in upvalue 'handler'
+[  55313828] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55313828] stack traceback:
+[  55313828] 	[C]: in function 'error'
+[  55313828] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55313828] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55313828] : 
+[  55324250] Connecting: Xan
+[  55325265] Queue: Xan[steam:11000011617b452] was placed 1/1 in queue
+[  55325281] Queue: Xan[steam:11000011617b452] is loading into the server
+[  55325875] Sending heartbeat to live-internal.fivem.net:30110
+[  55341359] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  55341359] stack traceback:
+[  55341359] 	[C]: in function 'string.lower'
+[  55341359] 	sv.lua:4: in upvalue 'handler'
+[  55341359] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  55341359] stack traceback:
+[  55341359] 	[C]: in function 'error'
+[  55341359] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  55341359] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  55341359] : 
+[  55422562] Sending heartbeat to live-internal.fivem.net:30110
+[  55602578] Sending heartbeat to live-internal.fivem.net:30110
+[  55782594] Sending heartbeat to live-internal.fivem.net:30110
+[  55916609] Command Processed by: S.Friendly: '/ondity'
+[  55920172] Command Processed by: S.Friendly: '/onduty'
+[  55962625] Sending heartbeat to live-internal.fivem.net:30110
+[  56093656] Command Processed by: S.Friendly: '/leo'
+[  56142672] Sending heartbeat to live-internal.fivem.net:30110
+[  56322687] Sending heartbeat to live-internal.fivem.net:30110
+[  56502703] Sending heartbeat to live-internal.fivem.net:30110
+[  56682750] Sending heartbeat to live-internal.fivem.net:30110
+[  56729390] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  56729390] stack traceback:
+[  56729390] 	[C]: in function 'string.lower'
+[  56729390] 	sv.lua:4: in upvalue 'handler'
+[  56729390] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  56729390] stack traceback:
+[  56729390] 	[C]: in function 'error'
+[  56729390] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  56729390] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  56729390] : 
+[  56828953] Command Processed by: S.Friendly: '/dashcam'
+[  56862781] Sending heartbeat to live-internal.fivem.net:30110
+[  56882953] Sending heartbeat to live-internal.fivem.net:30110
+[  57063000] Sending heartbeat to live-internal.fivem.net:30110
+[  57243000] Sending heartbeat to live-internal.fivem.net:30110
+[  57423031] Sending heartbeat to live-internal.fivem.net:30110
+[  57603047] Sending heartbeat to live-internal.fivem.net:30110
+[  57783062] Sending heartbeat to live-internal.fivem.net:30110
+[  57963078] Sending heartbeat to live-internal.fivem.net:30110
+[  58101703] Command Processed by: S.Friendly: '/die'
+[  58143109] Sending heartbeat to live-internal.fivem.net:30110
+[  58323109] Sending heartbeat to live-internal.fivem.net:30110
+[  58503156] Sending heartbeat to live-internal.fivem.net:30110
+[  58683172] Sending heartbeat to live-internal.fivem.net:30110
+[  58863203] Sending heartbeat to live-internal.fivem.net:30110
+[  59043203] Sending heartbeat to live-internal.fivem.net:30110
+[  59097609] Sending heartbeat to live-internal.fivem.net:30110
+[  59277656] Sending heartbeat to live-internal.fivem.net:30110
+[  59457703] Sending heartbeat to live-internal.fivem.net:30110
+[  59637750] Sending heartbeat to live-internal.fivem.net:30110
+[  59817765] Sending heartbeat to live-internal.fivem.net:30110
+[  59997765] Sending heartbeat to live-internal.fivem.net:30110
+[  60177797] Sending heartbeat to live-internal.fivem.net:30110
+[  60357859] Sending heartbeat to live-internal.fivem.net:30110
+[  60537890] Sending heartbeat to live-internal.fivem.net:30110
+[  60717937] Sending heartbeat to live-internal.fivem.net:30110
+[  60897969] Sending heartbeat to live-internal.fivem.net:30110
+[  61078015] Sending heartbeat to live-internal.fivem.net:30110
+[  61258047] Sending heartbeat to live-internal.fivem.net:30110
+[  61438094] Sending heartbeat to live-internal.fivem.net:30110
+[  61618140] Sending heartbeat to live-internal.fivem.net:30110
+[  61798156] Sending heartbeat to live-internal.fivem.net:30110
+[  61978187] Sending heartbeat to live-internal.fivem.net:30110
+[  62158203] Sending heartbeat to live-internal.fivem.net:30110
+[  62338234] Sending heartbeat to live-internal.fivem.net:30110
+[  62518250] Sending heartbeat to live-internal.fivem.net:30110
+[  62698281] Sending heartbeat to live-internal.fivem.net:30110
+[  62878281] Sending heartbeat to live-internal.fivem.net:30110
+[  63058328] Sending heartbeat to live-internal.fivem.net:30110
+[  63238375] Sending heartbeat to live-internal.fivem.net:30110
+[  63418422] Sending heartbeat to live-internal.fivem.net:30110
+[  63598453] Sending heartbeat to live-internal.fivem.net:30110
+[  63778500] Sending heartbeat to live-internal.fivem.net:30110
+[  63958515] Sending heartbeat to live-internal.fivem.net:30110
+[  64138531] Sending heartbeat to live-internal.fivem.net:30110
+[  64318547] Sending heartbeat to live-internal.fivem.net:30110
+[  64498562] Sending heartbeat to live-internal.fivem.net:30110
+[  64678594] Sending heartbeat to live-internal.fivem.net:30110
+[  64858625] Sending heartbeat to live-internal.fivem.net:30110
+[  65038672] Sending heartbeat to live-internal.fivem.net:30110
+[  65218719] Sending heartbeat to live-internal.fivem.net:30110
+[  65398734] Sending heartbeat to live-internal.fivem.net:30110
+[  65578734] Sending heartbeat to live-internal.fivem.net:30110
+[  65758765] Sending heartbeat to live-internal.fivem.net:30110
+[  65938781] Sending heartbeat to live-internal.fivem.net:30110
+[  66118797] Sending heartbeat to live-internal.fivem.net:30110
+[  66298828] Sending heartbeat to live-internal.fivem.net:30110
+[  66478859] Sending heartbeat to live-internal.fivem.net:30110
+[  66573000] Connecting: C. Johnson
+[  66574000] Queue: C. Johnson[steam:11000011221715c] was placed 1/1 in queue
+[  66574015] Queue: C. Johnson[steam:11000011221715c] is loading into the server
+[  66577515] Sending heartbeat to live-internal.fivem.net:30110
+[  66757547] Sending heartbeat to live-internal.fivem.net:30110
+[  66810578] Connecting: yolomofo24
+[  66811609] Queue: yolomofo24[steam:11000010b5cc522] was placed 1/1 in queue
+[  66811609] Queue: yolomofo24[steam:11000010b5cc522] is loading into the server
+[  66816719] Sending heartbeat to live-internal.fivem.net:30110
+[  66835797] Connecting: [HP-20] Sam Johansen
+[  66836828] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] was placed 1/1 in queue
+[  66836828] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] is loading into the server
+[  66839437] Sending heartbeat to live-internal.fivem.net:30110
+[  66968969] Connecting: Exilezz
+[  66970000] Queue: Exilezz[steam:11000011a32f1a8] was placed 1/1 in queue
+[  66970000] Queue: Exilezz[steam:11000011a32f1a8] is loading into the server
+[  66972609] Sending heartbeat to live-internal.fivem.net:30110
+[  66995390] Sending heartbeat to live-internal.fivem.net:30110
+[  67118281] Connecting: F-34 Caleb D.
+[  67119312] Queue: F-34 Caleb D.[steam:1100001199e0a02] was placed 1/1 in queue
+[  67119312] Queue: F-34 Caleb D.[steam:1100001199e0a02] is loading into the server
+[  67121969] Sending heartbeat to live-internal.fivem.net:30110
+[  67301984] Sending heartbeat to live-internal.fivem.net:30110
+[  67407812] Connecting: [4B-68]Inferno
+[  67408844] Queue: [4B-68]Inferno[steam:1100001041b8016] was placed 1/1 in queue
+[  67408859] Queue: [4B-68]Inferno[steam:1100001041b8016] is loading into the server
+[  67410453] Sending heartbeat to live-internal.fivem.net:30110
+[  67538547] Connecting: yolomofo24
+[  67539562] Queue: yolomofo24[steam:11000010b5cc522] was placed 1/1 in queue
+[  67539562] Queue: yolomofo24[steam:11000010b5cc522] is loading into the server
+[  67540562] Sending heartbeat to live-internal.fivem.net:30110
+[  67720578] Sending heartbeat to live-internal.fivem.net:30110
+[  67900625] Sending heartbeat to live-internal.fivem.net:30110
+[  67977437] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  67977437] stack traceback:
+[  67977437] 	[C]: in function 'string.lower'
+[  67977437] 	sv.lua:4: in upvalue 'handler'
+[  67977437] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  67977437] stack traceback:
+[  67977437] 	[C]: in function 'error'
+[  67977437] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  67977437] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  67977437] : 
+[  68004187] Connecting: jrgarcia03
+[  68005219] Queue: jrgarcia03[steam:110000117822af6] was placed 1/1 in queue
+[  68005219] Queue: jrgarcia03[steam:110000117822af6] is loading into the server
+[  68006625] Sending heartbeat to live-internal.fivem.net:30110
+[  68055984] Connecting: [HP-85]J. Little
+[  68057031] Queue: [HP-85]J. Little[steam:11000010694d51d] was placed 1/1 in queue
+[  68057031] Queue: [HP-85]J. Little[steam:11000010694d51d] is loading into the server
+[  68060187] Sending heartbeat to live-internal.fivem.net:30110
+[  68102672] Connecting: Snareo
+[  68103687] Queue: Snareo[steam:11000010a1118ac] was placed 1/1 in queue
+[  68103687] Queue: Snareo[steam:11000010a1118ac] is loading into the server
+[  68106281] Sending heartbeat to live-internal.fivem.net:30110
+[  68286328] Sending heartbeat to live-internal.fivem.net:30110
+[  68357578] Connecting: dylan_0123
+[  68358594] Queue: dylan_0123[steam:110000132135d00] was placed 1/1 in queue
+[  68358609] Queue: dylan_0123[steam:110000132135d00] is loading into the server
+[  68375047] Sending heartbeat to live-internal.fivem.net:30110
+[  68382062] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  68382062] stack traceback:
+[  68382062] 	[C]: in function 'string.lower'
+[  68382078] 	sv.lua:4: in upvalue 'handler'
+[  68382078] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  68382078] stack traceback:
+[  68382078] 	[C]: in function 'error'
+[  68382078] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  68382078] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  68382078] : 
+[  68439156] Connecting: Enemy Uav
+[  68440172] Queue: Enemy Uav[steam:11000011a3c277b] was placed 1/1 in queue
+[  68440187] Queue: Enemy Uav[steam:11000011a3c277b] is loading into the server
+[  68442875] Sending heartbeat to live-internal.fivem.net:30110
+[  68581234] Sending heartbeat to live-internal.fivem.net:30110
+[  68656890] Connecting: clayton b
+[  68657937] Queue: clayton b[steam:110000133d96c8a] was placed 1/1 in queue
+[  68657953] Queue: clayton b[steam:110000133d96c8a] is loading into the server
+[  68660890] Sending heartbeat to live-internal.fivem.net:30110
+[  68683187] Sending heartbeat to live-internal.fivem.net:30110
+[  68863219] Sending heartbeat to live-internal.fivem.net:30110
+[  68864578] Connecting: Young
+[  68865578] Queue: Young[steam:1100001089fd5d9] was placed 1/1 in queue
+[  68865594] Queue: Young[steam:1100001089fd5d9] is loading into the server
+[  68866687] Sending heartbeat to live-internal.fivem.net:30110
+[  69046734] Sending heartbeat to live-internal.fivem.net:30110
+[  69101344] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69101344] stack traceback:
+[  69101344] 	[C]: in function 'string.lower'
+[  69101344] 	sv.lua:4: in upvalue 'handler'
+[  69101344] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69101344] stack traceback:
+[  69101344] 	[C]: in function 'error'
+[  69101344] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69101344] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69101344] : 
+[  69226781] Sending heartbeat to live-internal.fivem.net:30110
+[  69286547] Command Processed by: C. Johnson: '/trunk'
+[  69296609] Connecting: REACTOR17
+[  69297656] Queue: REACTOR17[steam:11000010f574cac] was placed 1/1 in queue
+[  69297656] Queue: REACTOR17[steam:11000010f574cac] is loading into the server
+[  69299515] Sending heartbeat to live-internal.fivem.net:30110
+[  69345500] Command Processed by: Enemy Uav: '/trunk'
+[  69368312] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69368312] stack traceback:
+[  69368312] 	[C]: in function 'string.lower'
+[  69368312] 	sv.lua:4: in upvalue 'handler'
+[  69368312] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69368312] stack traceback:
+[  69368312] 	[C]: in function 'error'
+[  69368312] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69368312] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69368312] : 
+[  69384797] Command Processed by: REACTOR17: '/dutyos'
+[  69388234] Command Processed by: REACTOR17: '/dutyoc'
+[  69473515] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69473515] stack traceback:
+[  69473515] 	[C]: in function 'string.lower'
+[  69473515] 	sv.lua:4: in upvalue 'handler'
+[  69473515] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69473515] stack traceback:
+[  69473515] 	[C]: in function 'error'
+[  69473515] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69473515] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69473515] : 
+[  69479562] Sending heartbeat to live-internal.fivem.net:30110
+[  69485719] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69485719] stack traceback:
+[  69485719] 	[C]: in function 'string.lower'
+[  69485719] 	sv.lua:4: in upvalue 'handler'
+[  69485719] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69485719] stack traceback:
+[  69485719] 	[C]: in function 'error'
+[  69485719] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69485719] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69485719] : 
+[  69528094] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69528094] stack traceback:
+[  69528094] 	[C]: in function 'string.lower'
+[  69528094] 	sv.lua:4: in upvalue 'handler'
+[  69528094] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69528094] stack traceback:
+[  69528094] 	[C]: in function 'error'
+[  69528094] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69528094] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69528094] : 
+[  69543765] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69543765] stack traceback:
+[  69543765] 	[C]: in function 'string.lower'
+[  69543765] 	sv.lua:4: in upvalue 'handler'
+[  69543765] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69543765] stack traceback:
+[  69543765] 	[C]: in function 'error'
+[  69543765] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69543765] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69543781] : 
+[  69604875] Connecting: vRIT
+[  69659594] Sending heartbeat to live-internal.fivem.net:30110
+[  69720094] Connecting: Vrit
+[  69721125] Queue: Vrit[steam:11000011799960b] was placed 1/1 in queue
+[  69721140] Queue: Vrit[steam:11000011799960b] is loading into the server
+[  69726000] Sending heartbeat to live-internal.fivem.net:30110
+[  69830484] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69830484] stack traceback:
+[  69830484] 	[C]: in function 'string.lower'
+[  69830484] 	sv.lua:4: in upvalue 'handler'
+[  69830484] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69830484] stack traceback:
+[  69830484] 	[C]: in function 'error'
+[  69830484] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69830484] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69830484] : 
+[  69843719] Command Processed by: Vrit: '/duty'
+[  69844734] Command Processed by: F-34 Caleb D.: '/crouch'
+[  69847500] Command Processed by: Vrit: '/duty'
+[  69901875] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69901875] stack traceback:
+[  69901875] 	[C]: in function 'string.lower'
+[  69901875] 	sv.lua:4: in upvalue 'handler'
+[  69901875] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69901875] stack traceback:
+[  69901875] 	[C]: in function 'error'
+[  69901875] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69901875] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69901875] : 
+[  69906047] Sending heartbeat to live-internal.fivem.net:30110
+[  69950640] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69950640] stack traceback:
+[  69950640] 	[C]: in function 'string.lower'
+[  69950640] 	sv.lua:4: in upvalue 'handler'
+[  69950640] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69950640] stack traceback:
+[  69950640] 	[C]: in function 'error'
+[  69950640] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69950640] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69950640] : 
+[  69969406] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69969406] stack traceback:
+[  69969406] 	[C]: in function 'string.lower'
+[  69969406] 	sv.lua:4: in upvalue 'handler'
+[  69969406] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69969406] stack traceback:
+[  69969406] 	[C]: in function 'error'
+[  69969406] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69969406] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69969406] : 
+[  69996562] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  69996562] stack traceback:
+[  69996562] 	[C]: in function 'string.lower'
+[  69996562] 	sv.lua:4: in upvalue 'handler'
+[  69996562] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  69996562] stack traceback:
+[  69996562] 	[C]: in function 'error'
+[  69996562] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  69996562] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  69996562] : 
+[  70024719] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  70024719] stack traceback:
+[  70024719] 	[C]: in function 'string.lower'
+[  70024719] 	sv.lua:4: in upvalue 'handler'
+[  70024719] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  70024719] stack traceback:
+[  70024719] 	[C]: in function 'error'
+[  70024719] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  70024719] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  70024719] : 
+[  70086062] Sending heartbeat to live-internal.fivem.net:30110
+[  70129469] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  70129469] stack traceback:
+[  70129469] 	[C]: in function 'string.lower'
+[  70129469] 	sv.lua:4: in upvalue 'handler'
+[  70129469] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  70129469] stack traceback:
+[  70129469] 	[C]: in function 'error'
+[  70129469] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  70129469] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  70129469] : 
+[  70200562] Sending heartbeat to live-internal.fivem.net:30110
+[  70221797] Sending heartbeat to live-internal.fivem.net:30110
+[  70401859] Sending heartbeat to live-internal.fivem.net:30110
+[  70581890] Sending heartbeat to live-internal.fivem.net:30110
+[  70761937] Sending heartbeat to live-internal.fivem.net:30110
+[  70941937] Sending heartbeat to live-internal.fivem.net:30110
+[  70960906] Connecting: Brandon B. 2L-232
+[  70961937] Queue: Brandon B. 2L-232[steam:110000114447c67] was placed 1/1 in queue
+[  70961953] Queue: Brandon B. 2L-232[steam:110000114447c67] is loading into the server
+[  70962922] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  70962922] stack traceback:
+[  70962922] 	[C]: in function 'string.lower'
+[  70962922] 	sv.lua:4: in upvalue 'handler'
+[  70962922] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  70962922] stack traceback:
+[  70962922] 	[C]: in function 'error'
+[  70962922] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  70962922] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  70962937] : 
+[  70965812] Sending heartbeat to live-internal.fivem.net:30110
+[  70967500] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  70967500] stack traceback:
+[  70967500] 	[C]: in function 'string.lower'
+[  70967500] 	sv.lua:4: in upvalue 'handler'
+[  70967500] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  70967500] stack traceback:
+[  70967500] 	[C]: in function 'error'
+[  70967500] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  70967500] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  70967500] : 
+[  71039187] Error running system event handling function for resource emotes: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: sv.lua:4: bad argument #1 to 'lower' (string expected, got nil)
+[  71039187] stack traceback:
+[  71039187] 	[C]: in function 'string.lower'
+[  71039187] 	sv.lua:4: in upvalue 'handler'
+[  71039187] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  71039187] stack traceback:
+[  71039187] 	[C]: in function 'error'
+[  71039187] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  71039187] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  71039187] : 
+[  71145844] Sending heartbeat to live-internal.fivem.net:30110
+[  71179609] Sending heartbeat to live-internal.fivem.net:30110
+[  71207094] Received a vouch for jrgarcia03, they have 2 vouches and need 7.
+[  71207375] Received a vouch for jrgarcia03, they have 3 vouches and need 7.
+[  71207406] Received a vouch for jrgarcia03, they have 4 vouches and need 7.
+[  71207406] Received a vouch for jrgarcia03, they have 5 vouches and need 7.
+[  71207422] Received a vouch for jrgarcia03, they have 6 vouches and need 7.
+[  71207422] Received a vouch for jrgarcia03, they have 7 vouches and need 7.
+[  71207422] jrgarcia03 is the new arbitrator, with an overwhelming 7 vote/s.
+[  71207437] Got a late vouch for jrgarcia03 - they're the current arbitrator!
+[  71207453] Got a late vouch for jrgarcia03 - they're the current arbitrator!
+[  71207453] Got a late vouch for jrgarcia03 - they're the current arbitrator!
+[  71207469] Got a late vouch for jrgarcia03 - they're the current arbitrator!
+[  71211344] Sending heartbeat to live-internal.fivem.net:30110
+[  71212609] Connecting: [HP-20] Sam Johansen
+[  71213656] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] was placed 1/1 in queue
+[  71213656] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] is loading into the server
+[  71214656] Sending heartbeat to live-internal.fivem.net:30110
+[  71322250] Sending heartbeat to live-internal.fivem.net:30110
+[  71346672] Connecting: [HP-20] Sam Johansen
+[  71347703] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] was placed 1/1 in queue
+[  71347719] Queue: [HP-20] Sam Johansen[steam:110000113061ea2] is loading into the server
+[  71348672] Sending heartbeat to live-internal.fivem.net:30110
+[  71528703] Sending heartbeat to live-internal.fivem.net:30110
+[  71708750] Sending heartbeat to live-internal.fivem.net:30110
+[  71888765] Sending heartbeat to live-internal.fivem.net:30110
+[  71931469] Sending heartbeat to live-internal.fivem.net:30110
+[  72111500] Sending heartbeat to live-internal.fivem.net:30110
+[  72291531] Sending heartbeat to live-internal.fivem.net:30110
+[  72341000] Connecting: F-34 Caleb D.
+[  72342031] Queue: F-34 Caleb D.[steam:1100001199e0a02] was placed 1/1 in queue
+[  72342031] Queue: F-34 Caleb D.[steam:1100001199e0a02] is loading into the server
+[  72344140] Sending heartbeat to live-internal.fivem.net:30110
+[  72524187] Sending heartbeat to live-internal.fivem.net:30110
