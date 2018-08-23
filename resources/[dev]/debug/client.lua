@@ -24,8 +24,8 @@ AddEventHandler("hud:enabledebug",function()
 end)
 
 RegisterCommand("debug", function(source, args, rawCommand)
-	Citizen.Wait(5000)
-    TriggerEvent("hud:enabledebug") 
+	Citizen.Wait(2000)
+    TriggerEvent("hud:enabledebug")
 end, false)
 
 local inFreeze = false
@@ -49,7 +49,7 @@ end
 function DrawText3Ds(x,y,z, text)
     local onScreen,_x,_y=World3dToScreen2d(x,y,z)
     local px,py,pz=table.unpack(GetGameplayCamCoords())
-    
+
     SetTextScale(0.35, 0.35)
     SetTextFont(4)
     SetTextProportional(1)
@@ -176,22 +176,22 @@ end
 
 Citizen.CreateThread( function()
 
-    while true do 
-        
+    while true do
+
         Citizen.Wait(1)
-        
+
         if dickheaddebug then
             local pos = GetEntityCoords(GetPlayerPed(-1))
 
             local forPos = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 0, 1.0, 0.0)
             local backPos = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 0, -1.0, 0.0)
             local LPos = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 1.0, 0.0, 0.0)
-            local RPos = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), -1.0, 0.0, 0.0) 
+            local RPos = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), -1.0, 0.0, 0.0)
 
             local forPos2 = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 0, 2.0, 0.0)
             local backPos2 = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 0, -2.0, 0.0)
             local LPos2 = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), 2.0, 0.0, 0.0)
-            local RPos2 = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), -2.0, 0.0, 0.0)    
+            local RPos2 = GetOffsetFromEntityInWorldCoords(GetPlayerPed(-1), -2.0, 0.0, 0.0)
 
             local x, y, z = table.unpack(GetEntityCoords(GetPlayerPed(-1), true))
             local currentStreetHash, intersectStreetHash = GetStreetNameAtCoord(x, y, z, currentStreetHash, intersectStreetHash)
@@ -206,19 +206,19 @@ Citizen.CreateThread( function()
             drawTxt(0.8, 0.62, 0.4,0.4,0.30, "Speed: " .. GetEntitySpeed(GetPlayerPed(-1)), 55, 155, 55, 255)
             drawTxt(0.8, 0.64, 0.4,0.4,0.30, "Frame Time: " .. GetFrameTime(), 55, 155, 55, 255)
             drawTxt(0.8, 0.66, 0.4,0.4,0.30, "Street: " .. currentStreetName, 55, 155, 55, 255)
-            
-            
+
+
             DrawLine(pos,forPos, 255,0,0,115)
             DrawLine(pos,backPos, 255,0,0,115)
 
             DrawLine(pos,LPos, 255,255,0,115)
-            DrawLine(pos,RPos, 255,255,0,115)           
+            DrawLine(pos,RPos, 255,255,0,115)
 
             DrawLine(forPos,forPos2, 255,0,255,115)
             DrawLine(backPos,backPos2, 255,0,255,115)
 
             DrawLine(LPos,LPos2, 255,255,255,115)
-            DrawLine(RPos,RPos2, 255,255,255,115)     
+            DrawLine(RPos,RPos2, 255,255,255,115)
 
             local nearped = getNPC()
 
@@ -229,20 +229,20 @@ Citizen.CreateThread( function()
             if IsControlJustReleased(0, 38) then
                 if inFreeze then
                     inFreeze = false
-                    TriggerEvent("DoShortHudText",'Freeze Disabled',3)          
+                    TriggerEvent("DoShortHudText",'Freeze Disabled',3)
                 else
-                    inFreeze = true             
-                    TriggerEvent("DoShortHudText",'Freeze Enabled',3)               
+                    inFreeze = true
+                    TriggerEvent("DoShortHudText",'Freeze Enabled',3)
                 end
             end
 
             if IsControlJustReleased(0, 47) then
                 if lowGrav then
                     lowGrav = false
-                    TriggerEvent("DoShortHudText",'Low Grav Disabled',3)            
+                    TriggerEvent("DoShortHudText",'Low Grav Disabled',3)
                 else
-                    lowGrav = true              
-                    TriggerEvent("DoShortHudText",'Low Grav Enabled',3)                 
+                    lowGrav = true
+                    TriggerEvent("DoShortHudText",'Low Grav Enabled',3)
                 end
             end
 
