@@ -1,0 +1,12 @@
+PriorityPlayers:  # List of players with a custom priority value (Anyone not in this list will default to Priority = 100)
+
+
+    - SteamId:  1100001056a8b25 # Young
+      Priority: 0  # Lower number == higher priority
+
+    - SteamId:  1100001056a8b13
+      Priority: 50
+
+DisconnectGrace: 180   # In Seconds (Default = 3 minutes (60 x 3) )
+QueueWhenNotFull: true   # true/false (Default = true)
+ConnectionTimeout: 120   # In Seconds (Default = 120)
