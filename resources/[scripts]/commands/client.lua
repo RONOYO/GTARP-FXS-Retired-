@@ -2,7 +2,7 @@
 
 --credit goes to Kanersps and Lowheartrate.
 local zones = { ['AIRP'] = "Los Santos International Airport", ['ALAMO'] = "Alamo Sea", ['ALTA'] = "Alta", ['ARMYB'] = "Fort Zancudo", ['BANHAMC'] = "Banham Canyon Dr", ['BANNING'] = "Banning", ['BEACH'] = "Vespucci Beach", ['BHAMCA'] = "Banham Canyon", ['BRADP'] = "Braddock Pass", ['BRADT'] = "Braddock Tunnel", ['BURTON'] = "Burton", ['CALAFB'] = "Calafia Bridge", ['CANNY'] = "Raton Canyon", ['CCREAK'] = "Cassidy Creek", ['CHAMH'] = "Chamberlain Hills", ['CHIL'] = "Vinewood Hills", ['CHU'] = "Chumash", ['CMSW'] = "Chiliad Mountain State Wilderness", ['CYPRE'] = "Cypress Flats", ['DAVIS'] = "Davis", ['DELBE'] = "Del Perro Beach", ['DELPE'] = "Del Perro", ['DELSOL'] = "La Puerta", ['DESRT'] = "Grand Senora Desert", ['DOWNT'] = "Downtown", ['DTVINE'] = "Downtown Vinewood", ['EAST_V'] = "East Vinewood", ['EBURO'] = "El Burro Heights", ['ELGORL'] = "El Gordo Lighthouse", ['ELYSIAN'] = "Elysian Island", ['GALFISH'] = "Galilee", ['GOLF'] = "GWC and Golfing Society", ['GRAPES'] = "Grapeseed", ['GREATC'] = "Great Chaparral", ['HARMO'] = "Harmony", ['HAWICK'] = "Hawick", ['HORS'] = "Vinewood Racetrack", ['HUMLAB'] = "Humane Labs and Research", ['JAIL'] = "Bolingbroke Penitentiary", ['KOREAT'] = "Little Seoul", ['LACT'] = "Land Act Reservoir", ['LAGO'] = "Lago Zancudo", ['LDAM'] = "Land Act Dam", ['LEGSQU'] = "Legion Square", ['LMESA'] = "La Mesa", ['LOSPUER'] = "La Puerta", ['MIRR'] = "Mirror Park", ['MORN'] = "Morningwood", ['MOVIE'] = "Richards Majestic", ['MTCHIL'] = "Mount Chiliad", ['MTGORDO'] = "Mount Gordo", ['MTJOSE'] = "Mount Josiah", ['MURRI'] = "Murrieta Heights", ['NCHU'] = "North Chumash", ['NOOSE'] = "N.O.O.S.E", ['OCEANA'] = "Pacific Ocean", ['PALCOV'] = "Paleto Cove", ['PALETO'] = "Paleto Bay", ['PALFOR'] = "Paleto Forest", ['PALHIGH'] = "Palomino Highlands", ['PALMPOW'] = "Palmer-Taylor Power Station", ['PBLUFF'] = "Pacific Bluffs", ['PBOX'] = "Pillbox Hill", ['PROCOB'] = "Procopio Beach", ['RANCHO'] = "Rancho", ['RGLEN'] = "Richman Glen", ['RICHM'] = "Richman", ['ROCKF'] = "Rockford Hills", ['RTRAK'] = "Redwood Lights Track", ['SANAND'] = "San Andreas", ['SANCHIA'] = "San Chianski Mountain Range", ['SANDY'] = "Sandy Shores", ['SKID'] = "Mission Row", ['SLAB'] = "Stab City", ['STAD'] = "Maze Bank Arena", ['STRAW'] = "Strawberry", ['TATAMO'] = "Tataviam Mountains", ['TERMINA'] = "Terminal", ['TEXTI'] = "Textile City", ['TONGVAH'] = "Tongva Hills", ['TONGVAV'] = "Tongva Valley", ['VCANA'] = "Vespucci Canals", ['VESP'] = "Vespucci", ['VINE'] = "Vinewood", ['WINDF'] = "Ron Alternates Wind Farm", ['WVINE'] = "West Vinewood", ['ZANCUDO'] = "Zancudo River", ['ZP_ORT'] = "Port of South Los Santos", ['ZQ_UAR'] = "Davis Quartz" }
-local directions = { [0] = 'North', [45] = 'NW', [90] = 'West', [135] = 'SW', [180] = 'South', [225] = 'SE', [270] = 'East', [315] = 'NE', [360] = 'North', } 
+local directions = { [0] = 'North', [45] = 'NW', [90] = 'West', [135] = 'SW', [180] = 'South', [225] = 'SE', [270] = 'East', [315] = 'NE', [360] = 'North', }
 
 Citizen.CreateThread(function()
 	while true do
@@ -39,8 +39,8 @@ AddEventHandler('PanicLocation', function()
 	TriggerEvent('getLocation')
 			if DoesBlipExist(blip) then
 				RemoveBlip(blip)
-			end	
-		
+			end
+
 		TriggerServerEvent('chatEvent', "^1^*PANIC:^r^7 " .. myname .. " has pressed their panic button at " .. street .. " (" .. current_zone .. ")")
 		--[[blip = AddBlipForCoord(pos.x, pos.y, pos.z)
 		SetBlipRoute(blip, 1)
@@ -51,52 +51,52 @@ AddEventHandler('PanicLocation', function()
 		RemoveBlip(blip)]]--
 end)
 
--- Register a network event 
+-- Register a network event
 RegisterNetEvent( 'wk:deleteVehicle' )
 
 -- The distance to check in front of the player for a vehicle
--- Distance is in GTA units, which are quite big  
+-- Distance is in GTA units, which are quite big
 local distanceToCheck = 5.0
 
--- Add an event handler for the deleteVehicle event. 
+-- Add an event handler for the deleteVehicle event.
 -- Gets called when a user types in /dv in chat (see server.lua)
 AddEventHandler( 'wk:deleteVehicle', function()
     local ped = GetPlayerPed( -1 )
 
-    if ( DoesEntityExist( ped ) and not IsEntityDead( ped ) ) then 
+    if ( DoesEntityExist( ped ) and not IsEntityDead( ped ) ) then
         local pos = GetEntityCoords( ped )
 
-        if ( IsPedSittingInAnyVehicle( ped ) ) then 
+        if ( IsPedSittingInAnyVehicle( ped ) ) then
             local vehicle = GetVehiclePedIsIn( ped, false )
 
-            if ( GetPedInVehicleSeat( vehicle, -1 ) == ped ) then 
+            if ( GetPedInVehicleSeat( vehicle, -1 ) == ped ) then
                 SetEntityAsMissionEntity( vehicle, true, true )
                 deleteCar( vehicle )
 
-                if ( DoesEntityExist( vehicle ) ) then 
+                if ( DoesEntityExist( vehicle ) ) then
                 	TriggerEvent("pNotify:SendNotification", {text = "Unable to Delete Vehicle", layout = "topRight", timeout = 2000, type = "info", progressBar = false})
-                else 
+                else
                 	TriggerEvent("pNotify:SendNotification", {text = "Vehicle Deleted", layout = "topRight", timeout = 2000, type = "info", progressBar = false})
-                end 
-            else 
-            
-            end 
+                end
+            else
+
+            end
         else
             local playerPos = GetEntityCoords( ped, 1 )
             local inFrontOfPlayer = GetOffsetFromEntityInWorldCoords( ped, 0.0, distanceToCheck, 0.0 )
             local vehicle = GetVehicleInDirection( playerPos, inFrontOfPlayer )
 
-            if ( DoesEntityExist( vehicle ) ) then 
+            if ( DoesEntityExist( vehicle ) ) then
                 SetEntityAsMissionEntity( vehicle, true, true )
                 deleteCar( vehicle )
 
-                if ( DoesEntityExist( vehicle ) ) then 
-                else 
-                end 
-            else 
-            end 
-        end 
-    end 
+                if ( DoesEntityExist( vehicle ) ) then
+                else
+                end
+            else
+            end
+        end
+    end
 end )
 
 -- Delete car function borrowed frtom Mr.Scammer's model blacklist, thanks to him!
@@ -112,7 +112,7 @@ function GetVehicleInDirection( coordFrom, coordTo )
     return vehicle
 end
 
--- Shows a notification on the player's screen 
+-- Shows a notification on the player's screen
 function ShowNotification( text )
     SetNotificationTextEntry( "STRING" )
     AddTextComponentString( text )
@@ -122,40 +122,40 @@ end
 AddEventHandler( 'wk:deleteVehicle2', function()
     local ped = GetPlayerPed( -1 )
 
-    if ( DoesEntityExist( ped ) and not IsEntityDead( ped ) ) then 
+    if ( DoesEntityExist( ped ) and not IsEntityDead( ped ) ) then
         local pos = GetEntityCoords( ped )
 
-        if ( IsPedSittingInAnyVehicle( ped ) ) then 
+        if ( IsPedSittingInAnyVehicle( ped ) ) then
             local vehicle = GetVehiclePedIsIn( ped, false )
 
-            if ( GetPedInVehicleSeat( vehicle, -1 ) == ped ) then 
+            if ( GetPedInVehicleSeat( vehicle, -1 ) == ped ) then
                 SetEntityAsMissionEntity( vehicle, true, true )
                 deleteCar( vehicle )
 
-                if ( DoesEntityExist( vehicle ) ) then 
+                if ( DoesEntityExist( vehicle ) ) then
 
-                else 
+                else
                     TriggerServerEvent('chatEvent', "^1^*IMPOUND:^r^7 [" .. NetworkPlayerGetName(PlayerId()) .. "] has impounded a vehicle")
-                end 
-            else 
-            
-            end 
+                end
+            else
+
+            end
         else
             local playerPos = GetEntityCoords( ped, 1 )
             local inFrontOfPlayer = GetOffsetFromEntityInWorldCoords( ped, 0.0, distanceToCheck, 0.0 )
             local vehicle = GetVehicleInDirection( playerPos, inFrontOfPlayer )
 
-            if ( DoesEntityExist( vehicle ) ) then 
+            if ( DoesEntityExist( vehicle ) ) then
                 SetEntityAsMissionEntity( vehicle, true, true )
                 deleteCar( vehicle )
 
-                if ( DoesEntityExist( vehicle ) ) then 
-                else 
-                end 
-            else 
-            end 
-        end 
-    end 
+                if ( DoesEntityExist( vehicle ) ) then
+                else
+                end
+            else
+            end
+        end
+    end
 end )
 
 -- Delete car function borrowed frtom Mr.Scammer's model blacklist, thanks to him!
@@ -171,7 +171,7 @@ function GetVehicleInDirection( coordFrom, coordTo )
     return vehicle
 end
 
--- Shows a notification on the player's screen 
+-- Shows a notification on the player's screen
 function ShowNotification( text )
     SetNotificationTextEntry( "STRING" )
     AddTextComponentString( text )
@@ -180,16 +180,16 @@ end
 
 
 RegisterCommand("dutyso", function(source, args, rawCommand)
-    sheriff() 
+    sheriff1()
 end, false)
 
 RegisterCommand("dutysp", function(source, args, rawCommand)
-    state() 
+    state()
 end, false)
 
-function sheriff()
-    local model = GetHashKey("s_m_y_sheriff_01")
-    RequestModel(model)
+function sheriff1()
+    local model = GetHashKey("s_m_y_so123_01")
+		RequestModel(model)
     while not HasModelLoaded(model) do
         RequestModel(model)
         Citizen.Wait(0)
@@ -210,8 +210,10 @@ function sheriff()
     GiveWeaponComponentToPed(PlayerPedId(), GetHashKey("WEAPON_COMBATPISTOL"), GetHashKey("COMPONENT_AT_PI_FLSH"))
     -- LongRifles
     GiveWeaponToPed(GetPlayerPed(-1), GetHashKey("WEAPON_PUMPSHOTGUN"), 1000, false)
+    GiveWeaponToPed(GetPlayerPed(-1), GetHashKey("WEAPON_CARBINERIFLE"), 1000, false)
     -- LongRifles Accessories
     GiveWeaponComponentToPed(PlayerPedId(), GetHashKey("WEAPON_PUMPSHOTGUN"), GetHashKey("COMPONENT_AT_AR_FLSH"))
+    GiveWeaponComponentToPed(PlayerPedId(), GetHashKey("WEAPON_CARBINERIFLE"), GetHashKey("COMPONENT_AT_AR_FLSH"))
     -- Set Current Weapon
     SetCurrentPedWeapon(ped, GetHashKey("WEAPON_UNARMED"), true)
 end

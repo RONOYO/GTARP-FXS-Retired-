@@ -2,7 +2,7 @@ body
 {
     margin: 0px;
     padding: 0px;
-    
+
 	background-size: 20%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -25,15 +25,15 @@ body
     width: 100%;
     height: 100%;
 	background-color: #000000;
-	background-image: url(background2.jpg);
+	background-image: url(1.jpg);
     background-size: cover;
-    filter: blur(5px);
+    filter: blur(4px);
     position: fixed;
     left: 0;
     right: 0;
     z-index: 1;
     transform: scale(1.03);
-    transition: all 75s linear;
+    transition: all 150s linear;
     background-position: 0px 0px;
 
     display: block;
@@ -44,7 +44,7 @@ body
     width: 100%;
     height: 100%;
     background-image: url(logo.png);
-    background-size: 15%;
+    background-size: 13%;
     background-position: center;
     background-repeat: no-repeat;
     position: fixed;
@@ -56,7 +56,7 @@ body
 
 .log
 {
-    color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.0);
     position: absolute;
     left: 20px;
     top: 30px;
@@ -108,7 +108,7 @@ body
     text-align: left;
     font-size: 20px;
     position: relative;
-    
+
     /*text-shadow:
     -1px -1px 1px #000,
     1px -1px 1px #000,
@@ -146,7 +146,7 @@ body
     height: 20px;
     border-radius: 3px;
 
-    background-size: 30px 30px;      
+    background-size: 30px 30px;
     background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
     -webkit-animation: animate-stripes 3s linear infinite;
 
@@ -156,45 +156,45 @@ body
     transition-timing-function: ease-out;
 }
 
-.bgcolor-first 
+.bgcolor-first
 {
-    background-color: #ff8132;
+    background-color: #4258ff;
 }
 
-.bgcolor-second 
+.bgcolor-second
 {
-    background-color: #ff751e;
+    background-color: #3149ff;
 }
 
-.bgcolor-third 
+.bgcolor-third
 {
-    background-color: #ff6d11;
+    background-color: #1c36ff;
 }
 
-.bgcolor-fourth 
+.bgcolor-fourth
 {
-    background-color: #ff6707;
+    background-color: #0c28ff;
 }
 
 
-.color-first 
+.color-first
 {
-    color: #ff8132;
+    color: rgba(0,0,0,0);
 }
 
-.color-second 
+.color-second
 {
-    color: #ff751e;
+    color: rgba(0,0,0,0);
 }
 
-.color-third 
+.color-third
 {
-    color: #ff6d11;
+    color: rgba(0,0,0,0);
 }
 
-.color-fourth 
+.color-fourth
 {
-    color: #ff6707;
+    color: rgba(0,0,0,0);
 }
 
 

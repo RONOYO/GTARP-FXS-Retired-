@@ -3,12 +3,12 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <audio autoplay="" id="Loading" loop=""><source src="https://bluelinegaming.net/loadingscreenmusic/musicplayer.php" type="audio/ogg" />
-        <source src="https://bluelinegaming.net/loadingscreenmusic/musicplayer.php" type="audio/ogg">
+        <audio autoplay="" id="Loading" loop=""><source src="http://74.91.126.230/loadingscreenmusic/musique.php" type="audio/ogg" />
+        <source src="http://74.91.126.230/loadingscreenmusic/musique.php" type="audio/ogg">
         </audio>
         <script>
          var vid = document.getElementById("Loading");
-         vid.volume = 0.019
+         vid.volume = 0.021
         </script>
         <div id="background">
         </div>
@@ -36,9 +36,9 @@
 if (!String.format) {
   String.format = function(format) {
     var args = Array.prototype.slice.call(arguments, 1);
-    return format.replace(/{(\d+)}/g, function(match, number) { 
+    return format.replace(/{(\d+)}/g, function(match, number) {
       return typeof args[number] != 'undefined'
-        ? args[number] 
+        ? args[number]
         : match
       ;
     });
