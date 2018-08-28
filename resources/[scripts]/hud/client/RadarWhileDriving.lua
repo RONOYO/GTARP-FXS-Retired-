@@ -5,30 +5,22 @@ local BigMapKeyOnFoot = 44
 -- Change this to change the big map toggle key while in a vehicle (More Controls at http://docs.fivem.net/game-references/controls/)
 local BigMapKeyInVehicle = 131
 -- Change this to false to disable the big map in vehicles
-local BigMapInVehicles = true
+local BigMapInVehicles = false
 -- Change this to false to enable the radar for every passenger
 local OnlyDriver = false
 
-
-
-
--- NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!!
--- NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!!
--- NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!!
--- NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!! NO TOUCHY BELOW!!!
-
-local Hide = false
+local Hide = true
 
 Citizen.CreateThread(function()
     while true do
 		Citizen.Wait(0)
 		BigMapHandle(IsPedInAnyVehicle(PlayerPedId(), true), OnlyDriver and (GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId(), false), -1) == PlayerPedId()))
-		if IsPedInAnyVehicle(PlayerPedId(), true) or IsPedInAnyVehicle(PlayerPedId(), false) then
+		if IsPedInAnyVehicle(PlayerPedId(), true) then
 			if (OnlyDriver and (GetPedInVehicleSeat(GetVehiclePedIsIn(PlayerPedId(), false), -1) == PlayerPedId())) or not OnlyDriver then
 				DisplayRadar(true)
 			end
 		else
-			if not Hide or Hide then
+			if not Hide or IsPedInAnyVehicle(GetPlayerPed(-1), true) then
 				local PlayerHealth = GetEntityHealth(PlayerPedId())
 				local PlayerArmour = GetPedArmour(PlayerPedId())
 				local PlayerStamina = GetPlayerSprintStaminaRemaining(PlayerId())
@@ -38,20 +30,20 @@ Citizen.CreateThread(function()
 				local BackgroundBarH = MM.yunit * 18.0
 				local BarH = BackgroundBarH / 2
 				local BarSpacer = MM.xunit * 3.0
-				local BackgroundBar = {['R'] = 40, ['G'] = 40, ['B'] = 40, ['A'] = 255, ['L'] = 0}
-				
-				local HealthBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
-				local HealthBar = {['R'] = 54, ['G'] = 163, ['B'] = 54, ['A'] = 255, ['L'] = 2}
-				
-				local HealthHitBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255}
-				local HealthHitBar = {['R'] = 224, ['G'] = 50, ['B'] = 50, ['A'] = 175}
-				
-				local ArmourBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 1}
-				local ArmourBar = {['R'] = 37, ['G'] = 141, ['B'] = 194, ['A'] = 255, ['L'] = 2}
-				
-				local AirBaseBar = {['R'] = 67, ['G'] = 106, ['B'] = 130, ['A'] = 175, ['L'] = 1}
-				local AirBar = {['R'] = 174, ['G'] = 219, ['B'] = 242, ['A'] = 175, ['L'] = 2}
-				
+        local BackgroundBar = {['R'] = 40, ['G'] = 40, ['B'] = 40, ['A'] = 255, ['L'] = 9997}
+
+        local HealthBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 9998}
+        local HealthBar = {['R'] = 54, ['G'] = 163, ['B'] = 54, ['A'] = 255, ['L'] = 9999}
+
+        local HealthHitBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255}
+        local HealthHitBar = {['R'] = 224, ['G'] = 50, ['B'] = 50, ['A'] = 175}
+
+        local ArmourBaseBar = {['R'] = 80, ['G'] = 80, ['B'] = 80, ['A'] = 255, ['L'] = 9998}
+        local ArmourBar = {['R'] = 37, ['G'] = 141, ['B'] = 194, ['A'] = 255, ['L'] = 9999}
+
+        local AirBaseBar = {['R'] = 67, ['G'] = 106, ['B'] = 130, ['A'] = 175, ['L'] = 9998}
+        local AirBar = {['R'] = 174, ['G'] = 219, ['B'] = 242, ['A'] = 175, ['L'] = 9999}
+
 				local BackgroundBarW = MM.width
 				local BackgroundBarX = MM.x + (MM.width / 2)
 				_DrawRect(BackgroundBarX, BarY, BackgroundBarW, BackgroundBarH, BackgroundBar.R, BackgroundBar.G, BackgroundBar.B, BackgroundBar.A, BackgroundBar.L)
@@ -67,11 +59,11 @@ Citizen.CreateThread(function()
 				end
 				local HealthBarX = MM.x + (HealthBarW / 2)
 				local HealthBarR, HealthBarG, HealthBarB, HealthBarA = HealthBar.R, HealthBar.G, HealthBar.B, HealthBar.A
-				if PlayerHealth <= 118 or (PlayerStamina >= 90.0 and (IsPedRunning(PlayerPedId()) or IsPedInAnyVehicle(PlayerPedId(), true) or IsPedSprinting(PlayerPedId()))) then
+				if PlayerHealth <= 118 or (PlayerStamina >= 90.0 and (IsPedRunning(PlayerPedId()) or IsPedSprinting(PlayerPedId()))) then
 					HealthBaseBarR, HealthBaseBarG, HealthBaseBarB, HealthBaseBarA = HealthHitBaseBar.R, HealthHitBaseBar.G, HealthHitBaseBar.B, HealthHitBaseBar.A
 					HealthBarR, HealthBarG, HealthBarB, HealthBarA = HealthHitBar.R, HealthHitBar.G, HealthHitBar.B, HealthHitBar.A
 				end
-				
+
 				_DrawRect(HealthBaseBarX, BarY, HealthBaseBarW, BarH, HealthBaseBarR, HealthBaseBarG, HealthBaseBarB, HealthBaseBarA, HealthBaseBar.L)
 				_DrawRect(HealthBarX, BarY, HealthBarW, BarH, HealthBarR, HealthBarG, HealthBarB, HealthBarA, HealthBar.L)
 
@@ -91,7 +83,7 @@ Citizen.CreateThread(function()
 
 					_DrawRect(ArmourBaseBarX, BarY, ArmourBaseBarW, BarH, ArmourBaseBar.R, ArmourBaseBar.G, ArmourBaseBar.B, ArmourBaseBar.A, ArmourBaseBar.L)
 					_DrawRect(ArmourBarX, BarY, ArmourBarW, BarH, ArmourBar.R, ArmourBar.G, ArmourBar.B, ArmourBar.A, ArmourBar.L)
-					
+
 					local AirBaseBarW = (((MM.width / 2) - (BarSpacer / 2)) / 2) - (BarSpacer / 2)
 					local AirBaseBarX = MM.right_x - (AirBaseBarW / 2)
 					local Air = GetPlayerUnderwaterTimeRemaining(PlayerId())
@@ -110,10 +102,10 @@ Citizen.CreateThread(function()
 end)
 
 function BigMapHandle(InVehicle, IsDriver)
-	if UseBigMap and (((IsDriver or not OnlyDriver) and BigMapInVehicles and InVehicle and IsControlPressed(1, BigMapKeyInVehicle)) or (not InVehicle and IsControlPressed(1, BigMapKeyOnFoot))) then
+	if UseBigMap and (((IsDriver or not OnlyDriver or IsPedInAnyVehicle(GetPlayerPed(-1), true)) and BigMapInVehicles and InVehicle and IsControlPressed(1, BigMapKeyInVehicle)) or (not InVehicle and IsControlPressed(1, BigMapKeyOnFoot))) then
 		DisplayRadar(true)
-		SetRadarBigmapEnabled(true, false)	
-		Hide = true
+		SetRadarBigmapEnabled(true, false)
+		Hide = false
 	else
 		if not InVehicle or (InVehicle and OnlyDriver and not IsDriver) then
 			DisplayRadar(false)
@@ -127,4 +119,3 @@ function _DrawRect(X, Y, W, H, R, G, B, A, L)
 	SetUiLayer(L)
 	DrawRect(X, Y, W, H, R, G, B, A)
 end
-
